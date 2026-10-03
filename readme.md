@@ -22,7 +22,9 @@ https://api.tvmaze.com/shows?page={page}
 
 The API provides show information such as name, type, language, genres, status, runtime, dates, rating, network, web channel and schedule.
 
-The API is paginated. The pipeline continues requesting pages until there are no more pages available. The extraction produced **90,233 show records from 379 successful pages**.
+The API is paginated. The pipeline continues requesting pages until there are no more pages available.
+
+During the documented pipeline execution, the extraction produced **90,319 show records from 380 successful pages**.
 
 Each API page is stored separately under:
 
@@ -32,7 +34,38 @@ data/raw/
 
 Keeping the raw JSON files makes the extraction reproducible and preserves the source data used for transformation.
 
-## 3. Database Design
+## 3. Data Snapshot and Source Variability
+
+The TVMaze API is a live external data source. Therefore, the number of
+records and some source attributes may change over time.
+
+The record counts and validation results documented in this README represent
+the data returned by the API during the pipeline execution performed for this
+assignment.
+
+The latest pipeline execution produced the following processed datasets:
+
+| Dataset | Records |
+|---|---:|
+| Shows | 90,319 |
+| Genres | 28 |
+| ShowGenres | 116,758 |
+| Television_Network | 1,457 |
+| WebChannel | 669 |
+| ScheduleDays | 7 |
+| ShowScheduleDays | 126,373 |
+
+These values are a snapshot of the source data at the time of execution and
+should not be treated as permanent totals.
+
+Running the pipeline again at a later time may produce different record
+counts because new shows may be added, existing shows may be updated, or
+source records may change.
+
+The pipeline is therefore designed to process the data available from the
+API at execution time rather than depending on a fixed number of records.
+
+## 4. Database Design
 
 PostgreSQL is used as the target database. The data is divided into seven tables:
 
@@ -48,7 +81,7 @@ PostgreSQL is used as the target database. The data is divided into seven tables
 
 The schedule time is kept directly in `Shows`. Schedule days are stored separately because a show can have more than one schedule day.
 
-## 4. Primary Keys
+## 5. Primary Keys
 
 Primary keys uniquely identify records.
 
@@ -64,7 +97,7 @@ Primary keys uniquely identify records.
 
 The relationship tables use composite primary keys to prevent the same relationship from being inserted more than once.
 
-## 5. Foreign Keys
+## 6. Foreign Keys
 
 Foreign keys maintain valid relationships between tables.
 
@@ -77,7 +110,7 @@ Foreign keys maintain valid relationships between tables.
 
 `web_channel_id` can be NULL because the API does not provide a web channel for every show.
 
-## 6. Relationships
+## 7. Relationships
 
 A network can have many shows, while a show belongs to one network when network information is available.
 
@@ -93,7 +126,7 @@ Television_Network ---< Shows >--- WebChannel
                          +--- ShowScheduleDays >--- ScheduleDays
 ```
 
-## 7. Transformations
+## 8. Transformations
 
 The raw JSON data is processed using Pandas.
 
@@ -128,7 +161,7 @@ schedule_days.csv
 show_schedule_days.csv
 ```
 
-## 8. Business Rules
+## 9. Business Rules
 
 The following rules are applied during transformation and validation:
 
@@ -138,12 +171,39 @@ The following rules are applied during transformation and validation:
 - Runtime values must be positive when available.
 - Average runtime values must be positive when available.
 - Genre count cannot be negative.
-- Schedule IDs must be unique when schedule information exists.
+- Creating stable schedule IDs derived from show IDs when schedule
+  information is available
 - Relationship records must reference existing records.
 - A show can have multiple genres and schedule days.
 - A show does not have to have a web channel.
 
-## 9. Derived Fields
+## 10. Data Quality Findings
+
+The validation step identified **69 records** where the source
+`ended_date` was earlier than the source `premiered_date`.
+
+These records were not automatically corrected because the pipeline should
+not invent or assume replacement source values.
+
+The source values are retained for traceability. For these invalid date
+relationships, the derived `show_duration_days` field is not populated with
+a negative duration.
+
+One example identified during validation was:
+
+- Show: `Cards and Collectibles Australia`
+- Show ID: `87478`
+- Premiered: `2025-06-22`
+- Ended: `0206-08-30`
+
+The raw TVMaze API record contained the `0206-08-30` value, confirming that
+the value originated from the source data rather than being introduced
+during transformation.
+
+These records are therefore treated as source-data quality issues rather
+than transformation errors.
+
+## 11. Derived Fields
 
 Some fields are calculated from the source data.
 
@@ -161,7 +221,7 @@ Indicates whether a show is currently running based on its status and date infor
 
 These fields make the data easier to use for analysis.
 
-## 10. Batch Loading
+## 12. Batch Loading
 
 The processed CSV files are loaded into PostgreSQL in batches of **500 records**.
 
@@ -169,7 +229,7 @@ Batch loading avoids sending the complete dataset in one database operation and 
 
 Tables are loaded in dependency order so that foreign-key constraints are satisfied.
 
-## 11. Transactions
+## 13. Transactions
 
 The database loading process is handled as a transaction.
 
@@ -188,7 +248,7 @@ Commit   Rollback
 
 This prevents the database from being left in a partially loaded state if an error occurs.
 
-## 12. Commit and Rollback
+## 14. Commit and Rollback
 
 When all datasets are loaded successfully, the transaction is committed and the changes are saved.
 
@@ -196,19 +256,21 @@ If an error occurs, the transaction is rolled back.
 
 A rollback test was performed by intentionally attempting to insert the same primary key twice. PostgreSQL rejected the duplicate record, the transaction was rolled back, and the temporary record was confirmed to be absent afterward.
 
-## 13. Idempotency
+## 15. Idempotency
 
-The pipeline is designed to be safely run more than once.
+The pipeline was executed multiple times to verify idempotent loading.
+Repeated execution against the same source snapshot did not create
+unintended duplicate records.
 
-Primary keys, unique constraints and conflict handling are used to prevent unintended duplicates.
+Because TVMaze is a live API, record counts may legitimately change between
+different extraction runs if the source data changes. Therefore, a change in
+row counts between runs does not necessarily indicate a failure of
+idempotency.
 
-- Parent tables use UPSERT operations where updates are required.
-- Relationship tables use `ON CONFLICT DO NOTHING`.
-- Primary and composite keys prevent duplicate records.
+Idempotency in this project refers to preventing unintended duplicate records
+when the same source records are processed repeatedly.
 
-The complete pipeline was run twice. The row counts remained unchanged after the second run, confirming that repeated execution did not create unintended duplicates.
-
-## 14. Failure Scenario
+## 16. Failure Scenario
 
 A controlled failure was tested during database loading.
 
@@ -218,7 +280,7 @@ The error was detected, the transaction was rolled back, and the database was ch
 
 This confirmed that a failed transaction does not leave the test data in the database.
 
-## 15. Assumptions
+## 17. Assumptions
 
 - TVMaze is treated as the source of truth for the extracted show information.
 - API pagination continues until the API indicates that there are no more pages.
@@ -229,7 +291,7 @@ This confirmed that a failed transaction does not leave the test data in the dat
 - PostgreSQL is the final storage layer.
 - The pipeline should be safe to run repeatedly without creating unintended duplicates.
 
-## 16. Running the Pipeline
+## 18. Running the Pipeline
 
 Install the required packages:
 
