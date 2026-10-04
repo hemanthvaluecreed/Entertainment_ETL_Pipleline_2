@@ -21,7 +21,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 78,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -100,18 +100,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/640/1600840.jpg"
       },
       "summary": "<p><b>The Drop</b> follows Wanda and Leon (from the original Snowfall series), who are now fighting to reinvent themselves in '90s Los Angeles, where the fallout from the crack epidemic is fueling a new game: the rise of West Coast rap.</p>",
-      "updated": 1790169796,
+      "updated": 1790781138,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92751"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3713136",
-            "name": "Family Matters"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3713137",
             "name": "The Big Push"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3750196",
+            "name": "Homecoming"
          }
       }
    },
@@ -199,7 +199,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 510,
@@ -369,7 +369,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 84,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -426,7 +426,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 62,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -479,7 +479,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -684,7 +684,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 84,
       "network": {
          "id": 280,
          "name": "tvN",
@@ -972,7 +972,7 @@
       "rating": {
          "average": null
       },
-      "weight": 76,
+      "weight": 78,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -1015,7 +1015,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -1118,7 +1118,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 15,
       "network": {
          "id": 143,
          "name": "Discovery",
@@ -1229,7 +1229,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 7,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -1330,7 +1330,7 @@
       "genres": [],
       "status": "Running",
       "runtime": null,
-      "averageRuntime": 72,
+      "averageRuntime": 73,
       "premiered": "2026-06-26",
       "ended": null,
       "officialSite": "https://www.wowpresentsplus.com/drag-race-mexico-latina-royale",
@@ -1362,18 +1362,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/630/1575400.jpg"
       },
       "summary": "<p><b>Drag Race M\u00e9xico: Latina Royale</b> brings together 11 queens from across Latin America for a glamorous battle for the crown, with Mexico as the season's proud host. Led by Taiga Brava and Lolita Banana, the competition serves up talent, fashion, comedy, music, and delicious telenovela-style rivalry across 10 episodes packed with flavor, spectacle, and drama.</p>",
-      "updated": 1790275979,
+      "updated": 1790886760,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92774"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3765888",
-            "name": "All Will Be Mothers"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3770943",
-            "name": "TBA"
+            "name": "The Best Latina Royale"
          }
       }
    },
@@ -1531,7 +1527,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -1756,7 +1752,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -1851,8 +1847,8 @@
    },
    {
       "id": 92783,
-      "url": "https://www.tvmaze.com/shows/92783/death-penalty",
-      "name": "Death Penalty",
+      "url": "https://www.tvmaze.com/shows/92783/death-is-coming",
+      "name": "Death is Coming",
       "type": "Scripted",
       "language": "Chinese",
       "genres": [
@@ -1871,7 +1867,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -1894,7 +1890,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/630/1575472.jpg"
       },
       "summary": null,
-      "updated": 1782542242,
+      "updated": 1790798001,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92783"
@@ -1982,7 +1978,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 31,
       "network": {
          "id": 85,
          "name": "PBS",
@@ -2038,7 +2034,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": {
          "id": 718,
          "name": "Channel 3",
@@ -2097,7 +2093,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 7,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -2157,7 +2153,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 32,
       "network": null,
       "webChannel": {
          "id": 235,
@@ -2215,7 +2211,7 @@
       "rating": {
          "average": null
       },
-      "weight": 91,
+      "weight": 93,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -2271,7 +2267,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 70,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -2326,7 +2322,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 51,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -2712,7 +2708,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -2766,7 +2762,7 @@
       "rating": {
          "average": null
       },
-      "weight": 63,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -2813,7 +2809,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 87,
       "network": null,
       "webChannel": {
          "id": 51,
@@ -2856,11 +2852,11 @@
       "genres": [
          "Romance"
       ],
-      "status": "Running",
+      "status": "Ended",
       "runtime": 30,
       "averageRuntime": 30,
       "premiered": "2026-08-05",
-      "ended": null,
+      "ended": "2026-09-23",
       "officialSite": "https://sekisuki-drama.jp",
       "schedule": {
          "time": "01:00",
@@ -2871,7 +2867,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 74,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -2894,14 +2890,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/630/1575826.jpg"
       },
       "summary": "<p>Mayama, an ordinary student, receives a love letter from the boy sitting behind him. It turns out to be from Asamiya, the most popular and handsome boy in the class.</p>",
-      "updated": 1789380439,
+      "updated": 1790626682,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92801"
          },
          "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3692445",
-            "name": "Episode 8"
+            "name": "An Unchanging Love"
          }
       }
    },
@@ -2929,7 +2925,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -3015,18 +3011,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/630/1575844.jpg"
       },
       "summary": "<p>The lives of Luna Arteaga and Maya become intertwined in a story of secrets, betrayal, and second chances. Luna, a young music student in Los Angeles, returns to Mexico when her father's illness and a crisis at the family estate force her to confront a past built on lies. Unbeknownst to her, the source of the turmoil is Dalila Mondrag\u00f3n, the woman she has always believed to be her mother.</p><p>Meanwhile, Maya is determined to rebuild her life after escaping an abusive marriage. With the support of Sebasti\u00e1n, a doctor who restores her hope, she begins to dream of a new future. But threats from her ex-husband and long-buried secrets threaten to destroy her happiness.</p><p>When a devastating truth comes to light, both women will find themselves caught in a battle over identity, love, and a disputed inheritance that will change their lives forever.</p>",
-      "updated": 1790361450,
+      "updated": 1790792286,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92803"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3656256",
-            "name": "Cap\u00edtulo 70"
+            "href": "https://api.tvmaze.com/episodes/3656260",
+            "name": "Cap\u00edtulo 74"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3656257",
-            "name": "Cap\u00edtulo 71"
+            "href": "https://api.tvmaze.com/episodes/3656261",
+            "name": "Cap\u00edtulo 75"
          }
       }
    },
@@ -3059,7 +3055,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 52,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -3091,7 +3087,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/630/1575846.jpg"
       },
       "summary": "<p>Sof\u00eda Peralta-Avitia runs her family's powerful business empire while trapped in an unhappymarriage to Gonzalo Balmori-Ricci, a serial cheater obsessed with a much younger woman namedGrecia. Her life takes an unexpected turn when Franco Gallardo, a humble man from thecountryside, becomes her bodyguard. What begins as a professional relationship soon blossomsinto a love strong enough to challenge Gonzalo's ambition, jealousy, and desire for control.Meanwhile, Sof\u00eda's daughter, B\u00e1rbara \"Barbi,\" finds love with her new bodyguard, Salvador \"Chava\"Reyes, a man haunted by a troubled past. But prejudice, family secrets, and long-standing rivalriesthreaten to tear them apart.</p><p>Amid deception, passion, and family conflict, Sof\u00eda and Franco will discover that finding happinessmay require risking everything.</p>",
-      "updated": 1789834372,
+      "updated": 1790834592,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92804"
@@ -3127,7 +3123,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 63,
       "network": null,
       "webChannel": {
          "id": 366,
@@ -3186,7 +3182,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3295,7 +3291,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3568,7 +3564,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 28,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3625,7 +3621,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 38,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3886,7 +3882,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3992,7 +3988,7 @@
       "rating": {
          "average": null
       },
-      "weight": 20,
+      "weight": 36,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -4096,7 +4092,7 @@
       "rating": {
          "average": null
       },
-      "weight": 69,
+      "weight": 68,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -4206,7 +4202,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 45,
       "network": {
          "id": 1279,
          "name": "BLAZE",
@@ -4316,7 +4312,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 135,
@@ -4372,7 +4368,7 @@
       "rating": {
          "average": null
       },
-      "weight": 34,
+      "weight": 75,
       "network": {
          "id": 1706,
          "name": "Sky Crime",
@@ -4607,7 +4603,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 42,
       "network": {
          "id": 1346,
          "name": "Guizhou TV",
@@ -4659,15 +4655,17 @@
       "genres": [
          "Romance"
       ],
-      "status": "In Development",
+      "status": "Ended",
       "runtime": null,
-      "averageRuntime": null,
-      "premiered": null,
-      "ended": null,
+      "averageRuntime": 2,
+      "premiered": "2026-09-30",
+      "ended": "2026-09-30",
       "officialSite": "https://v.qq.com/x/cover/mzc003tpsuywcl2.html",
       "schedule": {
          "time": "12:00",
-         "days": []
+         "days": [
+            "Wednesday"
+         ]
       },
       "rating": {
          "average": null
@@ -4695,10 +4693,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603818.jpg"
       },
       "summary": null,
-      "updated": 1789466819,
+      "updated": 1790803004,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92833"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777291",
+            "name": "Episode 60"
          }
       }
    },
@@ -4786,7 +4788,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -4949,7 +4951,7 @@
          ]
       },
       "rating": {
-         "average": 4.7
+         "average": 4.9
       },
       "weight": 99,
       "network": null,
@@ -4974,7 +4976,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1607536.jpg"
       },
       "summary": "<p>After a high-profile mission goes sideways, Daniel \"Hondo\" Harrelson is pulled out of forced retirement to lead a last-chance experimental S.W.A.T. unit made up of untested, unpredictable young recruits. Hondo must bridge a generational divide, navigate clashing personalities and turn a squad of outsiders into a team capable of protecting the city \u2014 and saving the program that made him who he is.</p>",
-      "updated": 1790370505,
+      "updated": 1790917659,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92838"
@@ -4985,7 +4987,7 @@
          },
          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3657617",
-            "name": "Not One But Two"
+            "name": "Take the Shot"
          }
       }
    },
@@ -5273,17 +5275,16 @@
       "language": "Japanese",
       "genres": [
          "Action",
-         "Anime",
-         "Fantasy"
+         "Anime"
       ],
-      "status": "In Development",
-      "runtime": null,
+      "status": "Running",
+      "runtime": 25,
       "averageRuntime": null,
       "premiered": "2026-09-27",
       "ended": null,
       "officialSite": "https://tempal-anime.net/",
       "schedule": {
-         "time": "",
+         "time": "23:30",
          "days": [
             "Sunday"
          ]
@@ -5291,8 +5292,17 @@
       "rating": {
          "average": null
       },
-      "weight": 92,
-      "network": null,
+      "weight": 95,
+      "network": {
+         "id": 132,
+         "name": "Tokyo MX",
+         "country": {
+            "name": "Japan",
+            "code": "JP",
+            "timezone": "Asia/Tokyo"
+         },
+         "officialSite": null
+      },
       "webChannel": {
          "id": 20,
          "name": "Crunchyroll",
@@ -5306,18 +5316,22 @@
          "imdb": null
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/630/1576428.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576428.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608279.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608279.jpg"
       },
-      "summary": "<p>Shin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for\u2026.</p>",
-      "updated": 1790200232,
+      "summary": "<p>Escape everyday life in SATISFY, a VR game where players earn real-world fame and fortune. One player, Grid, can't seem to catch a break in the game or in real life. That all changes when a challenging quest leads him to becoming the heir to a legendary blacksmith. His stats are reset to zero, but he's leveling up and crafting some seriously god-tier goods.</p>",
+      "updated": 1790756493,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92844"
          },
-         "nextepisode": {
+         "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3765500",
-            "name": "Episode 1"
+            "name": "Legendary Class"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3773271",
+            "name": "Episode 2"
          }
       }
    },
@@ -5403,7 +5417,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -5453,7 +5467,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 366,
@@ -5567,7 +5581,7 @@
       "rating": {
          "average": null
       },
-      "weight": 69,
+      "weight": 75,
       "network": {
          "id": 161,
          "name": "TV Kanagawa",
@@ -5590,14 +5604,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576563.jpg"
       },
       "summary": "<p>Miya is the illegitimate child of a prominent family. When her mother dies and her father's estate agrees to take her in, she's convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being... sweet?! A hilarious and heartfelt comedy that's sure to put a smile on your face!</p>",
-      "updated": 1789769798,
+      "updated": 1790886443,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92850"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3766453",
-            "name": "Memories of Summer"
+            "href": "https://api.tvmaze.com/episodes/3774691",
+            "name": "Dear Mother"
          }
       }
    },
@@ -5628,7 +5642,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 55,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -5688,7 +5702,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 82,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -5734,7 +5748,7 @@
          "Horror",
          "Supernatural"
       ],
-      "status": "Running",
+      "status": "To Be Determined",
       "runtime": 30,
       "averageRuntime": 30,
       "premiered": "2026-07-05",
@@ -5749,7 +5763,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 75,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -5772,16 +5786,12 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576571.jpg"
       },
       "summary": "<p>A nameless man who is six times more afraid of ghosts than the average person gets swept up with the supernatural. The trouble begins when he crosses paths with Mechako, a fearless girl who runs the Kaiki-gumi, an organization that polices the supernatural. Mechako ropes him into helping her revive the organization. Hilariously strange events and spooky shenanigans abound!</p>",
-      "updated": 1789922906,
+      "updated": 1790627510,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92853"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3680141",
-            "name": "Mystery 11"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3680142",
             "name": "Mystery 12"
          }
@@ -5812,7 +5822,7 @@
       "rating": {
          "average": null
       },
-      "weight": 93,
+      "weight": 92,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -5873,7 +5883,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 89,
       "network": {
          "id": 167,
          "name": "AT-X",
@@ -5933,7 +5943,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 57,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6047,7 +6057,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 40,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -6188,7 +6198,7 @@
       "rating": {
          "average": null
       },
-      "weight": 75,
+      "weight": 65,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -6248,7 +6258,7 @@
       "rating": {
          "average": null
       },
-      "weight": 69,
+      "weight": 71,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6305,7 +6315,7 @@
       "rating": {
          "average": null
       },
-      "weight": 83,
+      "weight": 84,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6358,7 +6368,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6668,7 +6678,7 @@
       "type": "Game Show",
       "language": "English",
       "genres": [],
-      "status": "Running",
+      "status": "To Be Determined",
       "runtime": null,
       "averageRuntime": 52,
       "premiered": "2026-09-23",
@@ -6702,18 +6712,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604141.jpg"
       },
       "summary": "<p>In this one-of-a-kind reality competition, lucky players step inside Wonka's Chocolate Factory to face unpredictable games, tests and temptations.</p>",
-      "updated": 1790338014,
+      "updated": 1790796668,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92870"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3658868",
-            "name": "The Great Divide"
-         },
-         "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3658869",
-            "name": "Episode 8"
+            "href": "https://api.tvmaze.com/episodes/3658870",
+            "name": "Wonka Loves A Twist"
          }
       }
    },
@@ -6742,7 +6748,7 @@
       "rating": {
          "average": null
       },
-      "weight": 91,
+      "weight": 93,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6794,7 +6800,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 48,
       "network": {
          "id": 280,
          "name": "tvN",
@@ -6907,7 +6913,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 27,
@@ -6946,11 +6952,11 @@
       "genres": [
          "Romance"
       ],
-      "status": "Running",
+      "status": "Ended",
       "runtime": 23,
       "averageRuntime": 23,
       "premiered": "2026-07-27",
-      "ended": null,
+      "ended": "2026-09-28",
       "officialSite": "https://www.asahi.co.jp/kissato/",
       "schedule": {
          "time": "00:10",
@@ -6961,7 +6967,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 72,
       "network": {
          "id": 245,
          "name": "ABC",
@@ -6993,16 +6999,12 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/631/1579136.jpg"
       },
       "summary": "<p>A detective in his 40s gets along with everyone except his sharp-tongued younger colleague. But when a proposal to find the detective a match comes up, it ends up changing the relationship between the two.</p>",
-      "updated": 1790015307,
+      "updated": 1790594972,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92875"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3761730",
-            "name": "Episode 9"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3769550",
             "name": "Episode 10"
          }
@@ -7028,7 +7030,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -7078,7 +7080,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 52,
       "network": {
          "id": 346,
          "name": "Crime & Investigation",
@@ -7136,7 +7138,7 @@
       "rating": {
          "average": null
       },
-      "weight": 94,
+      "weight": 91,
       "network": {
          "id": 17,
          "name": "STARZ",
@@ -7191,7 +7193,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -7422,27 +7424,29 @@
    },
    {
       "id": 92884,
-      "url": "https://www.tvmaze.com/shows/92884/burn-for-you",
-      "name": "Burn for You",
+      "url": "https://www.tvmaze.com/shows/92884/masked-confession",
+      "name": "Masked Confession",
       "type": "Scripted",
       "language": "Chinese",
       "genres": [
          "Romance"
       ],
-      "status": "In Development",
+      "status": "Ended",
       "runtime": null,
-      "averageRuntime": null,
-      "premiered": null,
-      "ended": null,
+      "averageRuntime": 2,
+      "premiered": "2026-09-29",
+      "ended": "2026-09-29",
       "officialSite": "https://www.iqiyi.com/a_1xzvb35q2wd.html",
       "schedule": {
          "time": "",
-         "days": []
+         "days": [
+            "Tuesday"
+         ]
       },
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -7457,14 +7461,18 @@
          "imdb": null
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/630/1576882.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/630/1576882.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/642/1606519.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606519.jpg"
       },
-      "summary": null,
-      "updated": 1790109911,
+      "summary": "<p>Li Muzhi once had a happy life, but his parents died because of the Ji family, turning his happiness into a bubble. To reclaim what was his, Li Muzhi not only entered the game by becoming the fianc\u00e9 of Ji Xiuyun, the daughter of the Ji family, but also ordered Chen Ran, an orphan girl he had funded, to seduce Ji Xiuyang, the heir of the Ji family, and marry into the family to seize shares. Chen Ran deeply loved Li Muzhi and refused to be a pawn. She pretended to get close to Ji Xiuyang while provoking and manipulating Li Muzhi at every turn. This revenge game spiraled out of control, with Li Muzhi falling step by step, struggling painfully between jealousy, possessiveness, and revenge. Ji Xiuyun gradually uncovered their affair and maliciously targeted Chen Ran. To help Li Muzhi complete his revenge, Chen Ran gladly accepted Ji Xiuyang's marriage proposal. From then on, Li Muzhi realized his feelings and pursued her, and the two entangled and tested each other on the edge of taboo. This pair of lovers, who started with exploitation but grew to cherish each other, went through lies, love, and hatred. Will they part ways or love each other honestly? This story of love and hatred may be left to time.</p>",
+      "updated": 1790857080,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92884"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777189",
+            "name": "Episode 74"
          }
       }
    },
@@ -7542,7 +7550,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -7592,7 +7600,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 28,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -7646,7 +7654,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 28,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -7755,7 +7763,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 24,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -7814,7 +7822,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -7868,7 +7876,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -8018,7 +8026,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -8240,7 +8248,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 15,
       "network": {
          "id": 1749,
          "name": "Sky Nature",
@@ -8296,7 +8304,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -8348,7 +8356,7 @@
       "rating": {
          "average": null
       },
-      "weight": 73,
+      "weight": 77,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -8448,7 +8456,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 32,
       "network": null,
       "webChannel": {
          "id": 401,
@@ -8502,7 +8510,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 96,
+      "weight": 97,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -8668,7 +8676,7 @@
       "rating": {
          "average": null
       },
-      "weight": 60,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 164,
@@ -8725,7 +8733,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 541,
@@ -8837,7 +8845,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 55,
       "network": {
          "id": 1071,
          "name": "MEGA Channel",
@@ -8860,7 +8868,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/630/1577422.jpg"
       },
       "summary": null,
-      "updated": 1783178526,
+      "updated": 1790541998,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92911"
@@ -8996,7 +9004,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 119,
@@ -9055,7 +9063,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 20,
@@ -9103,7 +9111,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -9122,7 +9130,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/631/1577564.jpg"
       },
       "summary": "<p>An Exclusive, insiders look at the hottest residential properties in the Chicagoland market.</p>",
-      "updated": 1789962179,
+      "updated": 1790841360,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92916"
@@ -9130,6 +9138,10 @@
          "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3765167",
             "name": "Landmark or Lawsuit?"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776725",
+            "name": "Is this a Barbie Dream House?"
          }
       }
    },
@@ -9313,7 +9325,7 @@
       "rating": {
          "average": null
       },
-      "weight": 71,
+      "weight": 75,
       "network": {
          "id": 476,
          "name": "YTV",
@@ -9379,7 +9391,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": {
          "id": 481,
          "name": "Beijing TV",
@@ -9546,7 +9558,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 358,
@@ -9664,7 +9676,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -9704,8 +9716,8 @@
    },
    {
       "id": 92927,
-      "url": "https://www.tvmaze.com/shows/92927/strange-junji-itos-strange-stories-for-sleepless-nights",
-      "name": "Strange \u2014 Junji Ito's Strange Stories for Sleepless Nights",
+      "url": "https://www.tvmaze.com/shows/92927/strange-junji-itos-tales-for-sleepless-nights",
+      "name": "Strange: Junji Ito's Tales for Sleepless Nights",
       "type": "Scripted",
       "language": "Japanese",
       "genres": [
@@ -9726,7 +9738,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 68,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -9749,7 +9761,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/631/1577778.jpg"
       },
       "summary": "<p>Live-action anthology TV drama series adapting stories from Junji Ito's \"Masterpiece Collection.\"</p>",
-      "updated": 1790439849,
+      "updated": 1790921170,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92927"
@@ -9782,7 +9794,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": {
          "id": 280,
          "name": "tvN",
@@ -9839,7 +9851,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 28,
       "network": {
          "id": 249,
          "name": "France 3",
@@ -9896,7 +9908,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 24,
       "network": null,
       "webChannel": {
          "id": 337,
@@ -9956,7 +9968,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 491,
@@ -10183,7 +10195,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 24,
       "network": null,
       "webChannel": {
          "id": 358,
@@ -10243,7 +10255,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 31,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -10365,7 +10377,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 28,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -10422,7 +10434,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 3,
       "network": {
          "id": 1290,
          "name": "2+2",
@@ -10480,7 +10492,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 73,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -10536,7 +10548,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -10703,7 +10715,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 651,
@@ -10880,7 +10892,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -10993,7 +11005,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 28,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -11053,7 +11065,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 7,
       "network": {
          "id": 1254,
          "name": "KTV",
@@ -11227,7 +11239,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 24,
       "network": null,
       "webChannel": {
          "id": 356,
@@ -11288,7 +11300,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -11347,7 +11359,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 7,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -11404,7 +11416,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 20,
@@ -11453,7 +11465,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 72,
       "network": null,
       "webChannel": {
          "id": 20,
@@ -11564,7 +11576,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -11624,7 +11636,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -11681,7 +11693,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 123,
          "name": "TV4",
@@ -11799,7 +11811,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 24,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -11851,7 +11863,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 752,
@@ -11966,7 +11978,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 70,
       "network": null,
       "webChannel": {
          "id": 751,
@@ -12080,7 +12092,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 24,
       "network": {
          "id": 308,
          "name": "\u0422\u041d\u0422",
@@ -12245,7 +12257,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 566,
@@ -12366,7 +12378,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -12537,7 +12549,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -12601,7 +12613,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 44,
       "network": {
          "id": 297,
          "name": "CCTV-8",
@@ -12668,7 +12680,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 30,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -12730,7 +12742,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 310,
@@ -12944,7 +12956,7 @@
       "rating": {
          "average": null
       },
-      "weight": 20,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -13050,7 +13062,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 64,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -13069,18 +13081,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/631/1578913.jpg"
       },
       "summary": "<p>Follows Fred, an optimistic everyman trying to do the right thing who somehow creates absolute chaos for himself.</p>",
-      "updated": 1788281520,
+      "updated": 1790890255,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92985"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3691283",
-            "name": "Fred Nailed My Wife in the Pumpkin Patch"
+            "href": "https://api.tvmaze.com/episodes/3723297",
+            "name": "The Voting Sticker Fiasco"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3723297",
-            "name": "Episode 5"
+            "href": "https://api.tvmaze.com/episodes/3778620",
+            "name": "Episode 6"
          }
       }
    },
@@ -13163,7 +13175,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 28,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -13220,7 +13232,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 65,
@@ -13279,7 +13291,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 15,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -13338,7 +13350,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 468,
@@ -13398,7 +13410,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 60,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -13454,7 +13466,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 38,
       "network": {
          "id": 1031,
          "name": "TVNZ 1",
@@ -13512,7 +13524,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 12,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -13566,7 +13578,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 59,
       "network": {
          "id": 236,
          "name": "Oprah Winfrey Network",
@@ -13626,7 +13638,7 @@
       "rating": {
          "average": null
       },
-      "weight": 60,
+      "weight": 55,
       "network": {
          "id": 161,
          "name": "TV Kanagawa",
@@ -13684,7 +13696,7 @@
       "rating": {
          "average": null
       },
-      "weight": 81,
+      "weight": 37,
       "network": null,
       "webChannel": {
          "id": 109,
@@ -13736,7 +13748,7 @@
       "rating": {
          "average": null
       },
-      "weight": 85,
+      "weight": 84,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -13765,12 +13777,12 @@
             "href": "https://api.tvmaze.com/shows/92997"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3734862",
-            "name": "Gateway West"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3734863",
             "name": "Three-State Run"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3767970",
+            "name": "Mother Road Country"
          }
       }
    },
@@ -13852,7 +13864,7 @@
       "rating": {
          "average": null
       },
-      "weight": 69,
+      "weight": 36,
       "network": null,
       "webChannel": {
          "id": 65,

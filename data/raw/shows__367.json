@@ -21,7 +21,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 205,
@@ -75,7 +75,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 356,
@@ -127,7 +127,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 80,
       "network": {
          "id": 59,
          "name": "U&Dave",
@@ -286,7 +286,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -433,7 +433,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 98,
+      "weight": 97,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -489,7 +489,7 @@
       "rating": {
          "average": null
       },
-      "weight": 80,
+      "weight": 90,
       "network": null,
       "webChannel": {
          "id": 310,
@@ -534,7 +534,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 108,
@@ -591,7 +591,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 92,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -641,7 +641,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 12,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -696,7 +696,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 85,
       "network": null,
       "webChannel": {
          "id": 209,
@@ -755,7 +755,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 72,
       "network": null,
       "webChannel": {
          "id": 399,
@@ -861,7 +861,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 301,
@@ -917,7 +917,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 71,
       "network": {
          "id": 548,
          "name": "More4",
@@ -981,7 +981,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 1844,
          "name": "Kapamilya Channel",
@@ -1157,7 +1157,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 245,
@@ -1276,7 +1276,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 46,
       "network": null,
       "webChannel": {
          "id": 399,
@@ -1434,7 +1434,7 @@
       "rating": {
          "average": 9.2
       },
-      "weight": 94,
+      "weight": 93,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -1549,7 +1549,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 20,
@@ -1706,7 +1706,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -1759,7 +1759,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 719,
@@ -1813,7 +1813,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -1868,7 +1868,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 59,
       "network": null,
       "webChannel": {
          "id": 399,
@@ -1918,7 +1918,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -1966,7 +1966,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 55,
       "network": {
          "id": 1734,
          "name": "5Action",
@@ -2025,7 +2025,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 53,
       "network": null,
       "webChannel": {
          "id": 109,
@@ -2195,7 +2195,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 29,
       "network": {
          "id": 390,
          "name": "Rai 1",
@@ -2368,7 +2368,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 461,
@@ -2540,7 +2540,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 10,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -2614,16 +2614,19 @@
          "thetvdb": null,
          "imdb": null
       },
-      "image": null,
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608532.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608532.jpg"
+      },
       "summary": null,
-      "updated": 1789758658,
+      "updated": 1790622263,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91797"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3766805",
-            "name": "\u00ab\u0421\u0432\u043e\u0431\u043e\u0434\u0430, \u0441\u0432\u043e\u0431\u043e\u0434\u0430\u00bb, \u00ab\u0428\u043b\u0430 \u0421\u0430\u0448\u0430\u00bb, \u00ab\u0427\u0443\u043c\u0430\u0447\u0435\u0447\u0430\u044f \u0432\u0435\u0441\u043d\u0430\u00bb, \u00ab\u042f\u0445\u0442\u0430, \u043f\u0430\u0440\u0443\u0441\u00bb, \u00ab\u041b\u044e\u0431\u0438\u0442 \u043d\u0430\u0448 \u043d\u0430\u0440\u043e\u0434\u00bb: \u0445\u0438\u0442\u044b 2011"
+            "href": "https://api.tvmaze.com/episodes/3774572",
+            "name": "\u00ab\u0421\u043e\u0447\u0438\u043d\u044f\u0439 \u043c\u0435\u0447\u0442\u044b\u00bb, \u00ab\u041d\u0435\u0431\u043e \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u043d\u0430\u043c\u00bb, \u00ab\u041a\u043e\u0444\u0435 \u043c\u043e\u0439 \u0434\u0440\u0443\u0433\u00bb, \u00ab\u041d\u0435 \u043d\u0430\u0434\u043e \u0441\u0442\u0435\u0441\u043d\u044f\u0442\u044c\u0441\u044f\u00bb. \u0413\u043b\u0430\u0432\u043d\u044b\u0435 \u0445\u0438\u0442\u044b-2012"
          }
       }
    },
@@ -2701,7 +2704,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 394,
          "name": "Tien",
@@ -2753,7 +2756,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -2808,7 +2811,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 555,
@@ -2864,7 +2867,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 55,
       "network": {
          "id": 452,
          "name": "TVNZ 2",
@@ -2922,7 +2925,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 73,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -3144,7 +3147,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 36,
       "network": {
          "id": 91,
          "name": "NRK1",
@@ -3254,7 +3257,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 36,
       "network": {
          "id": 91,
          "name": "NRK1",
@@ -3422,7 +3425,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 667,
@@ -3535,7 +3538,7 @@
       "rating": {
          "average": null
       },
-      "weight": 92,
+      "weight": 91,
       "network": null,
       "webChannel": {
          "id": 27,
@@ -3637,7 +3640,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 26,
       "network": {
          "id": 426,
          "name": "RTL",
@@ -3876,7 +3879,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -3934,7 +3937,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -4105,7 +4108,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 281,
@@ -4220,7 +4223,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 73,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -4336,7 +4339,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 40,
       "network": null,
       "webChannel": {
          "id": 281,
@@ -4390,7 +4393,7 @@
       "rating": {
          "average": null
       },
-      "weight": 92,
+      "weight": 91,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -4496,7 +4499,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 381,
          "name": "Play",
@@ -4601,7 +4604,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 401,
@@ -4651,7 +4654,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 401,
@@ -4701,7 +4704,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 114,
@@ -4750,7 +4753,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 50,
       "network": null,
       "webChannel": {
          "id": 331,
@@ -4823,14 +4826,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/624/1561878.jpg"
       },
       "summary": "<p>\"Hot Ones\" spin-off series where guests answer questions and play a variation of Beer Pong.</p>",
-      "updated": 1788990604,
+      "updated": 1790710502,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91838"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3752832",
-            "name": "The 'Outer Banks' Cast Plays Hot Ones Wing Pong"
+            "href": "https://api.tvmaze.com/episodes/3775991",
+            "name": "Fuerza Regida Plays Hot Ones Wing Pong"
          }
       }
    },
@@ -4854,7 +4857,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 43,
       "network": {
          "id": 2006,
          "name": "\u041f\u0435\u0440\u0435\u0446",
@@ -4877,7 +4880,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/624/1561863.jpg"
       },
       "summary": "<p>Sometimes we feel like we know more about their lives than we do about our own. Their names are on everyone's lips. They are famous. They are stars. But all stars fade sooner or later. And humans too die. However, the death of a famous person is an event that leaves no one indifferent. They left us in different ways. Some left young, in the prime of their creative powers. Others lived long and fruitful lives. But no matter when they passed, their death is an irreparable loss for the entire country. In its new program, \"How Idols Passed Away,\" DTV will reveal unknown details of the final days of great Russian figures, idols of recent times\u2014outstanding actors and directors, poets and writers, TV presenters, and masters of sport.</p>",
-      "updated": 1790487240,
+      "updated": 1790639406,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91839"
@@ -4908,7 +4911,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 12,
       "network": null,
       "webChannel": {
          "id": 401,
@@ -4960,7 +4963,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -5016,7 +5019,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 59,
       "network": {
          "id": 2013,
          "name": "HGTV",
@@ -5058,19 +5061,22 @@
       "language": "English",
       "genres": [],
       "status": "In Development",
-      "runtime": null,
-      "averageRuntime": null,
-      "premiered": null,
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2026-10-20",
       "ended": null,
-      "officialSite": null,
+      "officialSite": "https://www.bravotv.com/vanderpump-rules-lisa-las-vegas",
       "schedule": {
-         "time": "",
-         "days": []
+         "time": "21:00",
+         "days": [
+            "Tuesday",
+            "Wednesday"
+         ]
       },
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 79,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -5085,15 +5091,19 @@
       "dvdCountry": null,
       "externals": {
          "tvrage": null,
-         "thetvdb": null,
-         "imdb": null
+         "thetvdb": 477817,
+         "imdb": "tt42578597"
       },
       "image": null,
-      "summary": "<p>Lisa Vanderpump has been ruling over the Las Vegas strip for years now, with three hotspot restaurants serving up chic cocktails in her signature whimsical settings. Now, she is expanding her Vegas empire through the opening of her high-profile namesake hotel. In this limited series, we follow the behind-the-scenes dash to make the property worthy of the Vanderpump brand. LVP shares what inspired her newest enterprise and pulls back the curtain on the down-to-the-wire drama. The series will culminate at The Vanderpump Hotel's lavish opening party, with fan-favorite Bravolebrities celebrating the launch.</p>",
-      "updated": 1778545308,
+      "summary": "<p>Lisa Vanderpump has been reigning over the Las Vegas Strip for years now with three hotspot restaurants serving up chic cocktails, over-the-top glamour and her signature brand of whimsy. Once again partnering with Caesars Entertainment, she's betting\u00a0big on her most ambitious Vegas venture yet: a namesake hotel. This isn't just another grand opening; it's Lisa's biggest gamble to date and a chance to cement her legacy. With a to-do list longer than the Strip itself, LVP and her A-Team pull back the curtain on what it really takes to get\u00a0a boutique resort ready for its lavish opening \u2013 and VIP check in \u2013 Vanderpump style.</p><p>In a race against the clock to make the property worthy of the Vanderpump name and\u00a0be ready\u00a0in time for the hotel's grand opening, Lisa is joined by her husband Ken Todd, daughter Pandora Vanderpump Sabo, longtime business partner Nick Alain and a trusted team of collaborators. Longtime friend Kevin Lee is also back in Lisa's orbit after a stint working with one of her rivals.</p><p>The down-to-the-wire drama wouldn't be complete without some SURvers\u00a0lending\u00a0a helping hand. Natalie Maguire, Venus Binkley, Chris Hahn, Angelica Jensen, Marcus Johnson, and Audrey Lingle take a road trip in support of Lisa.</p>",
+      "updated": 1790728218,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91844"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776584",
+            "name": "Part 1: Vegas? That's Epic, Baby!"
          }
       }
    },
@@ -5174,7 +5184,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 2076,
          "name": "IRIB TV5",
@@ -5234,7 +5244,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 43,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -5350,7 +5360,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 384,
@@ -5501,7 +5511,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -5547,7 +5557,7 @@
       "rating": {
          "average": null
       },
-      "weight": 91,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -5647,7 +5657,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 721,
          "name": "\u041c\u0430\u0442\u0447 \u0422\u0412",
@@ -5842,7 +5852,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -5940,7 +5950,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 10,
       "network": {
          "id": 72,
          "name": "Syndication",
@@ -6245,7 +6255,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -6303,7 +6313,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -6451,7 +6461,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 26,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -6502,7 +6512,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": {
          "id": 2077,
          "name": "Channel J",
@@ -6780,7 +6790,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -6916,7 +6926,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/633/1583659.jpg"
       },
       "summary": "<p>A fresh take on a classic, <b>Restaurant Impossible: Last Call</b> follows acclaimed chef Aar\u00f3n S\u00e1nchez and dynamic Canadian restaurateur Jen Agg\u00a0as they lead the charge to rescue struggling restaurants across North America. This isn't about a quick fix - it's about digging into real problems, adapting to a new and challenging restaurant industry, and finding creative, unexpected solutions tailored to each business. While Jen tackles design and front-of-house issues, Aar\u00f3n gets to work on the culinary side, each assessing exactly what needs to change for the restaurant to thrive. From horrendous Yelp reviews and staff DMs for help to feuding family members, each episode reflects the varying challenges facing today's restaurateurs. Emotions are high, and the stakes are critical as Aar\u00f3n and Jen strategize each location's rescue plan, all while navigating the greater changes happening in an industry being forced to evolve.\u00a0</p>",
-      "updated": 1784781346,
+      "updated": 1790814907,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91879"
@@ -6949,7 +6959,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 10,
       "network": {
          "id": 81,
          "name": "Food Network",
@@ -6998,7 +7008,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 39,
       "network": {
          "id": 81,
          "name": "Food Network",
@@ -7049,7 +7059,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 83,
       "network": {
          "id": 192,
          "name": "HGTV",
@@ -7108,7 +7118,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 91,
       "network": {
          "id": 192,
          "name": "HGTV",
@@ -7131,14 +7141,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/632/1581376.jpg"
       },
       "summary": "<p><b>Roast My Rental</b>, comedian, truth-teller and design enthusiast\u00a0Leslie Jones\u00a0will crash America's worst short-term rentals, whose viral photos of amenities gone wrong, misleading listings and brutally honest reviews have scared guests away. After Leslie's hilarious roast of the property and a no-nonsense reality check, she and her experienced design team led by HGTV star and home renovation expert\u00a0Jasmine Roth will come to the rescue and help the owners clean up the chaos in just 72 hours. They'll fix the flaws, transform the houses into top-tier vacation escapes and give the \u2018roastees' a chance at redemption when the next guests come to stay.\u00a0\u00a0</p>",
-      "updated": 1789806177,
+      "updated": 1790564690,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91883"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3767839",
-            "name": "Glamping Gone Wrong"
+            "href": "https://api.tvmaze.com/episodes/3773297",
+            "name": "Luxury Letdown"
          }
       }
    },
@@ -7166,7 +7176,7 @@
       "rating": {
          "average": null
       },
-      "weight": 92,
+      "weight": 91,
       "network": {
          "id": 192,
          "name": "HGTV",
@@ -7189,18 +7199,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1597878.jpg"
       },
       "summary": "<p><b>A Very Haunted Renovation</b>, will follow six brave renovators and designers who will stay at one of the most haunted houses in America for 31 days with only one mission: completing the renovations.\u00a0</p>",
-      "updated": 1789626221,
+      "updated": 1790597771,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91884"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3765675",
-            "name": "Ghosts in the Gathering Rooms"
+            "href": "https://api.tvmaze.com/episodes/3765676",
+            "name": "Enter if You Dare"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3765676",
-            "name": "A Very Haunted Renovation"
+            "href": "https://api.tvmaze.com/episodes/3765677",
+            "name": "A Game of Haunts"
          }
       }
    },
@@ -7286,7 +7296,7 @@
       "rating": {
          "average": null
       },
-      "weight": 80,
+      "weight": 41,
       "network": {
          "id": 89,
          "name": "Investigation Discovery",
@@ -7344,7 +7354,7 @@
       "rating": {
          "average": null
       },
-      "weight": 88,
+      "weight": 61,
       "network": {
          "id": 192,
          "name": "HGTV",
@@ -7449,7 +7459,7 @@
       "rating": {
          "average": null
       },
-      "weight": 85,
+      "weight": 82,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -7472,7 +7482,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/629/1573162.jpg"
       },
       "summary": "<p><b>Most Extreme Humans </b>follows people from around the globe living with the world's rarest and most remarkable physical conditions. From a Filipino man whose hands have grown so large he wears wristwatches as rings, to Brazil, where the world's smallest married couple have a combined height under six feet, to a 19-year-old in India living with the ultra-rare condition known as \"werewolf syndrome.\" This series examines what everyday life looks like when the world is not built with your body in mind.</p>",
-      "updated": 1790099432,
+      "updated": 1790825804,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91889"
@@ -7507,7 +7517,7 @@
       "rating": {
          "average": null
       },
-      "weight": 81,
+      "weight": 75,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -7555,7 +7565,7 @@
       "averageRuntime": 60,
       "premiered": "2026-08-19",
       "ended": null,
-      "officialSite": "https://www.tlc.com/shows/er-caught-on-camera",
+      "officialSite": "https://www.discoveryplus.com/show/47df662d-6003-4d41-a530-128f15ed5b01",
       "schedule": {
          "time": "21:00",
          "days": [
@@ -7565,7 +7575,7 @@
       "rating": {
          "average": null
       },
-      "weight": 89,
+      "weight": 88,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -7588,18 +7598,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/637/1594272.jpg"
       },
       "summary": "<p>Real patients revisit their most intense ER experiences, combining firsthand interviews with raw footage of the emergency as it happened, while ER doctors break down in real time what happened and why.</p>",
-      "updated": 1790303657,
+      "updated": 1790826126,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91891"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3765185",
-            "name": "Teratoma, Teeth and All"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3765186",
             "name": "Glass Table + No Pants = ER"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3765187",
+            "name": "Episode 8"
          }
       }
    },
@@ -7679,7 +7689,7 @@
       "rating": {
          "average": null
       },
-      "weight": 92,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -7776,7 +7786,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 77,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -7826,7 +7836,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -7869,7 +7879,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 368,
@@ -7983,7 +7993,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 57,
       "network": {
          "id": 201,
          "name": "MS NOW",
@@ -8006,18 +8016,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/640/1601349.jpg"
       },
       "summary": "<p><b>Connect with Jacob Soboroff </b>will be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade,\u00a0<i>Connect</i> will bring viewers closer to the stories shaping the country.\u00a0<i>Connect</i> will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.\u00a0</p>",
-      "updated": 1790455491,
+      "updated": 1790543563,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91899"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3720287",
-            "name": "Episode 31"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3720288",
             "name": "Episode 32"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3720289",
+            "name": "Episode 33"
          }
       }
    },
@@ -8104,7 +8114,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 58,
       "network": {
          "id": 201,
          "name": "MS NOW",
@@ -8127,18 +8137,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/628/1571887.jpg"
       },
       "summary": "<p><b>The Moment with Katy Tur</b> is designed to move beyond the immediate headlines to provide deeper context and understanding of the political and national stories shaping the day.</p>",
-      "updated": 1790375249,
+      "updated": 1790806396,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91901"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3718356",
-            "name": "Episode 73"
+            "href": "https://api.tvmaze.com/episodes/3718359",
+            "name": "Episode 76"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3718357",
-            "name": "Episode 74"
+            "href": "https://api.tvmaze.com/episodes/3718360",
+            "name": "Episode 77"
          }
       }
    },
@@ -8168,7 +8178,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 55,
       "network": {
          "id": 201,
          "name": "MS NOW",
@@ -8191,18 +8201,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1599431.jpg"
       },
       "summary": "<p><b>On the Line with Alicia Menendez</b> moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</p>",
-      "updated": 1790374430,
+      "updated": 1790803454,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91902"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3718377",
-            "name": "Episode 72"
+            "href": "https://api.tvmaze.com/episodes/3718380",
+            "name": "Episode 75"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3718378",
-            "name": "Episode 73"
+            "href": "https://api.tvmaze.com/episodes/3718381",
+            "name": "Episode 76"
          }
       }
    },
@@ -8232,7 +8242,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 52,
       "network": {
          "id": 201,
          "name": "MS NOW",
@@ -8255,18 +8265,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/629/1572501.jpg"
       },
       "summary": "<p><b>Money, Power, Politics with Stephanie Ruhle,</b> utilizing her extensive Wall Street background to analyze the high-stakes intersection of money, power, and politics, Stephanie Ruhle delivers original reporting and hard-hitting interviews on the stories that directly affect Americans' lives. The program focuses on business and political news, featuring the \"Nightcap\" roundtable segment from her previous show, <i>The 11th Hour</i></p>",
-      "updated": 1790346434,
+      "updated": 1790802765,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91903"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3718398",
-            "name": "Episode 72"
+            "href": "https://api.tvmaze.com/episodes/3718402",
+            "name": "Episode 76"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3718399",
-            "name": "Episode 73"
+            "href": "https://api.tvmaze.com/episodes/3718403",
+            "name": "Episode 77"
          }
       }
    },
@@ -8750,7 +8760,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -8837,7 +8847,7 @@
       "genres": [
          "Comedy"
       ],
-      "status": "Running",
+      "status": "To Be Determined",
       "runtime": null,
       "averageRuntime": 32,
       "premiered": "2026-09-24",
@@ -8848,7 +8858,7 @@
          "days": []
       },
       "rating": {
-         "average": 3.3
+         "average": 3.8
       },
       "weight": 97,
       "network": null,
@@ -8869,7 +8879,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1607490.jpg"
       },
       "summary": "<p>They're young, gifted and Black \u2014 and ready for a freshman year they won't forget. Meet the tightest crew at the country's top HBCU.</p>",
-      "updated": 1790513172,
+      "updated": 1790577316,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/91916"
@@ -9066,7 +9076,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 36,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -9220,7 +9230,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -9273,7 +9283,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -9425,7 +9435,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 67,
       "network": {
          "id": 242,
          "name": "National Geographic",
@@ -9579,7 +9589,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -9679,7 +9689,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 36,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -9785,7 +9795,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -9888,7 +9898,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -10047,7 +10057,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -10206,7 +10216,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -10268,7 +10278,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -10383,7 +10393,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 50,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -10618,7 +10628,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -10676,7 +10686,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -10735,7 +10745,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -10795,7 +10805,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -10912,7 +10922,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 36,
       "network": null,
       "webChannel": {
          "id": 208,
@@ -11084,7 +11094,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 30,
       "network": {
          "id": 40,
          "name": "CNN",
@@ -11138,7 +11148,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 58,
       "network": null,
       "webChannel": {
          "id": 12,
@@ -11196,7 +11206,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 20,
       "network": {
          "id": 1095,
          "name": "GMM25",
@@ -11248,7 +11258,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 58,
       "network": {
          "id": 1279,
          "name": "BLAZE",
@@ -11362,7 +11372,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 84,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -11542,7 +11552,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 80,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -11599,7 +11609,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 40,
       "network": null,
       "webChannel": {
          "id": 169,
@@ -11656,7 +11666,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 491,
@@ -11828,7 +11838,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": {
          "id": 1392,
          "name": "Thai PBS",
@@ -11884,7 +11894,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 76,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -12051,7 +12061,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -12208,7 +12218,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 83,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -12258,7 +12268,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 31,
       "network": null,
       "webChannel": {
          "id": 388,
@@ -12312,7 +12322,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -12652,7 +12662,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 47,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -12708,7 +12718,7 @@
       "rating": {
          "average": null
       },
-      "weight": 67,
+      "weight": 78,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -12761,7 +12771,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 24,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -12868,7 +12878,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -12977,7 +12987,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -13084,7 +13094,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 470,
@@ -13142,7 +13152,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -13199,7 +13209,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": {
          "id": 105,
          "name": "Canal+",
@@ -13259,7 +13269,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 12,
       "network": null,
       "webChannel": {
          "id": 51,
@@ -13315,7 +13325,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 299,
          "name": "Sky Uno",
@@ -13374,7 +13384,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 91,
       "network": {
          "id": 280,
          "name": "tvN",

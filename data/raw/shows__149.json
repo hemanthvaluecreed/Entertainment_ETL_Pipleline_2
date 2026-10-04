@@ -21,7 +21,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 31,
       "network": {
          "id": 397,
          "name": "Sat.1",
@@ -79,7 +79,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -134,7 +134,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 56,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -190,7 +190,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 51,
       "network": {
          "id": 262,
          "name": "KBS1",
@@ -249,7 +249,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 36,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -309,7 +309,7 @@
       "rating": {
          "average": null
       },
-      "weight": 33,
+      "weight": 63,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -369,7 +369,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 46,
       "network": {
          "id": 1254,
          "name": "KTV",
@@ -549,7 +549,7 @@
       "rating": {
          "average": null
       },
-      "weight": 73,
+      "weight": 64,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -609,7 +609,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 64,
       "network": {
          "id": 127,
          "name": "SBS",
@@ -670,7 +670,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 58,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -731,7 +731,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 58,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -790,7 +790,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 42,
       "network": {
          "id": 1254,
          "name": "KTV",
@@ -850,7 +850,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 17,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -909,7 +909,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 51,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -969,7 +969,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 42,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -1027,7 +1027,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 75,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -1086,7 +1086,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 26,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -1145,7 +1145,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 51,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -1206,7 +1206,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 51,
       "network": {
          "id": 127,
          "name": "SBS",
@@ -1265,7 +1265,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 58,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -1323,7 +1323,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 43,
       "network": {
          "id": 51,
          "name": "BBC Four",
@@ -1382,7 +1382,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 26,
       "network": {
          "id": 51,
          "name": "BBC Four",
@@ -1439,7 +1439,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 72,
+      "weight": 44,
       "network": {
          "id": 976,
          "name": "TRT1",
@@ -1555,7 +1555,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 51,
       "network": {
          "id": 413,
          "name": "Duna TV",
@@ -1672,7 +1672,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 51,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -1728,7 +1728,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 36,
       "network": {
          "id": 127,
          "name": "SBS",
@@ -1788,7 +1788,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 73,
       "network": {
          "id": 127,
          "name": "SBS",
@@ -1899,7 +1899,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 22,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -1960,7 +1960,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 56,
       "network": {
          "id": 380,
          "name": "\u0421\u0422\u0411",
@@ -2018,7 +2018,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 46,
       "network": {
          "id": 495,
          "name": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439",
@@ -2072,7 +2072,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 63,
+      "weight": 64,
       "network": {
          "id": 1075,
          "name": "\u0426\u0422 \u0421\u0421\u0421\u0420",
@@ -2184,7 +2184,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 17,
       "network": {
          "id": 127,
          "name": "SBS",
@@ -2241,7 +2241,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 42,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -2301,7 +2301,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 31,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -2361,7 +2361,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 36,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -2420,7 +2420,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 42,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -2543,7 +2543,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 60,
       "network": {
          "id": 1611,
          "name": "Asianet",
@@ -2664,7 +2664,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 51,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -2722,7 +2722,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 17,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -2779,7 +2779,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 40,
       "network": {
          "id": 127,
          "name": "SBS",
@@ -2894,7 +2894,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 26,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -3011,7 +3011,7 @@
       "rating": {
          "average": null
       },
-      "weight": 63,
+      "weight": 40,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -3069,7 +3069,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 55,
       "network": {
          "id": 909,
          "name": "CTV Life Channel",
@@ -3128,7 +3128,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 12,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -3245,7 +3245,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 46,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -3305,7 +3305,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 31,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -3362,7 +3362,7 @@
       "rating": {
          "average": null
       },
-      "weight": 63,
+      "weight": 35,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -3424,7 +3424,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 26,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -3591,7 +3591,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 12,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -3646,7 +3646,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 26,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -3704,7 +3704,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 22,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -3764,7 +3764,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 51,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -3822,7 +3822,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 31,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -3882,7 +3882,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 26,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -3941,7 +3941,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 51,
       "network": {
          "id": 158,
          "name": "WOWOW",
@@ -4117,7 +4117,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 36,
       "network": {
          "id": 51,
          "name": "BBC Four",
@@ -4176,7 +4176,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 28,
       "network": {
          "id": 1612,
          "name": "CNN",
@@ -4294,7 +4294,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 42,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -4353,7 +4353,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 60,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -4411,7 +4411,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 56,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -4470,7 +4470,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 51,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -4524,7 +4524,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 76,
+      "weight": 94,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -4580,7 +4580,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 31,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -4636,7 +4636,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 42,
       "network": {
          "id": 925,
          "name": "Makeful",
@@ -4696,7 +4696,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 67,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -4752,7 +4752,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 17,
       "network": {
          "id": 127,
          "name": "SBS",
@@ -4807,7 +4807,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 40,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -4871,7 +4871,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 12,
       "network": {
          "id": 241,
          "name": "TVB",
@@ -5047,7 +5047,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 88,
+      "weight": 89,
       "network": {
          "id": 82,
          "name": "Travel Channel",
@@ -5106,7 +5106,7 @@
       "rating": {
          "average": 5.5
       },
-      "weight": 83,
+      "weight": 45,
       "network": {
          "id": 82,
          "name": "Travel Channel",
@@ -5162,7 +5162,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 80,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -5222,7 +5222,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 40,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -5283,7 +5283,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 51,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -5343,7 +5343,7 @@
       "rating": {
          "average": null
       },
-      "weight": 70,
+      "weight": 55,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -5462,7 +5462,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 22,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -5520,7 +5520,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 46,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -5579,7 +5579,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 31,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -5638,7 +5638,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 72,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -5697,7 +5697,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 22,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -5757,7 +5757,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 67,
       "network": {
          "id": 25,
          "name": "Disney XD",
@@ -5815,7 +5815,7 @@
       "rating": {
          "average": 4.9
       },
-      "weight": 76,
+      "weight": 62,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -5875,7 +5875,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 41,
+      "weight": 70,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -5934,7 +5934,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 22,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6048,7 +6048,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 42,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -6104,7 +6104,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 36,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -6163,7 +6163,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 26,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -6219,7 +6219,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 25,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -6389,7 +6389,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 26,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -6448,7 +6448,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 46,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -6503,7 +6503,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 31,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -6559,7 +6559,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 22,
       "network": {
          "id": 36,
          "name": "CBC",
@@ -6617,7 +6617,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 40,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -6678,7 +6678,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 59,
+      "weight": 75,
       "network": {
          "id": 1570,
          "name": "NHK Eductational TV",
@@ -6737,7 +6737,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 12,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -6796,7 +6796,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 31,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -6856,7 +6856,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 26,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -6914,7 +6914,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 60,
       "network": null,
       "webChannel": {
          "id": 31,
@@ -6970,7 +6970,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 60,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -7089,7 +7089,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 67,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -7146,7 +7146,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 58,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -7206,7 +7206,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 31,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -7262,7 +7262,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 31,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -7320,7 +7320,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 26,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -7379,7 +7379,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 51,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -7437,7 +7437,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 17,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -7496,7 +7496,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 74,
       "network": {
          "id": 50,
          "name": "Hallmark Channel",
@@ -7555,7 +7555,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 60,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -7613,7 +7613,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 56,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -7672,7 +7672,7 @@
       "rating": {
          "average": null
       },
-      "weight": 67,
+      "weight": 53,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -7730,7 +7730,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 65,
       "network": {
          "id": 149,
          "name": "Network 10",
@@ -7884,7 +7884,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 77,
+      "weight": 88,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -7938,7 +7938,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 86,
+      "weight": 95,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -7993,7 +7993,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 26,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -8051,7 +8051,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 43,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -8110,7 +8110,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 51,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -8170,7 +8170,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 42,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -8226,7 +8226,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 55,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -8286,7 +8286,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 28,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -8344,7 +8344,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 36,
       "network": {
          "id": 158,
          "name": "WOWOW",
@@ -8405,7 +8405,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 31,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -8463,7 +8463,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 26,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -8575,7 +8575,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 12,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -8632,7 +8632,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 31,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -8688,7 +8688,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 69,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -8746,7 +8746,7 @@
       "rating": {
          "average": null
       },
-      "weight": 70,
+      "weight": 43,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -8805,7 +8805,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 26,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -8860,7 +8860,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 36,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -8918,7 +8918,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 55,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -8976,7 +8976,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 31,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -9034,7 +9034,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 42,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -9094,7 +9094,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 25,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -9154,7 +9154,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 51,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -9213,7 +9213,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 31,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -9271,7 +9271,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 17,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -9326,7 +9326,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 26,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -9379,7 +9379,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 42,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -9437,7 +9437,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 31,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -9492,7 +9492,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 31,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -9548,7 +9548,7 @@
       "rating": {
          "average": null
       },
-      "weight": 70,
+      "weight": 42,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -9606,7 +9606,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 26,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -9666,7 +9666,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 51,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -9726,7 +9726,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 60,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -9841,7 +9841,7 @@
       "rating": {
          "average": null
       },
-      "weight": 67,
+      "weight": 39,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -9902,7 +9902,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 43,
+      "weight": 82,
       "network": {
          "id": 317,
          "name": "MBN",
@@ -10018,7 +10018,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 42,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -10079,7 +10079,7 @@
       "rating": {
          "average": 4.6
       },
-      "weight": 55,
+      "weight": 71,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -10133,7 +10133,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 69,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -10247,7 +10247,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 55,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -10306,7 +10306,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 26,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -10366,7 +10366,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -10422,7 +10422,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 55,
       "network": {
          "id": 127,
          "name": "SBS",
@@ -10482,7 +10482,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 79,
+      "weight": 41,
       "network": {
          "id": 1262,
          "name": "One31",
@@ -10548,7 +10548,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 25,
       "network": {
          "id": 1564,
          "name": "Sichuan TV",
@@ -10608,7 +10608,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 75,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -10667,7 +10667,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 45,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -10839,7 +10839,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 64,
       "network": {
          "id": 127,
          "name": "SBS",
@@ -10895,7 +10895,7 @@
       "rating": {
          "average": null
       },
-      "weight": 65,
+      "weight": 28,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -10954,7 +10954,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 36,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -11011,7 +11011,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 88,
@@ -11065,7 +11065,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 36,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -11122,7 +11122,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 42,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -11234,7 +11234,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 46,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -11285,7 +11285,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 36,
       "network": {
          "id": 1075,
          "name": "\u0426\u0422 \u0421\u0421\u0421\u0420",
@@ -11341,7 +11341,7 @@
       "rating": {
          "average": null
       },
-      "weight": 65,
+      "weight": 58,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -11399,7 +11399,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 26,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -11457,7 +11457,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 96,
+      "weight": 98,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -11515,7 +11515,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 70,
       "network": {
          "id": 176,
          "name": "Discovery Family",
@@ -11575,7 +11575,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 82,
+      "weight": 45,
       "network": {
          "id": 127,
          "name": "SBS",
@@ -11695,7 +11695,7 @@
       "rating": {
          "average": null
       },
-      "weight": 69,
+      "weight": 70,
       "network": {
          "id": 128,
          "name": "KBS2",
@@ -11756,7 +11756,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 84,
       "network": {
          "id": 280,
          "name": "tvN",
@@ -11813,7 +11813,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 60,
       "network": null,
       "webChannel": {
          "id": 256,
@@ -11869,7 +11869,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 31,
       "network": {
          "id": 1008,
          "name": "SRF 1",
@@ -11930,7 +11930,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 46,
       "network": {
          "id": 1239,
          "name": "&TV",
@@ -11989,7 +11989,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 45,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -12048,7 +12048,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 51,
       "network": {
          "id": 239,
          "name": "\u0420\u043e\u0441\u0441\u0438\u044f 1",
@@ -12102,7 +12102,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -12160,7 +12160,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 42,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -12271,7 +12271,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 12,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -12327,7 +12327,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 42,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -12496,7 +12496,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 12,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -12555,7 +12555,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 46,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -12613,7 +12613,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 31,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -12728,7 +12728,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 26,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -12788,7 +12788,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 60,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -12846,7 +12846,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 55,
       "network": {
          "id": 158,
          "name": "WOWOW",
@@ -12904,7 +12904,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 12,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -13017,7 +13017,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 51,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -13074,7 +13074,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 17,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -13132,7 +13132,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 12,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -13188,7 +13188,7 @@
       "rating": {
          "average": null
       },
-      "weight": 63,
+      "weight": 55,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -13305,7 +13305,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 12,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -13361,7 +13361,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 36,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -13415,7 +13415,7 @@
       "rating": {
          "average": 5.8
       },
-      "weight": 60,
+      "weight": 32,
       "network": {
          "id": 249,
          "name": "France 3",
@@ -13475,7 +13475,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 55,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -13591,7 +13591,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 31,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -13650,7 +13650,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 31,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -13709,7 +13709,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 12,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -13766,7 +13766,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 36,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -13825,7 +13825,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 51,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -13885,7 +13885,7 @@
       "rating": {
          "average": null
       },
-      "weight": 63,
+      "weight": 40,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -13945,7 +13945,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 51,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -14004,7 +14004,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 46,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -14062,7 +14062,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 12,
       "network": {
          "id": 137,
          "name": "NTV",

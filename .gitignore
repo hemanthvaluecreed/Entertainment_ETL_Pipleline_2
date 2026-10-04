@@ -1,5 +1,15 @@
-.ETL/
+# Python virtual environments
+.venv/
+venv/
+
+# Environment variables
 .env
+
+# Python cache
 __pycache__/
 *.pyc
-logs/
+
+# ETL environment folder
+.ETL/
+
+

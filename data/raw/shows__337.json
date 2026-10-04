@@ -21,7 +21,7 @@
       "rating": {
          "average": null
       },
-      "weight": 91,
+      "weight": 89,
       "network": null,
       "webChannel": {
          "id": 310,
@@ -124,7 +124,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 59,
       "network": {
          "id": 639,
          "name": "Sky History",
@@ -180,7 +180,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 13,
       "network": {
          "id": 639,
          "name": "Sky History",
@@ -232,7 +232,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 8,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -455,7 +455,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 31,
       "network": null,
       "webChannel": {
          "id": 369,
@@ -511,7 +511,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 639,
@@ -563,7 +563,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 58,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -707,12 +707,12 @@
             "href": "https://api.tvmaze.com/shows/84262"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3695791",
-            "name": "McMahon, Martinis & Madness"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3695792",
             "name": "Magic Ticket Sweepstakes"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3695793",
+            "name": "A Taste of Indianapolis"
          }
       }
    },
@@ -738,7 +738,7 @@
       "rating": {
          "average": null
       },
-      "weight": 69,
+      "weight": 72,
       "network": {
          "id": 149,
          "name": "Network 10",
@@ -794,7 +794,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 45,
       "network": {
          "id": 418,
          "name": "HBO",
@@ -850,7 +850,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -912,7 +912,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -968,7 +968,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 59,
       "network": {
          "id": 201,
          "name": "MS NOW",
@@ -991,18 +991,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/640/1601355.jpg"
       },
       "summary": "<p>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</p>",
-      "updated": 1790384791,
+      "updated": 1790847441,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84267"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3718292",
-            "name": "Episode 184"
+            "href": "https://api.tvmaze.com/episodes/3718295",
+            "name": "Episode 187"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3718293",
-            "name": "Episode 185"
+            "href": "https://api.tvmaze.com/episodes/3718296",
+            "name": "Episode 188"
          }
       }
    },
@@ -1078,7 +1078,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 60,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -1199,7 +1199,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 73,
       "network": {
          "id": 201,
          "name": "MS NOW",
@@ -1222,18 +1222,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/567/1418326.jpg"
       },
       "summary": "<p>Based in Washington, D.C., <b>The Briefing with Jen Psaki </b>will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</p>",
-      "updated": 1790418548,
+      "updated": 1790851147,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84271"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3718254",
-            "name": "Episode 147"
+            "href": "https://api.tvmaze.com/episodes/3718256",
+            "name": "Episode 149"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3718255",
-            "name": "Episode 148"
+            "href": "https://api.tvmaze.com/episodes/3718257",
+            "name": "Episode 150"
          }
       }
    },
@@ -1261,7 +1261,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -1307,7 +1307,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 22,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -1356,7 +1356,7 @@
       "averageRuntime": null,
       "premiered": "2026-12-17",
       "ended": null,
-      "officialSite": null,
+      "officialSite": "https://www.netflix.com/title/81594947",
       "schedule": {
          "time": "",
          "days": []
@@ -1380,14 +1380,14 @@
       },
       "image": null,
       "summary": "<p>Inspired by the internationally beloved bestseller of the same name, <b>Unaccustomed Earth</b> is an epic, soapy drama about a tight-knit immigrant community navigating love, desire, and belonging. When a star-crossed romance between a devoted wife and her long-lost love comes to light, a scandalous affair is born and new battle lines are drawn in the elite, insular Indian American community of Cambridge, Massachusetts. Rich with passion and unforgettable characters, <i>Unaccustomed Earth </i>is an intimate, nuanced look inside a tight-knit community.</p>",
-      "updated": 1789977507,
+      "updated": 1790636937,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84274"
          },
          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3766541",
-            "name": "TBA"
+            "name": "Unaccustomed Earth"
          }
       }
    },
@@ -1413,7 +1413,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 41,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -1517,7 +1517,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 45,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -1573,7 +1573,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 29,
       "network": {
          "id": 115,
          "name": "DR1",
@@ -1632,7 +1632,7 @@
       "rating": {
          "average": null
       },
-      "weight": 83,
+      "weight": 80,
       "network": null,
       "webChannel": {
          "id": 454,
@@ -1689,7 +1689,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": null,
       "webChannel": {
          "id": 125,
@@ -1753,7 +1753,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -1811,7 +1811,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -1928,7 +1928,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -1986,7 +1986,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 4,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -2050,7 +2050,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 467,
@@ -2172,7 +2172,7 @@
       "rating": {
          "average": null
       },
-      "weight": 91,
+      "weight": 93,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -2346,7 +2346,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 337,
@@ -2404,7 +2404,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 8,
       "network": {
          "id": 304,
          "name": "\u0421\u0422\u0421",
@@ -2469,7 +2469,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -2521,7 +2521,7 @@
       "rating": {
          "average": null
       },
-      "weight": 60,
+      "weight": 42,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -2577,7 +2577,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 26,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -2630,7 +2630,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 45,
       "network": {
          "id": 69,
          "name": "Sky Arts",
@@ -2686,7 +2686,7 @@
       "rating": {
          "average": null
       },
-      "weight": 33,
+      "weight": 31,
       "network": {
          "id": 118,
          "name": "History",
@@ -2962,7 +2962,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 4,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -3087,7 +3087,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3208,7 +3208,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -3260,7 +3260,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 420,
@@ -3316,7 +3316,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 40,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -3370,7 +3370,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": null,
       "webChannel": {
          "id": 420,
@@ -3424,7 +3424,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 420,
@@ -3478,7 +3478,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": null,
       "webChannel": {
          "id": 420,
@@ -3532,7 +3532,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 420,
@@ -3555,14 +3555,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/565/1414349.jpg"
       },
       "summary": "<p>Vanessa Hill talks about psychology, neuroscience, and why we act the way we do. Neuroscience has never been so animated.</p>",
-      "updated": 1786612745,
+      "updated": 1790628995,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84313"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3697829",
-            "name": "Why exhausted parents don't sleep"
+            "href": "https://api.tvmaze.com/episodes/3774787",
+            "name": "Why your brain feels different at 11pm"
          }
       }
    },
@@ -3586,7 +3586,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 420,
@@ -3863,7 +3863,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 50,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -3925,7 +3925,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 1002,
          "name": "Caracol Televisi\u00f3n",
@@ -3989,7 +3989,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -4151,7 +4151,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 31,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -4205,7 +4205,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": null,
       "webChannel": {
          "id": 238,
@@ -4318,7 +4318,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 22,
       "network": {
          "id": 1531,
          "name": "\u041c\u0443\u0437-\u0422\u0412",
@@ -4491,7 +4491,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 1,
       "network": null,
       "webChannel": {
          "id": 420,
@@ -4658,7 +4658,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 420,
@@ -4827,7 +4827,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 420,
@@ -4881,7 +4881,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 32,
       "network": {
          "id": 639,
          "name": "Sky History",
@@ -4939,7 +4939,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 9,
       "network": {
          "id": 622,
          "name": "Love Nature",
@@ -4995,7 +4995,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 1,
       "network": null,
       "webChannel": {
          "id": 420,
@@ -5155,7 +5155,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 352,
@@ -5325,7 +5325,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 49,
       "network": {
          "id": 135,
          "name": "5",
@@ -5438,7 +5438,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 36,
       "network": {
          "id": 495,
          "name": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439",
@@ -5496,7 +5496,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -5556,7 +5556,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 26,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -5613,7 +5613,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 1,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -5833,7 +5833,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 22,
       "network": {
          "id": 1002,
          "name": "Caracol Televisi\u00f3n",
@@ -5940,7 +5940,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 40,
       "network": null,
       "webChannel": {
          "id": 356,
@@ -6047,7 +6047,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 22,
       "network": {
          "id": 499,
          "name": "NOW",
@@ -6106,7 +6106,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -6161,7 +6161,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -6268,7 +6268,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 345,
          "name": "U&Yesterday",
@@ -6333,7 +6333,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -6445,7 +6445,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 84,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6499,7 +6499,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 29,
       "network": {
          "id": 1706,
          "name": "Sky Crime",
@@ -6558,7 +6558,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 26,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -6617,7 +6617,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 4,
       "network": null,
       "webChannel": {
          "id": 366,
@@ -6674,7 +6674,7 @@
       "rating": {
          "average": null
       },
-      "weight": 80,
+      "weight": 95,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -6690,7 +6690,7 @@
       },
       "image": null,
       "summary": "<p><b>Stillwater </b>follows ex-convict Daniel West, who receives a mysterious letter promising answers about his past and a substantial inheritance in the small town of Stillwater. There he discovers a community where\u00a0nothing ever ages, no one\u00a0dies and nobody ever gets out.</p>",
-      "updated": 1784833379,
+      "updated": 1790659818,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84370"
@@ -6719,7 +6719,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 84,
+      "weight": 78,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -6771,7 +6771,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 366,
@@ -6884,7 +6884,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 22,
       "network": {
          "id": 1557,
          "name": "RTVi",
@@ -6939,7 +6939,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 34,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -6991,7 +6991,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 26,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -7049,7 +7049,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 84,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -7199,7 +7199,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 40,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -7264,7 +7264,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 50,
@@ -7443,7 +7443,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -7497,7 +7497,7 @@
       "rating": {
          "average": null
       },
-      "weight": 33,
+      "weight": 65,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -7660,7 +7660,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 8,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -7711,7 +7711,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": {
          "id": 67,
          "name": "Global",
@@ -7720,7 +7720,7 @@
             "code": "CA",
             "timezone": "America/Toronto"
          },
-         "officialSite": null
+         "officialSite": "https://www.globaltv.com/"
       },
       "webChannel": null,
       "dvdCountry": null,
@@ -7950,7 +7950,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 54,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -8005,7 +8005,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -8117,7 +8117,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 553,
@@ -8173,7 +8173,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -8232,7 +8232,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -8284,7 +8284,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 62,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -8338,7 +8338,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 83,
       "network": {
          "id": 97,
          "name": "Antena 3",
@@ -8392,7 +8392,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 35,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -8445,7 +8445,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 32,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -8673,7 +8673,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 323,
          "name": "Virgin Media One",
@@ -8841,7 +8841,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 6,
       "network": {
          "id": 164,
          "name": "RTL",
@@ -9003,7 +9003,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 26,
       "network": {
          "id": 1018,
          "name": "NPO 1",
@@ -9059,7 +9059,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 41,
          "name": "E4",
@@ -9225,7 +9225,7 @@
       "rating": {
          "average": null
       },
-      "weight": 83,
+      "weight": 86,
       "network": null,
       "webChannel": {
          "id": 114,
@@ -9285,7 +9285,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 31,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -9395,7 +9395,7 @@
       "rating": {
          "average": 5.2
       },
-      "weight": 60,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 588,
@@ -9452,7 +9452,7 @@
       "rating": {
          "average": 5.8
       },
-      "weight": 92,
+      "weight": 93,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -9504,7 +9504,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -9556,7 +9556,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 13,
       "network": {
          "id": 1782,
          "name": "Crave",
@@ -9610,7 +9610,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -9664,7 +9664,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 26,
       "network": {
          "id": 1033,
          "name": "HOT3",
@@ -9826,7 +9826,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 332,
@@ -9880,7 +9880,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": {
          "id": 125,
          "name": "FYI",
@@ -9938,7 +9938,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 8,
       "network": {
          "id": 207,
          "name": "Outdoor Channel",
@@ -9994,7 +9994,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 29,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -10055,7 +10055,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -10112,7 +10112,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 13,
       "network": null,
       "webChannel": {
          "id": 405,
@@ -10227,7 +10227,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 281,
@@ -10285,7 +10285,7 @@
       "rating": {
          "average": null
       },
-      "weight": 75,
+      "weight": 85,
       "network": {
          "id": 40,
          "name": "CNN",
@@ -10400,7 +10400,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 87,
       "network": {
          "id": 40,
          "name": "CNN",
@@ -10627,7 +10627,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -10849,7 +10849,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 40,
       "network": {
          "id": 1927,
          "name": "Canal Brasil",
@@ -10908,7 +10908,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": {
          "id": 102,
          "name": "RTP1",
@@ -11022,7 +11022,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -11131,7 +11131,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 35,
       "network": null,
       "webChannel": {
          "id": 509,
@@ -11188,7 +11188,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 9,
       "network": {
          "id": 300,
          "name": "\u041d\u0422\u0412",
@@ -11244,7 +11244,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -11295,7 +11295,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -11351,7 +11351,7 @@
       "rating": {
          "average": null
       },
-      "weight": 19,
+      "weight": 22,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -11460,7 +11460,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 58,
       "network": {
          "id": 476,
          "name": "YTV",
@@ -11567,7 +11567,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -11626,7 +11626,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 40,
       "network": {
          "id": 50,
          "name": "Hallmark Channel",
@@ -11682,7 +11682,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 552,
@@ -11736,7 +11736,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 6,
       "network": {
          "id": 114,
          "name": "ABC",
@@ -11792,7 +11792,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -11894,7 +11894,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 40,
       "network": {
          "id": 639,
          "name": "Sky History",
@@ -11952,7 +11952,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 47,
       "network": {
          "id": 165,
          "name": "RT\u00c9 ONE",
@@ -12008,7 +12008,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 58,
       "network": {
          "id": 165,
          "name": "RT\u00c9 ONE",
@@ -12116,7 +12116,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -12174,7 +12174,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 50,
       "network": {
          "id": 120,
          "name": "Nine Network",
@@ -12230,7 +12230,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 54,
       "network": {
          "id": 476,
          "name": "YTV",
@@ -12287,7 +12287,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": {
          "id": 495,
          "name": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439",
@@ -12347,7 +12347,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -12460,7 +12460,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 40,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -12518,7 +12518,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 11,
       "network": {
          "id": 1080,
          "name": "rt\u00e9jr",
@@ -12574,7 +12574,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 58,
       "network": {
          "id": 165,
          "name": "RT\u00c9 ONE",
@@ -12627,7 +12627,7 @@
       "rating": {
          "average": null
       },
-      "weight": 71,
+      "weight": 65,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -12677,7 +12677,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 56,
       "network": {
          "id": 165,
          "name": "RT\u00c9 ONE",
@@ -12732,7 +12732,7 @@
       "rating": {
          "average": null
       },
-      "weight": 33,
+      "weight": 35,
       "network": {
          "id": 322,
          "name": "TV2",
@@ -12854,7 +12854,7 @@
       "rating": {
          "average": null
       },
-      "weight": 60,
+      "weight": 73,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -12906,7 +12906,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 8,
       "network": {
          "id": 1054,
          "name": "RT\u00c92",
@@ -12961,7 +12961,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 56,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -13076,7 +13076,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 91,
+      "weight": 92,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -13130,7 +13130,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 86,
       "network": {
          "id": 22,
          "name": "MTV",
@@ -13192,7 +13192,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 616,
@@ -13248,7 +13248,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 35,
       "network": {
          "id": 484,
          "name": "ETV",
@@ -13302,7 +13302,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 328,
@@ -13363,7 +13363,7 @@
       "rating": {
          "average": null
       },
-      "weight": 83,
+      "weight": 88,
       "network": {
          "id": 280,
          "name": "tvN",
@@ -13419,7 +13419,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 40,
       "network": {
          "id": 112,
          "name": "RTL4",
@@ -13581,7 +13581,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 83,
       "network": {
          "id": 102,
          "name": "RTP1",
@@ -13604,7 +13604,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/567/1418668.jpg"
       },
       "summary": null,
-      "updated": 1790281509,
+      "updated": 1790585085,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84499"

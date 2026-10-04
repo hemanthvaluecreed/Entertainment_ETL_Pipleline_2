@@ -300,7 +300,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 102,
          "name": "RTP1",
@@ -460,7 +460,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 641,
@@ -479,14 +479,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/628/1571858.jpg"
       },
       "summary": "<p>Stories of great urban planning and urban experiences from Amsterdam and the Netherlands. It's not just bikes.</p>",
-      "updated": 1788774464,
+      "updated": 1790627006,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92508"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3742490",
-            "name": "They Finally Built Good Transit!?"
+            "href": "https://api.tvmaze.com/episodes/3774703",
+            "name": "The Best of Singapore Cycling (with a local)"
          }
       }
    },
@@ -680,7 +680,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 368,
@@ -1112,7 +1112,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 53,
       "network": {
          "id": 428,
          "name": "Shant TV",
@@ -1170,7 +1170,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 62,
       "network": {
          "id": 109,
          "name": "ZDF",
@@ -1228,7 +1228,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 10,
       "network": {
          "id": 308,
          "name": "\u0422\u041d\u0422",
@@ -1343,7 +1343,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 31,
       "network": null,
       "webChannel": {
          "id": 20,
@@ -1553,7 +1553,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 3,
       "network": {
          "id": 335,
          "name": "Polsat",
@@ -1611,7 +1611,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -1675,7 +1675,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -1862,7 +1862,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -1914,7 +1914,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 79,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -1968,7 +1968,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 86,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -2126,7 +2126,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 416,
@@ -2295,7 +2295,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 41,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -2349,7 +2349,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 55,
       "network": {
          "id": 39,
          "name": "ESPN",
@@ -2460,7 +2460,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -2512,7 +2512,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 81,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -2683,7 +2683,7 @@
       "rating": {
          "average": null
       },
-      "weight": 93,
+      "weight": 92,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -2742,7 +2742,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 88,
       "network": {
          "id": 167,
          "name": "AT-X",
@@ -2977,7 +2977,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": {
          "id": 1399,
          "name": "Thairath TV",
@@ -3087,7 +3087,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 87,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -3103,7 +3103,7 @@
       },
       "image": null,
       "summary": "<p><b>Icebreaker</b> follows Anastasia Allen, a competitive figure skater with her eyes on Olympic gold. Everything changes when Anastasia is forced to share the rink with Nate Hawkins, a hockey player who's equally determined to go pro. Despite the cold temperatures on the ice, the heat between Anastasia and Nate is undeniable. Is ambition or attraction the sharper blade?</p>",
-      "updated": 1781601133,
+      "updated": 1790659927,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92561"
@@ -3132,7 +3132,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -3241,7 +3241,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -3350,7 +3350,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -3405,7 +3405,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 71,
       "network": {
          "id": 2005,
          "name": "Sky Serie",
@@ -3520,7 +3520,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 3,
       "network": {
          "id": 158,
          "name": "WOWOW",
@@ -3576,7 +3576,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 63,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -3628,7 +3628,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -3736,7 +3736,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -3755,14 +3755,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/629/1572831.jpg"
       },
       "summary": "<p>Dungeon Masters is a new storytelling experience from D&amp;D where you can play along with the action. In each episode, you'll experience a bold new presentation of D&amp;D storytelling with an original score by five-time Grammy-nominated composer David Arkenstone, a custom set, cinematic presentation, and elevated production design, all built from material players can actually bring home and make their own.</p>",
-      "updated": 1787811871,
+      "updated": 1790626946,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92575"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3716545",
-            "name": "Netheril's Fall"
+            "href": "https://api.tvmaze.com/episodes/3774701",
+            "name": "Satyr Raiders"
          }
       }
    },
@@ -3847,7 +3847,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 88,
       "network": null,
       "webChannel": {
          "id": 387,
@@ -3901,7 +3901,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 41,
       "network": {
          "id": 336,
          "name": "TVP1",
@@ -3958,7 +3958,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 10,
       "network": {
          "id": 280,
          "name": "tvN",
@@ -4062,7 +4062,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 41,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -4116,7 +4116,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 41,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -4222,7 +4222,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 37,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -4272,7 +4272,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 109,
@@ -4662,7 +4662,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 41,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4721,7 +4721,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 47,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4777,7 +4777,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 93,
+      "weight": 66,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -4946,7 +4946,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 41,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5054,7 +5054,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 49,
       "network": {
          "id": 56,
          "name": "BET",
@@ -5114,7 +5114,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -5222,7 +5222,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5376,7 +5376,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 24,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5422,7 +5422,7 @@
       "rating": {
          "average": null
       },
-      "weight": 20,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5468,7 +5468,7 @@
       "rating": {
          "average": null
       },
-      "weight": 20,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5624,7 +5624,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -5678,7 +5678,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5770,7 +5770,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 64,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5816,7 +5816,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 53,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5868,7 +5868,7 @@
       "rating": {
          "average": null
       },
-      "weight": 87,
+      "weight": 86,
       "network": {
          "id": 167,
          "name": "AT-X",
@@ -5928,7 +5928,7 @@
       "rating": {
          "average": null
       },
-      "weight": 89,
+      "weight": 86,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6048,7 +6048,7 @@
       "rating": {
          "average": null
       },
-      "weight": 87,
+      "weight": 86,
       "network": {
          "id": 245,
          "name": "ABC",
@@ -6108,7 +6108,7 @@
       "rating": {
          "average": null
       },
-      "weight": 89,
+      "weight": 88,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6169,7 +6169,7 @@
       "rating": {
          "average": null
       },
-      "weight": 87,
+      "weight": 88,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -6229,7 +6229,7 @@
       "rating": {
          "average": null
       },
-      "weight": 88,
+      "weight": 86,
       "network": {
          "id": 167,
          "name": "AT-X",
@@ -6289,7 +6289,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 80,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6409,7 +6409,7 @@
       "rating": {
          "average": null
       },
-      "weight": 85,
+      "weight": 83,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -6469,7 +6469,7 @@
       "rating": {
          "average": null
       },
-      "weight": 91,
+      "weight": 90,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6529,7 +6529,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 75,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6589,7 +6589,7 @@
       "rating": {
          "average": null
       },
-      "weight": 93,
+      "weight": 91,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6649,7 +6649,7 @@
       "rating": {
          "average": null
       },
-      "weight": 87,
+      "weight": 88,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -6708,7 +6708,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 87,
       "network": {
          "id": 167,
          "name": "AT-X",
@@ -6765,7 +6765,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 44,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -6873,7 +6873,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -6989,7 +6989,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 3,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -7096,7 +7096,7 @@
       "rating": {
          "average": null
       },
-      "weight": 67,
+      "weight": 66,
       "network": null,
       "webChannel": {
          "id": 347,
@@ -7429,7 +7429,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 1254,
          "name": "KTV",
@@ -7486,7 +7486,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -7544,7 +7544,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -7600,7 +7600,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 22,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -7830,7 +7830,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 10,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -7946,7 +7946,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -8062,7 +8062,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 10,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -8119,7 +8119,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 158,
          "name": "WOWOW",
@@ -8296,7 +8296,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 41,
       "network": {
          "id": 96,
          "name": "Telecinco",
@@ -8525,7 +8525,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -8640,7 +8640,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -8753,7 +8753,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -8868,7 +8868,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 37,
       "network": null,
       "webChannel": {
          "id": 59,
@@ -8928,7 +8928,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -9268,7 +9268,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": {
          "id": 245,
          "name": "ABC",
@@ -9324,7 +9324,7 @@
       "rating": {
          "average": null
       },
-      "weight": 67,
+      "weight": 68,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -9382,7 +9382,7 @@
       "rating": {
          "average": null
       },
-      "weight": 20,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 114,
@@ -9440,7 +9440,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -9662,7 +9662,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 41,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -9718,7 +9718,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -9770,7 +9770,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 1737,
          "name": "EbonyLife TV",
@@ -9887,7 +9887,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 26,
       "network": {
          "id": 1254,
          "name": "KTV",
@@ -9991,7 +9991,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 7,
       "network": {
          "id": 476,
          "name": "YTV",
@@ -10048,7 +10048,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 10,
       "network": {
          "id": 158,
          "name": "WOWOW",
@@ -10104,7 +10104,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 3,
       "network": {
          "id": 158,
          "name": "WOWOW",
@@ -10161,7 +10161,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -10218,7 +10218,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -10272,7 +10272,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 109,
@@ -10331,7 +10331,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 63,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -10452,7 +10452,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 47,
       "network": {
          "id": 304,
          "name": "\u0421\u0422\u0421",
@@ -10506,7 +10506,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 59,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -10525,7 +10525,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/629/1574304.jpg"
       },
       "summary": "<p><b>India's Got Latent</b> is an offbeat comedy talent show where aspiring performers showcase their most unconventional and hidden \"latent\" talents. Instead of seeking traditional approval, contestants win by proving how self-aware they are, as they must accurately predict the average score the celebrity judges will give them.</p><p>Hosted by comedian Samay Raina, the show pivots away from conventional reality TV by emphasizing humor, internet culture, and lighthearted, roaster-style critique from a rotating panel of special guests.</p>",
-      "updated": 1790420183,
+      "updated": 1790626880,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92699"
@@ -10533,10 +10533,6 @@
          "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3767974",
             "name": "EP7 ft. Nawazuddin Siddiqui, Bhuvan Bam, Mukesh Chhabra, Kaustubh Agarwal"
-         },
-         "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3772213",
-            "name": "Episode 9"
          }
       }
    },
@@ -10563,7 +10559,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 37,
       "network": null,
       "webChannel": {
          "id": 337,
@@ -10737,7 +10733,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 26,
       "network": {
          "id": 245,
          "name": "ABC",
@@ -10797,7 +10793,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 22,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -11089,7 +11085,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -11262,7 +11258,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 423,
@@ -11314,7 +11310,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 245,
@@ -11425,7 +11421,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 994,
          "name": "GMA",
@@ -11448,14 +11444,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/629/1574280.jpg"
       },
       "summary": "<p>A group of individuals becomes cyber protectors against modern digital threats. Cybercrime investigations with field operations, intense combat scenes, and technologically driven missions.</p>",
-      "updated": 1789734439,
+      "updated": 1790749006,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92715"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3766843",
-            "name": "Firewall takes on a family of scammers!"
+            "href": "https://api.tvmaze.com/episodes/3776726",
+            "name": "Isa's unexpected visitor!"
          }
       }
    },
@@ -11483,7 +11479,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 60,
       "network": null,
       "webChannel": {
          "id": 692,
@@ -11974,7 +11970,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 491,
@@ -12017,20 +12013,19 @@
       "genres": [
          "Drama"
       ],
-      "status": "Running",
+      "status": "To Be Determined",
       "runtime": 60,
       "averageRuntime": 60,
       "premiered": "2026-09-21",
       "ended": null,
       "officialSite": "https://www.sky.com/watch/the-wargame",
       "schedule": {
-         "time": "",
+         "time": "21:00",
          "days": [
             "Monday",
             "Tuesday",
             "Wednesday",
-            "Thursday",
-            "Friday"
+            "Thursday"
          ]
       },
       "rating": {
@@ -12059,14 +12054,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1605168.jpg"
       },
       "summary": "<p><b>The\u00a0Wargame </b>takes viewers beyond the news cycle and\u00a0behind closed doors\u00a0into\u00a0a sealed\u00a0COBR-style\u00a0crisis\u00a0room\u00a0where\u00a0real-world\u00a0senior\u00a0politicians, military leaders and intelligence chiefs\u00a0are challenged\u00a0to\u00a0confront a high-stakes\u00a0scenario:\u00a0a Russian attack on\u00a0UK soil.</p><p>Set six months in the future, this\u00a0gripping\u00a0simulation has been\u00a0developed\u00a0in conjunction with leading academics, military and\u00a0defence\u00a0experts, including Sky News' Security and\u00a0Defence\u00a0Editor Deborah Haynes,\u00a0to replicate the pressure of political decision-making at the highest level.</p><p>Rolling news bulletins, social media footage, military and intelligence reports and unexpected interventions throw up a series of minute-by-minute dilemmas, forcing\u00a0the \u2018Cabinet' to\u00a0grapple\u00a0with decisions that\u00a0could\u00a0affect us all.\u00a0A provocative stress test on our leaders, our\u00a0institutions\u00a0and the country itself,\u202fthis unmissable event television will\u00a0prompt\u00a0us all to engage with our new geopolitical reality.</p>",
-      "updated": 1790329604,
+      "updated": 1790697777,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92726"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3771484",
-            "name": "The Wargame"
+            "href": "https://api.tvmaze.com/episodes/3748368",
+            "name": "The Wargame: Aftermath"
          }
       }
    },
@@ -12148,7 +12143,7 @@
       "rating": {
          "average": null
       },
-      "weight": 81,
+      "weight": 83,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -12213,7 +12208,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -12386,7 +12381,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 32,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -12441,7 +12436,7 @@
       "rating": {
          "average": null
       },
-      "weight": 87,
+      "weight": 89,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -12500,7 +12495,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 12,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -12551,7 +12546,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 41,
       "network": {
          "id": 1709,
          "name": "RTBF",
@@ -12611,7 +12606,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -12729,7 +12724,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 41,
       "network": {
          "id": 1282,
          "name": "CCTV-1",
@@ -12794,7 +12789,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 59,
       "network": null,
       "webChannel": {
          "id": 244,
@@ -12856,7 +12851,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -12967,7 +12962,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -13079,7 +13074,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 39,
       "network": {
          "id": 135,
          "name": "5",
@@ -13135,7 +13130,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 52,
       "network": {
          "id": 135,
          "name": "5",
@@ -13252,7 +13247,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 91,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -13304,7 +13299,7 @@
       "rating": {
          "average": null
       },
-      "weight": 85,
+      "weight": 61,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -13354,7 +13349,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 329,

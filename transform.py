@@ -393,34 +393,41 @@ def convert_data_types(df):
 
 
 
-# 6. ASSIGN UNIQUE SCHEDULE IDs
+# 6. ASSIGN STABLE SCHEDULE IDs
 
 def assign_schedule_ids(df):
     """
-    Assign one unique schedule_id to each show that has
+    Assign a stable schedule_id to each show that has
     schedule information.
 
-    Important:
-    schedule_id identifies a schedule belonging to a show.
-    It is intentionally NOT deduplicated by schedule_time/days.
+    schedule_id is derived from show_id.
 
-    This allows Shows.schedule_id to be a UNIQUE parent key
-    for ShowScheduleDays.schedule_id.
+    This design ensures that:
+    - each show has at most one schedule_id
+    - schedule_id remains stable across pipeline reruns
+    - schedule IDs do not depend on API record ordering
+    - schedule IDs do not change when new shows are added
+    - Shows.schedule_id can safely remain UNIQUE
+    - ShowScheduleDays.schedule_id can reference Shows.schedule_id
+
+    Shows without schedule information receive NULL.
     """
 
     df = df.copy()
-    next_schedule_id = 1
+
     schedule_ids = []
 
     for _, row in df.iterrows():
 
+        show_id = row["show_id"]
         schedule_time = row["schedule_time"]
         schedule_days = row["schedule_days"]
 
         if not isinstance(schedule_days, list):
             schedule_days = []
 
-        # Determine whether this show actually has a schedule
+        # Determine whether this show actually has
+        # schedule information.
         has_schedule_time = (
             pd.notna(schedule_time)
             and str(schedule_time).strip() != ""
@@ -430,15 +437,17 @@ def assign_schedule_ids(df):
 
         if not has_schedule_time and not has_schedule_days:
 
-            # No schedule -> NULL
+            # No schedule information -> NULL
             schedule_ids.append(pd.NA)
 
-            continue
+        else:
 
-        # Unique schedule ID for this show
-        schedule_ids.append(next_schedule_id)
-
-        next_schedule_id += 1
+            # Stable schedule ID.
+            #
+            # The schedule belongs to this show,
+            # therefore the show_id provides a stable
+            # identifier for the schedule.
+            schedule_ids.append(show_id)
 
     df["schedule_id"] = (
         pd.Series(
@@ -447,6 +456,21 @@ def assign_schedule_ids(df):
         )
         .astype("Int64")
     )
+
+    # Validation: every non-null schedule_id must be unique.
+    duplicate_schedule_ids = (
+        df["schedule_id"]
+        .dropna()
+        .duplicated()
+        .sum()
+    )
+
+    if duplicate_schedule_ids > 0:
+
+        raise ValueError(
+            f"Duplicate schedule IDs found after assignment: "
+            f"{duplicate_schedule_ids}"
+        )
 
     unique_schedule_count = (
         df["schedule_id"]

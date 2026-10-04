@@ -23,7 +23,7 @@
       "rating": {
          "average": null
       },
-      "weight": 81,
+      "weight": 77,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -116,7 +116,7 @@
       "genres": [
          "Crime"
       ],
-      "status": "In Development",
+      "status": "Running",
       "runtime": 60,
       "averageRuntime": 60,
       "premiered": "2026-09-30",
@@ -131,7 +131,7 @@
       "rating": {
          "average": null
       },
-      "weight": 91,
+      "weight": 92,
       "network": {
          "id": 89,
          "name": "Investigation Discovery",
@@ -146,7 +146,7 @@
       "dvdCountry": null,
       "externals": {
          "tvrage": null,
-         "thetvdb": null,
+         "thetvdb": 483312,
          "imdb": "tt43706317"
       },
       "image": {
@@ -154,14 +154,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1607162.jpg"
       },
       "summary": "<p>Introducing a new visual approach to true crime storytelling, <b>Unmasking a Monster: Aileen Wuornos</b> presents next generation visualizations of documented first-person accounts from Wuornos, those close to her, and the investigators who worked the case, accounts previously available only in verified transcripts, documented evidence, and chronicled firsthand testimony. The series brings a new dimension to the story of Wuornos and the investigation that brought her to justice - through the perspectives of those who lived it.\u00a0</p>",
-      "updated": 1790273781,
+      "updated": 1790843818,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93252"
          },
-         "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3681592",
-            "name": "Face to Face With the Monster"
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3681594",
+            "name": "The World Will Learn"
          }
       }
    },
@@ -386,7 +386,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 51,
       "network": {
          "id": 133,
          "name": "BS11",
@@ -500,7 +500,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 3,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -670,7 +670,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 369,
@@ -724,7 +724,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 58,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -927,7 +927,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 88,
       "network": null,
       "webChannel": {
          "id": 310,
@@ -970,7 +970,7 @@
       "rating": {
          "average": null
       },
-      "weight": 73,
+      "weight": 40,
       "network": null,
       "webChannel": {
          "id": 310,
@@ -1020,7 +1020,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 22,
       "network": {
          "id": 249,
          "name": "France 3",
@@ -1076,7 +1076,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 310,
@@ -1182,7 +1182,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -1352,7 +1352,7 @@
       "rating": {
          "average": null
       },
-      "weight": 33,
+      "weight": 80,
       "network": null,
       "webChannel": {
          "id": 190,
@@ -1409,7 +1409,7 @@
       "rating": {
          "average": null
       },
-      "weight": 75,
+      "weight": 76,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -1524,7 +1524,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 761,
@@ -1578,7 +1578,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 50,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -1634,7 +1634,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 131,
@@ -1693,7 +1693,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 41,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -1751,7 +1751,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -1804,7 +1804,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 56,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -1913,7 +1913,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 43,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -1969,7 +1969,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 56,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -2025,7 +2025,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 75,
       "network": null,
       "webChannel": {
          "id": 509,
@@ -2139,7 +2139,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 54,
       "network": {
          "id": 262,
          "name": "KBS1",
@@ -2231,12 +2231,12 @@
             "href": "https://api.tvmaze.com/shows/93289"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3682934",
-            "name": "Episode 60"
+            "href": "https://api.tvmaze.com/episodes/3682938",
+            "name": "Episode 64"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3682935",
-            "name": "Episode 61"
+            "href": "https://api.tvmaze.com/episodes/3682939",
+            "name": "Episode 65"
          }
       }
    },
@@ -2262,7 +2262,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 7,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -2320,7 +2320,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 369,
@@ -2380,7 +2380,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 41,
       "network": {
          "id": 714,
          "name": "EBS",
@@ -2489,7 +2489,7 @@
       "rating": {
          "average": null
       },
-      "weight": 96,
+      "weight": 97,
       "network": null,
       "webChannel": {
          "id": 453,
@@ -2544,7 +2544,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -2601,7 +2601,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -2718,7 +2718,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 48,
       "network": {
          "id": 135,
          "name": "5",
@@ -2914,16 +2914,12 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584822.jpg"
       },
       "summary": "<p>The relationship that began with suspicion became the most dangerous foul. The story of three people that begins the moment they cross the line they should have stopped at.</p>",
-      "updated": 1790066718,
+      "updated": 1790614946,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93301"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3765671",
-            "name": "Episode 4"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3769767",
             "name": "Episode 5"
          }
@@ -3059,7 +3055,7 @@
       "rating": {
          "average": null
       },
-      "weight": 76,
+      "weight": 75,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -3112,7 +3108,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 245,
@@ -3166,7 +3162,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 38,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -3211,7 +3207,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 553,
@@ -3320,7 +3316,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -3376,7 +3372,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 718,
          "name": "Channel 3",
@@ -3496,7 +3492,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": {
          "id": 718,
          "name": "Channel 3",
@@ -3603,7 +3599,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -3716,7 +3712,7 @@
       "rating": {
          "average": null
       },
-      "weight": 33,
+      "weight": 76,
       "network": null,
       "webChannel": {
          "id": 756,
@@ -3771,7 +3767,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 107,
          "name": "Destination America",
@@ -3887,7 +3883,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 51,
@@ -3941,7 +3937,7 @@
       "rating": {
          "average": null
       },
-      "weight": 89,
+      "weight": 87,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -3989,7 +3985,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 367,
@@ -4008,7 +4004,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585842.jpg"
       },
       "summary": "<p>Cole, a reality dating show scriptwriter, is forced to recruit viral singer Phil\u2014his former best friend\u2014for the show's upcoming season. The catch? They haven't spoken in years since a fallout over a misunderstood high school love triangle. Back then, both thought they were in love with the same girl. But as the two reconnect through behind-the-scenes shoots and mock dates, it becomes clear: the feelings they buried weren't for the girl\u2014they were for each other.</p><p>As tension turns into unexpected tenderness, their emotional dynamic is further complicated by May, a charming contestant who's been paired with Phil as part of a fake on-screen romance. While the show milks their chemistry for views, May begins to fall for Phil for real, unaware of his growing conflict and attraction toward Cole. Just as the triangle intensifies, the show's script gets leaked online. The public lashes out at the manufactured love stories, and Phil becomes the face of the backlash. With reputations on the line, Cole and Phil must face their past and decide if they're ready to tell a different kind of love story, one that's no longer written for the cameras, but for themselves.</p><p><b>Love Algorithm</b> is a modern queer romance that explores missed chances, emotional authenticity, and what happens when real feelings break through a scripted world.</p>",
-      "updated": 1789725025,
+      "updated": 1790615106,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93321"
@@ -4073,12 +4069,12 @@
             "href": "https://api.tvmaze.com/shows/93322"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3684719",
-            "name": "Episode 10"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3684720",
             "name": "Episode 11"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3684721",
+            "name": "Episode 12"
          }
       }
    },
@@ -4106,7 +4102,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 55,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -4227,7 +4223,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -4383,7 +4379,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 50,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -4493,7 +4489,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 41,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -4549,7 +4545,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 41,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -4685,18 +4681,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1597641.jpg"
       },
       "summary": "<p>In restaurant kitchens around the world, elite chefs must work as a team every night to perfectly execute their dishes under intense pressure and in the new competition series <b>Bobby Flay's The Line</b>, the culinary icon pulls back the curtain on the high-stakes reality of working on a restaurant line.\u00a0Each week, Bobby leads his hand-picked home team of extraordinary chefs Antonia Lofaso, Michael Jenkins and Claudette Zepeda against some of the country's most acclaimed restaurant staffs to execute a flawless dinner service \u2013 all for real diners in real time. The dueling lines must deliver dishes to diners and VIP guests, who rate each plate. After the ratings roll in, the lines can then choose to pivot their strategy based on that feedback. The home team's reputation is at stake to secure the win, but if the visiting team prevails, they will win $25,000. \u00a0</p>",
-      "updated": 1790193346,
+      "updated": 1790782876,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93333"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3705995",
-            "name": "Leah Cohen: Pig & Khao"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3729420",
             "name": "David Viana: Lita"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3752516",
+            "name": "Spike Mendelsohn: Good Stuff Eatery"
          }
       }
    },
@@ -4722,7 +4718,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 7,
       "network": {
          "id": 405,
          "name": "France 4",
@@ -4785,7 +4781,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": {
          "id": 1002,
          "name": "Caracol Televisi\u00f3n",
@@ -4899,7 +4895,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 59,
+      "weight": 58,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -4953,7 +4949,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 24,
       "network": {
          "id": 548,
          "name": "More4",
@@ -5012,7 +5008,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 401,
@@ -5172,7 +5168,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": {
          "id": 414,
          "name": "ARTE",
@@ -5236,7 +5232,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 22,
       "network": {
          "id": 460,
          "name": "El Trece",
@@ -5464,7 +5460,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -5518,7 +5514,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5615,7 +5611,7 @@
       "status": "In Development",
       "runtime": null,
       "averageRuntime": null,
-      "premiered": null,
+      "premiered": "2026-10-08",
       "ended": null,
       "officialSite": "https://www.youtube.com/@StrongberryKr",
       "schedule": {
@@ -5625,7 +5621,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 60,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -5644,10 +5640,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/634/1586771.jpg"
       },
       "summary": "<p>If you cross the line any further, Team Leader... I don't know what I'll do.</p><p>A romantic and entangled story set in a workplace environment between an employee and his team leader/boss.</p>",
-      "updated": 1785459831,
+      "updated": 1790849358,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93350"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777616",
+            "name": "Episode 1"
          }
       }
    },
@@ -5730,7 +5730,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 7,
       "network": {
          "id": 456,
          "name": "Boomerang",
@@ -5788,7 +5788,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 73,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -5900,7 +5900,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 72,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -5954,7 +5954,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 73,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6006,7 +6006,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 35,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6067,7 +6067,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -6121,7 +6121,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -6312,7 +6312,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1602627.jpg"
       },
       "summary": "<p>\"Anatomy of a Crime\" is a Greek crime anthology series inspired by real-life crimes that shocked Greek society.</p><p>Each episode reconstructs a different criminal case, exploring not only the crime itself, but also the events, human relationships, and motives that led to it. Passion, jealousy, revenge, family conflicts, and personal struggles gradually unfold, revealing the darker side of seemingly ordinary people.</p><p>Featuring different characters and actors in each story, with Grigoris Valtinos serving as the narrator, the series combines crime drama with a psychological exploration of the circumstances and motivations behind each crime.</p><p>The series aired on ANT1 from 1992 to 1995 and was one of the first Greek television productions to adapt real criminal cases into fictionalized television stories.</p><p><br />\u00a0</p><p><br />\u00a0</p>",
-      "updated": 1790475177,
+      "updated": 1790586868,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93364"
@@ -6455,7 +6455,7 @@
       "rating": {
          "average": null
       },
-      "weight": 83,
+      "weight": 84,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -6506,7 +6506,7 @@
       "rating": {
          "average": null
       },
-      "weight": 91,
+      "weight": 90,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -6557,7 +6557,7 @@
       "rating": {
          "average": null
       },
-      "weight": 70,
+      "weight": 76,
       "network": {
          "id": 41,
          "name": "E4",
@@ -6617,7 +6617,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 11,
@@ -6637,18 +6637,18 @@
       },
       "image": null,
       "summary": "<p>As markets open and the day's biggest stories take shape, anchor Christine Romans will translate breaking developments, politics, global news and the economy to help viewers stay informed and understand what's next. The two-hour program will also feature segments on finance, business, technology, AI and other consequential topics, leveraging Romans' role as NBC News' chief business correspondent.\u00a0</p>",
-      "updated": 1790378865,
+      "updated": 1790869349,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93370"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3763529",
-            "name": "Episode 39"
+            "href": "https://api.tvmaze.com/episodes/3770252",
+            "name": "Episode 43"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3770249",
-            "name": "Episode 40"
+            "href": "https://api.tvmaze.com/episodes/3770253",
+            "name": "Episode 44"
          }
       }
    },
@@ -6683,7 +6683,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -6801,7 +6801,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": {
          "id": 980,
          "name": "France 5",
@@ -7030,7 +7030,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 77,
       "network": {
          "id": 40,
          "name": "CNN",
@@ -7089,7 +7089,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 381,
@@ -7260,7 +7260,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -7376,7 +7376,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 47,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -7437,7 +7437,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -7516,7 +7516,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/635/1589053.jpg"
       },
       "summary": "<p>Is there safe sex? Stories of love and infidelity, family habits tested by time, adult games inside and outside the bedroom.</p>",
-      "updated": 1790494744,
+      "updated": 1790834355,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93385"
@@ -7551,7 +7551,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -7605,7 +7605,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -7661,7 +7661,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -7769,7 +7769,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -7827,7 +7827,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -8052,7 +8052,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 29,
       "network": {
          "id": 36,
          "name": "CBC",
@@ -8116,7 +8116,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -8294,7 +8294,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 51,
@@ -8350,7 +8350,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 22,
       "network": {
          "id": 2003,
          "name": "CNA",
@@ -8465,7 +8465,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 79,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -8577,7 +8577,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 76,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -8656,7 +8656,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/635/1588051.jpg"
       },
       "summary": "<p>A charming sales star and a strict accountant make an unlikely pair. What seems like a match of complete opposites ultimately blossoms into love.</p>",
-      "updated": 1788870850,
+      "updated": 1790614952,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93405"
@@ -8813,7 +8813,7 @@
       "rating": {
          "average": null
       },
-      "weight": 63,
+      "weight": 59,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -8878,7 +8878,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 50,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -8987,7 +8987,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 356,
@@ -9100,7 +9100,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 43,
       "network": {
          "id": 1290,
          "name": "2+2",
@@ -9156,7 +9156,7 @@
       "rating": {
          "average": null
       },
-      "weight": 80,
+      "weight": 81,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -9264,7 +9264,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": {
          "id": 2037,
          "name": "ICTV 2",
@@ -9369,7 +9369,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 67,
       "network": {
          "id": 135,
          "name": "5",
@@ -9427,7 +9427,7 @@
       "rating": {
          "average": null
       },
-      "weight": 87,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -9476,7 +9476,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 49,
       "network": {
          "id": 1750,
          "name": "Sky Documentaries",
@@ -9535,7 +9535,7 @@
       "rating": {
          "average": null
       },
-      "weight": 33,
+      "weight": 52,
       "network": {
          "id": 388,
          "name": "U&GOLD",
@@ -9594,7 +9594,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 37,
       "network": {
          "id": 164,
          "name": "RTL",
@@ -9705,7 +9705,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 22,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -9761,7 +9761,7 @@
       "rating": {
          "average": null
       },
-      "weight": 66,
+      "weight": 63,
       "network": {
          "id": 1254,
          "name": "KTV",
@@ -9790,10 +9790,6 @@
             "href": "https://api.tvmaze.com/shows/93426"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3692605",
-            "name": "Episode 10"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3692606",
             "name": "Episode 11"
          }
@@ -9879,7 +9875,7 @@
       "rating": {
          "average": null
       },
-      "weight": 83,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -9911,7 +9907,7 @@
       "genres": [],
       "status": "Running",
       "runtime": 60,
-      "averageRuntime": 67,
+      "averageRuntime": 64,
       "premiered": "2026-08-10",
       "ended": null,
       "officialSite": null,
@@ -9928,7 +9924,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 56,
       "network": {
          "id": 201,
          "name": "MS NOW",
@@ -9951,18 +9947,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1599430.jpg"
       },
       "summary": "<p><b>State of Play</b> focuses on authoritative and original reporting, thoughtful conversations, and in-depth analysis of the biggest political and national stories shaping the day,\u00a0</p>",
-      "updated": 1790346376,
+      "updated": 1790693902,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93429"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3718421",
-            "name": "Episode 36"
+            "href": "https://api.tvmaze.com/episodes/3718425",
+            "name": "Episode 40"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3718422",
-            "name": "Episode 37"
+            "href": "https://api.tvmaze.com/episodes/3718426",
+            "name": "Episode 41"
          }
       }
    },
@@ -9997,7 +9993,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -10141,12 +10137,12 @@
             "href": "https://api.tvmaze.com/shows/93432"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3693042",
-            "name": "Episode 8"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3693043",
             "name": "Episode 9"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3693044",
+            "name": "Episode 10"
          }
       }
    },
@@ -10226,7 +10222,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 63,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -10245,18 +10241,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603890.jpg"
       },
       "summary": "<p>Humorous guessing game where Olli Wermskog invites famous guests to place events and things in the correct order.</p>",
-      "updated": 1790262193,
+      "updated": 1790778878,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93434"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3700405",
-            "name": "Snipp og snapp og snute"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3700408",
             "name": "D\u00f8d og fordervelse"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3700414",
+            "name": "Mord og mysterier"
          }
       }
    },
@@ -10284,7 +10280,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 47,
       "network": {
          "id": 1447,
          "name": "\u0391\u039d\u03a41",
@@ -10346,7 +10342,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 3,
       "network": {
          "id": 2086,
          "name": "Indosiar",
@@ -10400,7 +10396,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 76,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -10456,7 +10452,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 45,
       "network": {
          "id": 298,
          "name": "USA Network",
@@ -10630,7 +10626,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -10688,7 +10684,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -10743,7 +10739,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 54,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -10798,7 +10794,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 47,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -10929,18 +10925,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1599939.jpg"
       },
       "summary": "<p>Nearly three decades after audiences first met him, Varnell Hill is stepping back into the spotlight - and he's determined to prove he's still the star of the show. Set behind the scenes of a long-running late-night talk show, <b>The Varnell Hill Show </b>follows Varnell as he fights to stay relevant in a rapidly changing entertainment landscape. Between network executives eager to modernize the show, a chaotic writers' room, celebrity guests, family drama, and his own outsized ego, Varnell quickly discovers that keeping a television empire together may be harder than building one in the first place.\u00a0</p>",
-      "updated": 1790099165,
+      "updated": 1790704522,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93446"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3693509",
-            "name": "Varnell Hill Keeps It Real"
+            "href": "https://api.tvmaze.com/episodes/3693510",
+            "name": "Varnell Gets Cooked"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3693510",
-            "name": "Episode 6"
+            "href": "https://api.tvmaze.com/episodes/3693511",
+            "name": "Episode 7"
          }
       }
    },
@@ -10968,7 +10964,7 @@
       "rating": {
          "average": null
       },
-      "weight": 92,
+      "weight": 93,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -11021,7 +11017,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -11196,7 +11192,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": {
          "id": 129,
          "name": "TF1",
@@ -11304,7 +11300,7 @@
       "rating": {
          "average": null
       },
-      "weight": 80,
+      "weight": 84,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -11382,18 +11378,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1597616.jpg"
       },
       "summary": "<p><b>Adam's Law </b>is a syndicated daytime courtroom reality series starring former two-term district attorney and TV judge Adam Levy\u2014son of iconic television personality Judge Judy Sheindlin. Created and executive produced by Sheindlin, the show features Levy bringing his fierce, unfiltered, and meticulous legal approach to the bench to cut through noise and ferret out the absolute truth.</p>",
-      "updated": 1790386333,
+      "updated": 1790625303,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93454"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3763327",
-            "name": "Storage Wars!"
+            "href": "https://api.tvmaze.com/episodes/3774659",
+            "name": "Happily Every Hungry"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3763328",
-            "name": "Episode 11"
+            "href": "https://api.tvmaze.com/episodes/3774660",
+            "name": "Girls Gone Wild"
          }
       }
    },
@@ -11485,7 +11481,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 54,
       "network": {
          "id": 1012,
          "name": "Zhejiang TV",
@@ -11600,7 +11596,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 68,
       "network": {
          "id": 72,
          "name": "Syndication",
@@ -11728,7 +11724,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 53,
       "network": {
          "id": 300,
          "name": "\u041d\u0422\u0412",
@@ -11786,7 +11782,7 @@
       "rating": {
          "average": null
       },
-      "weight": 73,
+      "weight": 76,
       "network": null,
       "webChannel": {
          "id": 114,
@@ -11840,7 +11836,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -11891,7 +11887,7 @@
       "rating": {
          "average": null
       },
-      "weight": 33,
+      "weight": 76,
       "network": {
          "id": 346,
          "name": "Crime & Investigation",
@@ -11949,7 +11945,7 @@
       "rating": {
          "average": null
       },
-      "weight": 69,
+      "weight": 80,
       "network": {
          "id": 346,
          "name": "Crime & Investigation",
@@ -12006,7 +12002,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -12064,7 +12060,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 71,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -12122,7 +12118,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 38,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -12181,7 +12177,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 12,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -12350,7 +12346,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -12395,7 +12391,7 @@
       ],
       "status": "Running",
       "runtime": null,
-      "averageRuntime": 65,
+      "averageRuntime": 64,
       "premiered": "2026-08-03",
       "ended": null,
       "officialSite": "https://vkvideo.ru/playlist/-212021856_16",
@@ -12426,14 +12422,14 @@
       },
       "image": null,
       "summary": "<p><b>\u041d\u0430\u0441\u0442\u043e\u043b\u043a\u0430</b> is an energetic Russian comedy game show where hosts Andrey Beburishvili and Alexey Shalnov invite popular stand-up comedians and web personalities to face off in chaotic tabletop challenges. Blending traditional board game dynamics with interactive party rounds\u2014spanning singing, drawing, trivia, and rapid-fire banter\u2014the show trades strict rules for high-energy comedy as guests compete for bragging rights across a single tabletop battlefield.</p>",
-      "updated": 1789407019,
+      "updated": 1790620998,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93472"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3763305",
-            "name": "4 \u0432\u044b\u043f\u0443\u0441\u043a | \u0412\u044f\u043b\u0438\u043a\u043e\u0432\u0430 vs \u042e\u0449\u0443\u043a"
+            "href": "https://api.tvmaze.com/episodes/3774565",
+            "name": "5 \u0432\u044b\u043f\u0443\u0441\u043a | \u0414\u0436\u0430\u0431\u0440\u0430\u0438\u043b\u043e\u0432 vs \u0413\u043e\u0440\u043e\u0445"
          }
       }
    },
@@ -12467,7 +12463,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 787,
          "name": "Channel 7",
@@ -12525,7 +12521,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 26,
       "network": {
          "id": 976,
          "name": "TRT1",
@@ -12593,7 +12589,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 512,
@@ -12651,7 +12647,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 41,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -12708,7 +12704,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -12876,7 +12872,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -12991,7 +12987,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 51,
@@ -13020,12 +13016,12 @@
             "href": "https://api.tvmaze.com/shows/93482"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3695039",
-            "name": "Episode 12"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3695040",
             "name": "Episode 13"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3695041",
+            "name": "Episode 14"
          }
       }
    },
@@ -13051,7 +13047,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 47,
       "network": {
          "id": 389,
          "name": "BBC One Northern Ireland",
@@ -13170,7 +13166,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 281,
@@ -13287,7 +13283,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 47,
       "network": null,
       "webChannel": {
          "id": 366,
@@ -13310,14 +13306,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/635/1589991.jpg"
       },
       "summary": "<p>One travels for shopping, the other for social media. The only thing they have in common is their love of sports. Footballer Fyodor Smolov and blogger Lyosha Bigi travel to the world's biggest sporting events, available to watch on Okko \u2014 from the Olympics and the FIFA World Cup to the Ballon d'Or ceremony.</p><p>But sport is merely an excuse to choose the destination. Their main mission is to complete a series of challenges set by an all-star team of experts. Along the way, the hosts will discover each city's iconic landmarks, sample the local cuisine, and uncover experiences that can surprise even the locals.</p><p><br />\u00a0</p>",
-      "updated": 1789480793,
+      "updated": 1790524131,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93487"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3695229",
-            "name": "\u041f\u0430\u0440\u0438\u0436. \u0422\u0443\u0440 \u0434\u0435 \u0424\u0440\u0430\u043d\u0441"
+            "href": "https://api.tvmaze.com/episodes/3695230",
+            "name": "\u042d\u0440-\u0420\u0438\u044f\u0434"
          }
       }
    },
@@ -13343,7 +13339,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -13443,7 +13439,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 22,
       "network": {
          "id": 109,
          "name": "ZDF",
@@ -13560,7 +13556,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 53,
       "network": {
          "id": 27,
          "name": "Nickelodeon",
@@ -13683,7 +13679,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 22,
       "network": null,
       "webChannel": {
          "id": 93,
@@ -13722,12 +13718,12 @@
       "url": "https://www.tvmaze.com/shows/93495/my-tutor-my-love",
       "name": "My Tutor, My Love",
       "type": "Scripted",
-      "language": null,
+      "language": "Thai",
       "genres": [
          "Drama"
       ],
       "status": "Running",
-      "runtime": null,
+      "runtime": 46,
       "averageRuntime": null,
       "premiered": "2026-06-24",
       "ended": null,
@@ -13742,7 +13738,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 57,
       "network": {
          "id": 1262,
          "name": "One31",
@@ -13764,8 +13760,8 @@
          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/636/1590453.jpg",
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/636/1590453.jpg"
       },
-      "summary": null,
-      "updated": 1786368169,
+      "summary": "<p>When fame becomes a burden and criticism leaves wounds, crossing paths with this tutoring guy\u2026 will it be a lesson, or a test of the heart?</p>",
+      "updated": 1790754260,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/93495"
@@ -13913,7 +13909,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 41,
       "network": {
          "id": 69,
          "name": "Sky Arts",
@@ -13970,7 +13966,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 482,

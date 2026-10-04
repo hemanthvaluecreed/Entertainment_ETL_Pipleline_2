@@ -12,6 +12,8 @@ def run_validation():
     logger.info("VALIDATION STARTED")
 
     validation_queries = {
+        
+        # Basic record validation
         "Total Shows": """
             SELECT COUNT(*)
             FROM Shows;
@@ -50,7 +52,7 @@ def run_validation():
                 ON sg.show_id = s.show_id
             WHERE s.show_id IS NULL;
         """,
-
+        # Foreign key validation
         "Orphan ShowGenres → Genres": """
             SELECT COUNT(*)
             FROM ShowGenres sg
@@ -74,6 +76,7 @@ def run_validation():
                 ON ssd.day_id = sd.day_id
             WHERE sd.day_id IS NULL;
         """,
+         # Required field validation
 
         "Missing Show Names": """
             SELECT COUNT(*)
@@ -81,6 +84,7 @@ def run_validation():
             WHERE show_name IS NULL
                OR TRIM(show_name) = '';
         """,
+        # Business rule validation
 
         "Invalid Ratings": """
             SELECT COUNT(*)
@@ -109,6 +113,16 @@ def run_validation():
             WHERE genre_count IS NOT NULL
               AND genre_count < 0;
         """,
+      
+        # Date validation
+    
+        "Invalid Show Dates": """
+            SELECT COUNT(*)
+            FROM Shows
+            WHERE premiered_date IS NOT NULL
+              AND ended_date IS NOT NULL
+              AND ended_date < premiered_date;
+        """
     }
 
     try:

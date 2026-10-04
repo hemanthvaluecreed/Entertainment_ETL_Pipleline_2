@@ -25,7 +25,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 85,
+      "weight": 91,
       "network": {
          "id": 72,
          "name": "Syndication",
@@ -84,7 +84,7 @@
       "rating": {
          "average": 8.2
       },
-      "weight": 93,
+      "weight": 91,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -144,7 +144,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 95,
+      "weight": 93,
       "network": {
          "id": 72,
          "name": "Syndication",
@@ -202,7 +202,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 94,
+      "weight": 86,
       "network": {
          "id": 16,
          "name": "Syfy",
@@ -262,7 +262,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 96,
+      "weight": 95,
       "network": {
          "id": 71,
          "name": "The WB",
@@ -441,7 +441,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 90,
+      "weight": 95,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -500,7 +500,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 81,
+      "weight": 88,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -559,7 +559,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 74,
+      "weight": 94,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -619,7 +619,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 85,
+      "weight": 93,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -677,7 +677,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 85,
+      "weight": 94,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -735,7 +735,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 74,
+      "weight": 93,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -795,7 +795,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 94,
+      "weight": 93,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -853,7 +853,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 84,
+      "weight": 58,
       "network": {
          "id": 78,
          "name": "Disney Channel",
@@ -913,7 +913,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 75,
+      "weight": 96,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -1033,7 +1033,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 98,
+      "weight": 99,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -1089,7 +1089,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 56,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -1145,7 +1145,7 @@
       "rating": {
          "average": null
       },
-      "weight": 34,
+      "weight": 70,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -1261,7 +1261,7 @@
       "rating": {
          "average": 5.6
       },
-      "weight": 84,
+      "weight": 90,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -1431,7 +1431,7 @@
       "rating": {
          "average": 6.4
       },
-      "weight": 98,
+      "weight": 99,
       "network": {
          "id": 66,
          "name": "Discovery",
@@ -1454,18 +1454,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/613/1533044.jpg"
       },
       "summary": "<p>The secret and illegal world of moonshining stretches all across Appalachia raking in a pretty penny for those who choose to shine. <b>Moonshiners</b> will go to unprecedented extremes in their efforts to hide their still sites and cloak their distribution networks, some can hide in plain sight. With new styles of shine being tested and sold there is a king's ransom waiting for those bold enough to grab it. But those who enforce the law are wise to shiner deceptions and more determined than ever to catch them red handed and in the act of making Moonshine. The day of reckoning may be around the corner, but don't sell the Moonshiners short. Each has a keen understanding of how to stay one step ahead of the law in their region, and in this ongoing cat and mouse game you never know who will end up in the trap.</p>",
-      "updated": 1790052714,
+      "updated": 1790654489,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/524"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3590028",
-            "name": "Outlaw & Order"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3748295",
             "name": "Life, Liberty, and Tax-free Liquor"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3769672",
+            "name": "Stranger Danger"
          }
       }
    },
@@ -1670,7 +1670,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 93,
+      "weight": 94,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -1728,7 +1728,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 44,
       "network": {
          "id": 174,
          "name": "Cooking Channel",
@@ -1786,7 +1786,7 @@
       "rating": {
          "average": 8.3
       },
-      "weight": 98,
+      "weight": 99,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -1842,7 +1842,7 @@
       "rating": {
          "average": null
       },
-      "weight": 70,
+      "weight": 81,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -1924,8 +1924,8 @@
          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11371.jpg",
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11371.jpg"
       },
-      "summary": "<p>Fresh out of medical school, new doctors John \"J.D.\" Dorian, his best friend Christopher Turk, and Elliot Reid start their internship at Sacred Heart Hospital. There, they meet the harsh Chief of Medicine Dr. Bob Kelso, J.D.'s reluctant mentor Dr. Perry Cox, nurse Carla Espinosa, and the deceitful and prankish Janitor. Also at the hospital are the wide range of personalities of Sacred Heart's staff, including the religious nurse Laverne Roberts, incompetent lawyer Ted Buckland, and spiteful board member Jordan Sullivan who also happens to be Cox's ex-wife. Other interns make the cut, such as the high-fiving Todd Quinlan and nervous Doug Murphy. Over the next 9 years they face personal and professional highs and lows, realizing that they can't make it through life - much less a hectic job as a doctor - on their own.<br /><br />Seasons 1-7 Aired on NBC<br />Seasons 8-9 Aired on ABC</p>",
-      "updated": 1789852335,
+      "summary": "<p>Fresh out of medical school, new doctors John \"J.D.\" Dorian, his best friend Christopher Turk, and Elliot Reid start their internship at Sacred Heart Hospital. There, they meet the harsh Chief of Medicine Dr. Bob Kelso, J.D.'s reluctant mentor Dr. Perry Cox, nurse Carla Espinosa, and the deceitful and prankish Janitor. Also at the hospital are the wide range of personalities of Sacred Heart's staff, including the religious nurse Laverne Roberts, incompetent lawyer Ted Buckland, and spiteful board member Jordan Sullivan who also happens to be Cox's ex-wife. Other interns make the cut, such as the high-fiving Todd Quinlan and nervous Doug Murphy. Over the next 9 years they face personal and professional highs and lows, realizing that they can't make it through life - much less a hectic job as a doctor - on their own.</p>",
+      "updated": 1790883946,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/532"
@@ -1961,7 +1961,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 92,
+      "weight": 93,
       "network": {
          "id": 57,
          "name": "TV Land",
@@ -2042,7 +2042,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/607/1518197.jpg"
       },
       "summary": "<p>Long before banks, ATMS and check-cashing services, there were pawn shops. Pawning was the leading form of consumer credit in the United States until the 1950s, and pawn shops are still helping everyday people make ends meet. <b>Pawn Stars</b> takes you inside the colorful world of the pawn business. At the Gold &amp; Silver Pawn Shop on the outskirts of Las Vegas, three generations of the Harrison family - grandfather Richard, son Rick and grandson Corey - jointly run the family business, and there's clashing and camaraderie every step of the way. The three men use their sharp eyes and skills to assess the value of items from the commonplace to the truly historic, including a 16th-century samurai sword, a Super Bowl ring, a Picasso painting and a 17th-century stay of execution. It's up to them to determine what's real and what's fake, as they reveal the often surprising answer to the questions on everyone's mind, \"What's the story behind it?\" and \"What's it worth?\"</p>",
-      "updated": 1790136329,
+      "updated": 1790838854,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/534"
@@ -2082,7 +2082,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 73,
+      "weight": 94,
       "network": {
          "id": 82,
          "name": "Travel Channel",
@@ -2141,7 +2141,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -2199,7 +2199,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -2282,16 +2282,12 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584696.jpg"
       },
       "summary": "<p><b>Futurama</b> follows pizza guy Philip J. Fry, who reawakens in 31st century New New York after a cryonics lab accident. Now part of the Planet Express delivery crew, Fry travels to the farthest reaches of the universe with his robot buddy Bender and cyclopsian love interest Leela, discovering freaky mutants, intergalactic conspiracies and other strange stuff.</p>",
-      "updated": 1790038428,
+      "updated": 1790637439,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/538"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3691310",
-            "name": "A New New York Yankee in King Elfo's Court"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3691311",
             "name": "Final Ending: The Last Conclusion"
          }
@@ -2499,7 +2495,7 @@
       "rating": {
          "average": 8.5
       },
-      "weight": 98,
+      "weight": 99,
       "network": {
          "id": 16,
          "name": "Syfy",
@@ -2582,7 +2578,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11451.jpg"
       },
       "summary": "<p>An ex-cop suffering from obsessive-compulsive disorder solves crimes with various (and usually exasperated) sidekicks. The 'defective detective' may have an abundance of phobias (heights, crowds, and even milk), but also razor-sharp deductive skills, which he uses to help the San Francisco police with especially baffling cases.</p>",
-      "updated": 1790225484,
+      "updated": 1790826133,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/543"
@@ -2618,7 +2614,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 74,
+      "weight": 93,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -2678,7 +2674,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 58,
+      "weight": 73,
       "network": null,
       "webChannel": {
          "id": 10,
@@ -2734,7 +2730,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 73,
+      "weight": 57,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -2852,7 +2848,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 95,
+      "weight": 74,
       "network": {
          "id": 41,
          "name": "E4",
@@ -2910,7 +2906,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 97,
+      "weight": 92,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -2970,7 +2966,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 98,
+      "weight": 99,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -3051,7 +3047,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/500/1250735.jpg"
       },
       "summary": "<p><b>Curb Your Enthusiasm</b> stars <i>Seinfeld</i> co-creator Larry David as himself in an unsparing but tongue-in-cheek depiction of his life. Shot in a verite style and featuring celebrities playing themselves, the episodes are improvised by the actors from an outline created by David.</p>",
-      "updated": 1790439893,
+      "updated": 1790882001,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/551"
@@ -3145,7 +3141,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -3204,7 +3200,7 @@
       "rating": {
          "average": 8.6
       },
-      "weight": 98,
+      "weight": 99,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -3324,7 +3320,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 90,
+      "weight": 91,
       "network": {
          "id": 47,
          "name": "FXX",
@@ -3384,7 +3380,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 98,
+      "weight": 99,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -3444,7 +3440,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 74,
+      "weight": 49,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -3563,7 +3559,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -3623,7 +3619,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 58,
+      "weight": 95,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -3683,7 +3679,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 99,
+      "weight": 100,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -3706,7 +3702,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1602766.jpg"
       },
       "summary": "<p>In the criminal justice system, the people are represented by two separate, yet equally important, groups: the police, who investigate crime; and the district attorneys, who prosecute the offenders. These are their stories.</p>",
-      "updated": 1790099633,
+      "updated": 1790834030,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/562"
@@ -3802,7 +3798,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 98,
+      "weight": 96,
       "network": {
          "id": 13,
          "name": "FX",
@@ -3922,7 +3918,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -3981,7 +3977,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 98,
+      "weight": 96,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -4037,7 +4033,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 74,
+      "weight": 98,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -4097,7 +4093,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 58,
+      "weight": 90,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -4214,7 +4210,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -4273,7 +4269,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 53,
          "name": "History",
@@ -4296,7 +4292,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/538/1345359.jpg"
       },
       "summary": "<p>This isn't your grandmother's antiquing. The <b>American Pickers</b> are on a mission to recycle America, even if it means diving into countless piles of grimy junk or getting chased off a gun-wielding homeowner's land. Hitting back roads from coast to coast, the Pickers earn a living by restoring forgotten relics to their former glory, transforming one person's trash into another's treasure. The show follows the team as they scour the country for hidden gems in junkyards, basements, garages and barns, meeting quirky characters and hearing their amazing stories. If you think the antique business is all about upscale boutiques and buttoned-up dealers, this show may change your mind \u2013 and teach you a thing or two about American history along the way.</p>",
-      "updated": 1790451944,
+      "updated": 1790726565,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/572"
@@ -4391,7 +4387,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 85,
+      "weight": 74,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -4449,7 +4445,7 @@
       "rating": {
          "average": 3.2
       },
-      "weight": 90,
+      "weight": 93,
       "network": {
          "id": 43,
          "name": "E!",
@@ -4565,7 +4561,7 @@
       "rating": {
          "average": 8.5
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -4624,7 +4620,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -4683,7 +4679,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 84,
+      "weight": 57,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -4742,7 +4738,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 74,
+      "weight": 94,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -4861,7 +4857,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 94,
+      "weight": 97,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -4978,7 +4974,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 96,
+      "weight": 73,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -5036,7 +5032,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 92,
+      "weight": 94,
       "network": {
          "id": 82,
          "name": "Travel Channel",
@@ -5096,7 +5092,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 96,
+      "weight": 85,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -5154,7 +5150,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -5211,7 +5207,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 95,
+      "weight": 72,
       "network": {
          "id": 10,
          "name": "Adult Swim",
@@ -5269,7 +5265,7 @@
       "rating": {
          "average": 5.9
       },
-      "weight": 83,
+      "weight": 92,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -5387,7 +5383,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 64,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -5561,9 +5557,9 @@
          ]
       },
       "rating": {
-         "average": 6.7
+         "average": 6.6
       },
-      "weight": 89,
+      "weight": 96,
       "network": {
          "id": 27,
          "name": "Nickelodeon",
@@ -5623,7 +5619,7 @@
       "rating": {
          "average": 6.4
       },
-      "weight": 95,
+      "weight": 97,
       "network": {
          "id": 27,
          "name": "Nickelodeon",
@@ -5679,7 +5675,7 @@
       "rating": {
          "average": 4.4
       },
-      "weight": 94,
+      "weight": 96,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -5796,7 +5792,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 32,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -5904,7 +5900,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 69,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -5960,7 +5956,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 36,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -6016,7 +6012,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 37,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -6075,7 +6071,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 52,
       "network": {
          "id": 82,
          "name": "Travel Channel",
@@ -6134,7 +6130,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 65,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -6194,7 +6190,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 55,
+      "weight": 70,
       "network": {
          "id": 86,
          "name": "Smithsonian Channel",
@@ -6253,7 +6249,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 96,
+      "weight": 56,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -6313,7 +6309,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 91,
+      "weight": 58,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -6371,7 +6367,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 84,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -6454,7 +6450,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/544/1361732.jpg"
       },
       "summary": "<p>In the hit series <b>Expedition Unknown</b>, Travel Channel's witty explorer Josh Gates seeks answers to some of the world's most captivating unsolved stories and legends. Gates is on a mission to find the truth behind each iconic legend, digging through years of historical evidence, facts and myths. Leaving no stone unturned, his adventures take him around the globe as he immerses himself in the core locales linked to each tale. From excavating ruins in search of the real Robin Hood to sailing the high seas investigating Christopher Columbus and exploring Nepal's \"sky caves\" for Shangri La, Gates' archaeological background and ubiquitous sense of humor generate a new take on age-old stories.</p>",
-      "updated": 1789147092,
+      "updated": 1790720662,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/612"
@@ -6491,7 +6487,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 96,
+      "weight": 85,
       "network": {
          "id": 22,
          "name": "MTV",
@@ -6613,7 +6609,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 56,
+      "weight": 95,
       "network": {
          "id": 53,
          "name": "History",
@@ -6669,7 +6665,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 69,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -6729,7 +6725,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -6907,7 +6903,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 91,
+      "weight": 98,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -6967,7 +6963,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 93,
+      "weight": 85,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -7082,7 +7078,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 57,
+      "weight": 91,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -7138,7 +7134,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 89,
+      "weight": 92,
       "network": {
          "id": 55,
          "name": "VH1",
@@ -7253,7 +7249,7 @@
       "rating": {
          "average": 6.1
       },
-      "weight": 72,
+      "weight": 89,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -7313,7 +7309,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 96,
+      "weight": 95,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -7369,7 +7365,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 67,
       "network": {
          "id": 88,
          "name": "Pop",
@@ -7427,7 +7423,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 39,
       "network": {
          "id": 81,
          "name": "Food Network",
@@ -7485,7 +7481,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 44,
       "network": {
          "id": 89,
          "name": "Investigation Discovery",
@@ -7543,7 +7539,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 35,
       "network": {
          "id": 89,
          "name": "Investigation Discovery",
@@ -7599,7 +7595,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 64,
       "network": {
          "id": 89,
          "name": "Investigation Discovery",
@@ -7655,7 +7651,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 46,
       "network": {
          "id": 81,
          "name": "Food Network",
@@ -7831,7 +7827,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 52,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -7891,7 +7887,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 49,
+      "weight": 72,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -8006,7 +8002,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 54,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -8065,7 +8061,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 49,
       "network": {
          "id": 77,
          "name": "Science",
@@ -8124,7 +8120,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 33,
       "network": {
          "id": 90,
          "name": "Magnolia Network",
@@ -8182,7 +8178,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 82,
+      "weight": 89,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -8238,7 +8234,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 52,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -8296,7 +8292,7 @@
       "rating": {
          "average": null
       },
-      "weight": 66,
+      "weight": 67,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -8354,7 +8350,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 73,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -8410,7 +8406,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 31,
       "network": {
          "id": 55,
          "name": "VH1",
@@ -8466,7 +8462,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 79,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -8525,7 +8521,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 92,
+      "weight": 53,
       "network": {
          "id": 18,
          "name": "Lifetime",
@@ -8581,7 +8577,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 47,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -8637,7 +8633,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 68,
       "network": {
          "id": 18,
          "name": "Lifetime",
@@ -8693,7 +8689,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 81,
+      "weight": 88,
       "network": {
          "id": 21,
          "name": "El Rey Network",
@@ -8749,7 +8745,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 61,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -8832,7 +8828,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/13018.jpg"
       },
       "summary": "<p>Meet <b>Ally McBeal</b>, a single lawyer both blessed and cursed with eccentric colleagues, a now-married-to-someone-else childhood sweetheart, and an incredibly overactive imagination that's working overtime!</p>",
-      "updated": 1783770263,
+      "updated": 1790830416,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/655"
@@ -8867,7 +8863,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 83,
+      "weight": 90,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -8987,7 +8983,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 56,
+      "weight": 85,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -9105,7 +9101,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 96,
+      "weight": 95,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -9161,7 +9157,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 88,
+      "weight": 93,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -9280,7 +9276,7 @@
       "rating": {
          "average": 8.6
       },
-      "weight": 95,
+      "weight": 97,
       "network": {
          "id": 13,
          "name": "FX",
@@ -9340,7 +9336,7 @@
       "rating": {
          "average": 6.4
       },
-      "weight": 83,
+      "weight": 55,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -9460,7 +9456,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 93,
+      "weight": 97,
       "network": {
          "id": 18,
          "name": "Lifetime",
@@ -9520,7 +9516,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -9580,7 +9576,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 95,
+      "weight": 96,
       "network": {
          "id": 73,
          "name": "Nicktoons",
@@ -9640,7 +9636,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 95,
+      "weight": 97,
       "network": {
          "id": 49,
          "name": "BBC Three",
@@ -9703,7 +9699,7 @@
       "rating": {
          "average": 8.4
       },
-      "weight": 98,
+      "weight": 99,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -9763,7 +9759,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 92,
+      "weight": 96,
       "network": {
          "id": 25,
          "name": "Disney XD",
@@ -9882,7 +9878,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 95,
+      "weight": 97,
       "network": {
          "id": 70,
          "name": "UPN",
@@ -10021,7 +10017,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/561/1403626.jpg"
       },
       "summary": "<p><b>Ancient Aliens</b> explores the controversial theory that extraterrestrials have visited Earth for millions of years. From the age of the dinosaurs to ancient Egypt, from early cave drawings to continued mass sightings in the US, each episode in this hit History series gives historic depth to the questions, speculations, provocative controversies, first-hand accounts and grounded theories surrounding this age old debate. Did intelligent beings from outer space visit Earth thousands of years ago?</p>",
-      "updated": 1790453552,
+      "updated": 1790601253,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/675"
@@ -10058,7 +10054,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 56,
+      "weight": 97,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -10118,7 +10114,7 @@
       "rating": {
          "average": 8.4
       },
-      "weight": 90,
+      "weight": 97,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -10176,7 +10172,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -10295,7 +10291,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 93,
+      "weight": 71,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -10415,7 +10411,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 97,
+      "weight": 99,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -10475,7 +10471,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 96,
+      "weight": 95,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -10534,7 +10530,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 83,
+      "weight": 94,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -10594,7 +10590,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 82,
+      "weight": 89,
       "network": {
          "id": 18,
          "name": "Lifetime",
@@ -10653,7 +10649,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 10,
          "name": "Adult Swim",
@@ -10767,7 +10763,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 97,
+      "weight": 95,
       "network": {
          "id": 28,
          "name": "NewsNation",
@@ -10827,7 +10823,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 97,
+      "weight": 98,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -10882,7 +10878,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 95,
+      "weight": 96,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -10946,7 +10942,7 @@
       "rating": {
          "average": 3.8
       },
-      "weight": 89,
+      "weight": 90,
       "network": {
          "id": 540,
          "name": "PBS Kids",
@@ -11004,7 +11000,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 95,
+      "weight": 97,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -11062,7 +11058,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 71,
+      "weight": 92,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -11120,7 +11116,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 95,
+      "weight": 98,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -11181,7 +11177,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 82,
+      "weight": 83,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -11240,7 +11236,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 94,
+      "weight": 84,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -11296,7 +11292,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 92,
+      "weight": 87,
       "network": null,
       "webChannel": {
          "id": 48,
@@ -11416,7 +11412,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 86,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -11611,7 +11607,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/597/1492601.jpg"
       },
       "summary": "<p><b>Gold Rush</b> follows six men who, in the face of an economic meltdown, risk everything - their families, their dignity, and in some cases, their lives - to strike it rich mining for gold in the wilds of Alaska. Inspired by his father Jack, Todd Hoffman of Sandy, Oregon, leads a group of greenhorn miners to forge a new frontier and save their families from dire straits. While leasing a gold claim in Alaska, Todd and his company of newbies face the grandeur of Alaska as well as its hardships, including an impending winter that will halt operations and the opportunity to strike gold. In an effort to keep the operation running, the team takes fate into their own hands with a make or break venture that will change their lives forever.</p>",
-      "updated": 1790310833,
+      "updated": 1790874913,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/702"
@@ -11650,7 +11646,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 97,
+      "weight": 96,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -11707,7 +11703,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 94,
+      "weight": 96,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -11763,7 +11759,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 94,
+      "weight": 96,
       "network": {
          "id": 66,
          "name": "Discovery",
@@ -11883,7 +11879,7 @@
       "rating": {
          "average": 6.4
       },
-      "weight": 95,
+      "weight": 94,
       "network": {
          "id": 78,
          "name": "Disney Channel",
@@ -11952,7 +11948,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 90,
+      "weight": 97,
       "network": {
          "id": 91,
          "name": "NRK1",
@@ -12012,7 +12008,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 89,
+      "weight": 71,
       "network": {
          "id": 63,
          "name": "Sky Showcase",
@@ -12130,7 +12126,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 95,
+      "weight": 83,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -12309,7 +12305,7 @@
       "rating": {
          "average": 8.2
       },
-      "weight": 98,
+      "weight": 99,
       "network": {
          "id": 70,
          "name": "UPN",
@@ -12450,7 +12446,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15077.jpg"
       },
       "summary": "<p>Get ready to join Dr. Sam Beckett on the adventure of many lifetimes! Who will he be this time? Mafia hit man. Air Force test pilot. Professional boxer. Sam Beckett is a time traveler who never knows whose body he is going to \"leap\" into next and at what moment in history he may find himself. Sam is joined by a helpful but easily distracted holographic guide Al, who assists him on his missions and aids Sam in his ultimate goal of returning to his own life in the present.</p>",
-      "updated": 1786241230,
+      "updated": 1790687959,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/717"
@@ -12512,18 +12508,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/640/1601382.jpg"
       },
       "summary": "<p>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's \"The Tonight Show\" back to its New York origins when he launched <b>The Tonight Show Starring Jimmy Fallon </b>from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</p>",
-      "updated": 1790269858,
+      "updated": 1790828607,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/718"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3766641",
-            "name": "Karl-Anthony Towns, Sienna Miller, Stefano Domenicali, Gary Simons"
+            "href": "https://api.tvmaze.com/episodes/3770846",
+            "name": "Anne Hathaway, Riz Ahmed, Alex Warren"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3766066",
-            "name": "Sylvester Stallone, Luke Bryan"
+            "href": "https://api.tvmaze.com/episodes/3776971",
+            "name": "Chris Rock, Jennifer Hudson, Alabama Shakes"
          }
       }
    },
@@ -12549,7 +12545,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 53,
+      "weight": 70,
       "network": {
          "id": 92,
          "name": "Animal Planet",
@@ -12608,7 +12604,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 96,
+      "weight": 94,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -12664,7 +12660,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 76,
       "network": {
          "id": 53,
          "name": "History",
@@ -12782,7 +12778,7 @@
       "rating": {
          "average": 6.4
       },
-      "weight": 78,
+      "weight": 88,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -12847,7 +12843,7 @@
       "rating": {
          "average": null
       },
-      "weight": 76,
+      "weight": 63,
       "network": {
          "id": 53,
          "name": "History",
@@ -12905,7 +12901,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 87,
+      "weight": 85,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -12961,7 +12957,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 89,
+      "weight": 83,
       "network": {
          "id": 93,
          "name": "CNBC",
@@ -13079,7 +13075,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 95,
+      "weight": 90,
       "network": {
          "id": 34,
          "name": "Paramount Network",
@@ -13137,7 +13133,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 96,
+      "weight": 94,
       "network": {
          "id": 34,
          "name": "Paramount Network",
@@ -13195,7 +13191,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -13255,7 +13251,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 72,
+      "weight": 91,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -13315,7 +13311,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 54,
+      "weight": 90,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -13375,7 +13371,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 96,
+      "weight": 98,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -13435,7 +13431,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 70,
+      "weight": 82,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -13491,7 +13487,7 @@
       "rating": {
          "average": 5.4
       },
-      "weight": 90,
+      "weight": 92,
       "network": {
          "id": 27,
          "name": "Nickelodeon",
@@ -13547,7 +13543,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 51,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -13605,7 +13601,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 96,
+      "weight": 84,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -13665,7 +13661,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -13721,7 +13717,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 64,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -13780,7 +13776,7 @@
       "rating": {
          "average": 6.3
       },
-      "weight": 92,
+      "weight": 94,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -13838,7 +13834,7 @@
       "rating": {
          "average": 3.3
       },
-      "weight": 96,
+      "weight": 97,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -13951,7 +13947,7 @@
       "rating": {
          "average": 6.3
       },
-      "weight": 98,
+      "weight": 96,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -14134,7 +14130,7 @@
       "rating": {
          "average": 8.7
       },
-      "weight": 95,
+      "weight": 94,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -14194,7 +14190,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 96,
+      "weight": 97,
       "network": {
          "id": 2,
          "name": "CBS",

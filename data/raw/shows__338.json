@@ -19,7 +19,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 208,
@@ -72,7 +72,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 381,
@@ -126,7 +126,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 50,
       "network": null,
       "webChannel": {
          "id": 356,
@@ -182,7 +182,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 50,
       "network": null,
       "webChannel": {
          "id": 368,
@@ -237,7 +237,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 697,
@@ -351,7 +351,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 61,
       "network": {
          "id": 649,
          "name": "Food Network",
@@ -409,7 +409,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 58,
       "network": {
          "id": 1095,
          "name": "GMM25",
@@ -468,7 +468,7 @@
       "rating": {
          "average": null
       },
-      "weight": 34,
+      "weight": 36,
       "network": {
          "id": 787,
          "name": "Channel 7",
@@ -524,7 +524,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -641,7 +641,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 11,
       "network": {
          "id": 1289,
          "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b \u0415\u0432\u0440\u0430\u0437\u0438\u044f",
@@ -816,7 +816,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 9,
       "network": {
          "id": 1863,
          "name": "Noovo",
@@ -977,7 +977,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -1160,11 +1160,11 @@
       "externals": {
          "tvrage": null,
          "thetvdb": 463420,
-         "imdb": null
+         "imdb": "tt36842987"
       },
       "image": null,
       "summary": "<p><b>The Wanted Man</b> charts the rise and fall of Felix Carmichael, the elusive and powerful head of notorious British crime syndicate \u2018The Capital.' Untouchable for twenty years, Carmichael is finally apprehended, but while he's held in the infamous Staplehurst prison, it becomes clear that he's been betrayed by one of his own. As the traitor moves to dismantle the empire he has built, Carmichael must risk everything in a daring escape. Willing to stop at nothing to take his revenge, if he succeeds, he'll be a wanted man once more.</p>",
-      "updated": 1790283606,
+      "updated": 1790628933,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84521"
@@ -1199,7 +1199,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 265,
@@ -1250,7 +1250,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -1504,22 +1504,22 @@
          "imdb": "tt37063558"
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/638/1597467.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/638/1597467.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/641/1603739.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603739.jpg"
       },
       "summary": "<p><b>R.J. Decker </b>centers on the eponymous R.J. Decker, a disgraced newspaper photographer and ex-con who starts over as a private investigator in the colorful-if-crime-filled world of South Florida, tackling cases that range from slightly odd to outright bizarre with the help of his journalist ex, her police detective wife, and a shadowy new benefactor, a woman from his past who could be his greatest ally... or his one-way ticket back to prison.</p>",
-      "updated": 1790229995,
+      "updated": 1790799982,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84527"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3710823",
-            "name": "Manos: Hands of Fate"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3710824",
             "name": "Arms and Armadillos"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3762941",
+            "name": "The Angler"
          }
       }
    },
@@ -1551,7 +1551,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 4,
       "network": {
          "id": 307,
          "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -1614,7 +1614,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": {
          "id": 304,
          "name": "\u0421\u0422\u0421",
@@ -1787,7 +1787,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 1,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -1840,7 +1840,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 13,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -1900,7 +1900,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": {
          "id": 495,
          "name": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439",
@@ -1962,7 +1962,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 333,
          "name": "TVP2",
@@ -2075,7 +2075,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 64,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -2122,7 +2122,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 701,
@@ -2230,7 +2230,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 337,
@@ -2288,7 +2288,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": {
          "id": 97,
          "name": "Antena 3",
@@ -2345,7 +2345,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 461,
@@ -2478,18 +2478,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/582/1456031.jpg"
       },
       "summary": "<p><b>1000-lb Roomies </b>a bold, unfiltered and heart-filled new series that proves friendship really is the best medicine. Join Jasmine aka \"Jaz\" and Nesha, two vibrant personalities who went from online strangers to inseparable friends and roommates, as they embark on a mission to reclaim their health.</p>",
-      "updated": 1790486797,
+      "updated": 1790834521,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84544"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3750215",
-            "name": "Step Yo Game Up"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3758669",
             "name": "Waddle We Do Now?"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3765198",
+            "name": "Sole Searching"
          }
       }
    },
@@ -2516,7 +2516,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -2568,7 +2568,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 313,
          "name": "Life Style.",
@@ -2685,7 +2685,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 31,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -2737,7 +2737,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 78,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -2910,7 +2910,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 4,
       "network": {
          "id": 1983,
          "name": "Merit Street",
@@ -2970,7 +2970,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 51,
       "network": {
          "id": 1700,
          "name": "STVR",
@@ -2993,14 +2993,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/568/1420403.jpg"
       },
       "summary": "<p>In the Slovak Television's knowledge competition, hosted by Gregor Mare\u0161, two opponents will compete, as is customary in duels. In three competition rounds, they have the opportunity to compare and turn their knowledge from various areas of life into money. An attractive novelty is undoubtedly the immediate handover of the entire financial prize to the winner at the end of the show. Of course, if he does not decide to continue playing and winning.</p>",
-      "updated": 1790104675,
+      "updated": 1790612567,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84553"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3770028",
-            "name": "Episode 113"
+            "href": "https://api.tvmaze.com/episodes/3774444",
+            "name": "Episode 116"
          }
       }
    },
@@ -3026,7 +3026,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 29,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -3168,18 +3168,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1597644.jpg"
       },
       "summary": "<p>In <b>Best Medicine </b>a brilliant surgeon leaves Boston to become a small-town doctor where he spent childhood summers. Despite his medical skills, his rude manner alienates locals as he battles hidden phobias and struggles with personal connections.</p>",
-      "updated": 1790308705,
+      "updated": 1790754330,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84556"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3673496",
-            "name": "Be Careful What You Fish For"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3725324",
             "name": "Breakin' in Is Hard to Do"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3762532",
+            "name": "Crate Expectations"
          }
       }
    },
@@ -3205,7 +3205,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 1,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -3259,7 +3259,7 @@
       "rating": {
          "average": null
       },
-      "weight": 60,
+      "weight": 73,
       "network": null,
       "webChannel": {
          "id": 52,
@@ -3315,7 +3315,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 1,
       "network": {
          "id": 275,
          "name": "TG4",
@@ -3366,7 +3366,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 13,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -3422,7 +3422,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 410,
@@ -3538,7 +3538,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 8,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -3596,7 +3596,7 @@
       "rating": {
          "average": 5.7
       },
-      "weight": 95,
+      "weight": 96,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -3650,7 +3650,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 58,
       "network": {
          "id": 390,
          "name": "Rai 1",
@@ -3708,7 +3708,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -3762,7 +3762,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -3922,7 +3922,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -3974,7 +3974,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -4029,7 +4029,7 @@
       "rating": {
          "average": null
       },
-      "weight": 63,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 584,
@@ -4079,7 +4079,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -4135,7 +4135,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 401,
@@ -4237,7 +4237,7 @@
       "status": "In Development",
       "runtime": null,
       "averageRuntime": null,
-      "premiered": null,
+      "premiered": "2026-12-17",
       "ended": null,
       "officialSite": null,
       "schedule": {
@@ -4247,7 +4247,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 94,
       "network": null,
       "webChannel": {
          "id": 347,
@@ -4262,15 +4262,22 @@
       "dvdCountry": null,
       "externals": {
          "tvrage": null,
-         "thetvdb": null,
-         "imdb": null
+         "thetvdb": 463501,
+         "imdb": "tt36881756"
       },
-      "image": null,
-      "summary": null,
-      "updated": 1776965173,
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609333.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609333.jpg"
+      },
+      "summary": "<p><b>Ted: The Animated Series</b> is a sequel to the <i>Ted</i> and <i>Ted 2</i> films. Picking up twelve years after the conclusion of the last movie, John and his thunder-buddy Ted are neighbors, both with families of their own and dead-end jobs. The series follows these two lovable stoners as they enable each other's bad ideas about marriage, parenting and the challenges of adult life.</p>",
+      "updated": 1790837744,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84576"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776948",
+            "name": "A Star is Burped"
          }
       }
    },
@@ -4294,7 +4301,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 208,
@@ -4407,7 +4414,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 60,
       "network": null,
       "webChannel": {
          "id": 401,
@@ -4459,7 +4466,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 22,
       "network": {
          "id": 1037,
          "name": "GNT",
@@ -4677,7 +4684,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 65,
       "network": {
          "id": 2042,
          "name": "National Geographic",
@@ -4731,7 +4738,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 54,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -4787,7 +4794,7 @@
       "rating": {
          "average": null
       },
-      "weight": 88,
+      "weight": 84,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -4844,7 +4851,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 22,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -4902,7 +4909,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 59,
       "network": {
          "id": 89,
          "name": "Investigation Discovery",
@@ -4960,7 +4967,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 42,
       "network": {
          "id": 90,
          "name": "Magnolia Network",
@@ -5018,7 +5025,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 17,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -5072,7 +5079,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -5125,7 +5132,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 26,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -5287,7 +5294,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 60,
       "network": null,
       "webChannel": {
          "id": 331,
@@ -5366,7 +5373,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584989.jpg"
       },
       "summary": "<p>A group of young Baddie hopefuls run wild in Rio de Janeiro, Brazil.\u00a0</p>",
-      "updated": 1785074205,
+      "updated": 1790762336,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84597"
@@ -5400,7 +5407,7 @@
       "rating": {
          "average": 5.7
       },
-      "weight": 89,
+      "weight": 68,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -5452,7 +5459,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 12,
@@ -5641,18 +5648,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1597838.jpg"
       },
       "summary": "<p>In <b>99 to Beat</b>, 100 contestants go head-to-head in a range of visually distinctive and hilarious games in an arced competition game show like we've never seen before. 99 to Beat\u00a0is the game show that anyone can win, and there's only one thing players must do for a chance of walking away with the cash prize \u2013 Don't. Come. In. Last. As contestants battle it out against each other, each round will see the number of players whittled down until one person is left standing and they take home the top prize of $100,000.</p>",
-      "updated": 1790308850,
+      "updated": 1790734498,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84602"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3673499",
-            "name": "Premiere: Do You Believe in Miracles?"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3711567",
             "name": "The Gloves are off!"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3711568",
+            "name": "Families on the Edge"
          }
       }
    },
@@ -5701,18 +5708,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603528.jpg"
       },
       "summary": "<p>A rapid-fire quiz show in which eight celebrities compete to win up to one million dollars for the charity of their choosing, these celebs will answer general knowledge questions and bank money as a group across multiple rounds. At the end of each round, the contestants vote out who they perceive to be the weakest link, and the host sends them off with the phrase, \"You are the Weakest Link. Goodbye.\" The two who make it to the final round will battle it out to determine who wins the banked money for their charity.\u00a0</p>",
-      "updated": 1790308659,
+      "updated": 1790734328,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84603"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3673495",
-            "name": "Reality Villains"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3706054",
             "name": "8 More Degrees of Jane"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3706055",
+            "name": "Ballers"
          }
       }
    },
@@ -5736,7 +5743,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 173,
@@ -5855,7 +5862,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 47,
       "network": {
          "id": 280,
          "name": "tvN",
@@ -5915,7 +5922,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 56,
       "network": {
          "id": 127,
          "name": "SBS",
@@ -5971,7 +5978,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 26,
       "network": {
          "id": 121,
          "name": "VRT 1",
@@ -6029,7 +6036,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 94,
+      "weight": 95,
       "network": null,
       "webChannel": {
          "id": 310,
@@ -6108,7 +6115,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/636/1591367.jpg"
       },
       "summary": "<p><b>The Paper</b> finds the same documentary crew that immortalized Dunder Mifflin Scranton searching for a new subject. They ultimately find it in an historic Toledo newspaper, The Truth Teller, and the eager publisher that's trying to revive it.</p>",
-      "updated": 1789766438,
+      "updated": 1790656559,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84611"
@@ -6141,7 +6148,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 49,
       "network": {
          "id": 43,
          "name": "E!",
@@ -6199,7 +6206,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 73,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -6311,7 +6318,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 347,
@@ -6365,7 +6372,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 31,
       "network": null,
       "webChannel": {
          "id": 347,
@@ -6421,7 +6428,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 347,
@@ -6533,7 +6540,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 52,
       "network": {
          "id": 85,
          "name": "PBS",
@@ -6587,7 +6594,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 63,
       "network": {
          "id": 43,
          "name": "E!",
@@ -6644,7 +6651,7 @@
          ]
       },
       "rating": {
-         "average": 5.4
+         "average": 5.5
       },
       "weight": 99,
       "network": {
@@ -6669,7 +6676,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/635/1589513.jpg"
       },
       "summary": "<p>Anna Pigeon is a former city slicker who became a park ranger after a devastating loss changed the trajectory of her life forever. While Anna tries to outrun her demons, her focus turns to solving crimes that have taken place within national park grounds, no matter who or what gets in her way.\u00a0</p>",
-      "updated": 1790446050,
+      "updated": 1790814576,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84622"
@@ -6706,7 +6713,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 64,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -6765,7 +6772,7 @@
       "rating": {
          "average": null
       },
-      "weight": 65,
+      "weight": 88,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -6870,7 +6877,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 29,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -6979,7 +6986,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -7085,7 +7092,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 95,
+      "weight": 93,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -7369,7 +7376,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 60,
       "network": {
          "id": 390,
          "name": "Rai 1",
@@ -7427,7 +7434,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 54,
       "network": {
          "id": 158,
          "name": "WOWOW",
@@ -7633,7 +7640,7 @@
       ],
       "status": "Running",
       "runtime": 60,
-      "averageRuntime": 68,
+      "averageRuntime": 67,
       "premiered": "2025-09-23",
       "ended": null,
       "officialSite": "https://www.fxnetworks.com/shows/the-lowdown",
@@ -7644,7 +7651,7 @@
          ]
       },
       "rating": {
-         "average": 6.3
+         "average": 6.4
       },
       "weight": 99,
       "network": {
@@ -7669,7 +7676,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606429.jpg"
       },
       "summary": "<p><b>The Lowdown</b> follows the gritty exploits of citizen journalist Lee Raybon, a self-proclaimed Tulsa \"truthstorian\" whose obsession with the truth is always getting him into trouble.</p>",
-      "updated": 1790164797,
+      "updated": 1790748781,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84641"
@@ -7704,7 +7711,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 4,
       "network": {
          "id": 308,
          "name": "\u0422\u041d\u0422",
@@ -7819,7 +7826,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 4,
       "network": {
          "id": 514,
          "name": "\u0422\u0412-3",
@@ -7876,7 +7883,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": {
          "id": 495,
          "name": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439",
@@ -7930,7 +7937,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 40,
       "network": null,
       "webChannel": {
          "id": 468,
@@ -7986,7 +7993,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 310,
@@ -8039,7 +8046,7 @@
       "rating": {
          "average": 6.3
       },
-      "weight": 87,
+      "weight": 89,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -8136,7 +8143,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": {
          "id": 105,
          "name": "Canal+",
@@ -8250,7 +8257,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 208,
@@ -8310,7 +8317,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 9,
       "network": {
          "id": 300,
          "name": "\u041d\u0422\u0412",
@@ -8368,7 +8375,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 50,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -8469,7 +8476,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": {
          "id": 288,
          "name": "\u010cT1",
@@ -8523,7 +8530,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 40,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -8637,7 +8644,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 22,
       "network": {
          "id": 481,
          "name": "Beijing TV",
@@ -8697,7 +8704,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 619,
@@ -8749,7 +8756,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 61,
       "network": null,
       "webChannel": {
          "id": 265,
@@ -9153,7 +9160,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 35,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -9268,7 +9275,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 420,
@@ -9375,7 +9382,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 8,
       "network": null,
       "webChannel": {
          "id": 20,
@@ -9427,7 +9434,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 79,
       "network": {
          "id": 1144,
          "name": "9Gem",
@@ -9601,7 +9608,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -9656,7 +9663,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 54,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -9711,7 +9718,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 8,
       "network": {
          "id": 790,
          "name": "\u041f\u044f\u0442\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -9769,7 +9776,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 11,
       "network": {
          "id": 308,
          "name": "\u0422\u041d\u0422",
@@ -9825,7 +9832,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 81,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -9925,7 +9932,7 @@
       "rating": {
          "average": null
       },
-      "weight": 34,
+      "weight": 36,
       "network": {
          "id": 114,
          "name": "ABC",
@@ -10035,7 +10042,7 @@
       "rating": {
          "average": null
       },
-      "weight": 80,
+      "weight": 79,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -10091,7 +10098,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 35,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -10194,7 +10201,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 64,
       "network": {
          "id": 1897,
          "name": "ENA",
@@ -10252,7 +10259,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 11,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -10368,7 +10375,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 1749,
          "name": "Sky Nature",
@@ -10474,7 +10481,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 31,
       "network": null,
       "webChannel": {
          "id": 135,
@@ -10530,7 +10537,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -10593,7 +10600,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 40,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -10649,7 +10656,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 17,
       "network": null,
       "webChannel": {
          "id": 552,
@@ -10748,7 +10755,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 66,
+      "weight": 89,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -10810,7 +10817,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": {
          "id": 226,
          "name": "Univision",
@@ -11107,7 +11114,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 13,
       "network": {
          "id": 1749,
          "name": "Sky Nature",
@@ -11193,12 +11200,12 @@
             "href": "https://api.tvmaze.com/shows/84705"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3724241",
-            "name": "Episode 192"
+            "href": "https://api.tvmaze.com/episodes/3724245",
+            "name": "Episode 196"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3724242",
-            "name": "Episode 193"
+            "href": "https://api.tvmaze.com/episodes/3724246",
+            "name": "Episode 197"
          }
       }
    },
@@ -11224,7 +11231,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 2061,
          "name": "\u0416\u0438\u0432\u0430\u044f \u043f\u0440\u0438\u0440\u043e\u0434\u0430",
@@ -11394,7 +11401,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 22,
          "name": "MTV",
@@ -11445,7 +11452,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 17,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -11563,7 +11570,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 53,
       "network": {
          "id": 172,
          "name": "Bloomberg TV",
@@ -11589,12 +11596,12 @@
             "href": "https://api.tvmaze.com/shows/84712"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3724285",
-            "name": "Episode 191"
+            "href": "https://api.tvmaze.com/episodes/3724289",
+            "name": "Episode 195"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3724286",
-            "name": "Episode 192"
+            "href": "https://api.tvmaze.com/episodes/3724290",
+            "name": "Episode 196"
          }
       }
    },
@@ -11621,7 +11628,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 40,
       "network": {
          "id": 78,
          "name": "Disney Channel",
@@ -11678,7 +11685,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 31,
       "network": {
          "id": 78,
          "name": "Disney Channel",
@@ -11734,7 +11741,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 81,
       "network": null,
       "webChannel": {
          "id": 347,
@@ -11841,7 +11848,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 46,
       "network": {
          "id": 344,
          "name": "PRO TV",
@@ -11898,7 +11905,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 344,
          "name": "PRO TV",
@@ -12001,7 +12008,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 50,
       "network": {
          "id": 140,
          "name": "SBS",
@@ -12055,7 +12062,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 38,
       "network": null,
       "webChannel": {
          "id": 347,
@@ -12218,7 +12225,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 464,
@@ -12272,7 +12279,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": {
          "id": 91,
          "name": "NRK1",
@@ -12323,7 +12330,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 35,
       "network": {
          "id": 16,
          "name": "Syfy",
@@ -12438,7 +12445,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 59,
       "network": {
          "id": 81,
          "name": "Food Network",
@@ -12494,7 +12501,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 26,
       "network": {
          "id": 81,
          "name": "Food Network",
@@ -12543,7 +12550,7 @@
       "rating": {
          "average": null
       },
-      "weight": 60,
+      "weight": 72,
       "network": {
          "id": 236,
          "name": "Oprah Winfrey Network",
@@ -12648,7 +12655,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 27,
       "network": {
          "id": 89,
          "name": "Investigation Discovery",
@@ -12699,7 +12706,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 38,
       "network": {
          "id": 192,
          "name": "HGTV",
@@ -12983,7 +12990,7 @@
       "rating": {
          "average": null
       },
-      "weight": 76,
+      "weight": 90,
       "network": {
          "id": 40,
          "name": "CNN",
@@ -13042,7 +13049,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 78,
       "network": {
          "id": 40,
          "name": "CNN",
@@ -13096,7 +13103,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 47,
       "network": {
          "id": 40,
          "name": "CNN",
@@ -13145,7 +13152,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 29,
       "network": {
          "id": 40,
          "name": "CNN",
@@ -13194,7 +13201,7 @@
       "rating": {
          "average": null
       },
-      "weight": 17,
+      "weight": 15,
       "network": {
          "id": 40,
          "name": "CNN",
@@ -13243,7 +13250,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 381,
@@ -13305,7 +13312,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 29,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -13367,7 +13374,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 8,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -13429,7 +13436,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 29,
       "network": {
          "id": 529,
          "name": "Las Estrellas",

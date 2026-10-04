@@ -1,0 +1,3342 @@
+[
+   {
+      "id": 94750,
+      "url": "https://www.tvmaze.com/shows/94750/rip-roast-in-peace",
+      "name": "R.I.P. - Roast in Peace",
+      "type": "Reality",
+      "language": "Italian",
+      "genres": [
+         "Comedy"
+      ],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2025-10-09",
+      "ended": null,
+      "officialSite": "https://www.primevideo.com/detail/0GL99KHNRMH7INRVIN63TMLUZ3",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 53,
+      "network": null,
+      "webChannel": {
+         "id": 3,
+         "name": "Prime Video",
+         "country": null,
+         "officialSite": "https://www.primevideo.com"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 469048,
+         "imdb": "tt38638875"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608537.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608537.jpg"
+      },
+      "summary": "<p>Each episode simulates a funeral for one of the VIP guests, complete with a ceremonial setting and funereal atmosphere - but the tone is satirical and irreverent: The comedians compete to deliver the most \"savage\" roast.</p>",
+      "updated": 1790623667,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94750"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3774611",
+            "name": "Episodio 6"
+         }
+      }
+   },
+   {
+      "id": 94751,
+      "url": "https://www.tvmaze.com/shows/94751/embers-of-the-night",
+      "name": "Embers of the Night",
+      "type": "Scripted",
+      "language": "Chinese",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": 16,
+      "premiered": "2026-09-28",
+      "ended": null,
+      "officialSite": "https://www.mgtv.com/h/908834/24676698.html",
+      "schedule": {
+         "time": "10:00",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 56,
+      "network": null,
+      "webChannel": {
+         "id": 226,
+         "name": "Mango TV",
+         "country": {
+            "name": "China",
+            "code": "CN",
+            "timezone": "Asia/Shanghai"
+         },
+         "officialSite": "https://w.mgtv.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608590.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608590.jpg"
+      },
+      "summary": "<p>Gu Qingyu loses her family in a bombing. After face change, she seeks revenge on suspect Lin Jiming\u2014then falls for him.</p>",
+      "updated": 1790629670,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94751"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3774852",
+            "name": "Episode 12"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3774855",
+            "name": "Episode 13"
+         }
+      }
+   },
+   {
+      "id": 94752,
+      "url": "https://www.tvmaze.com/shows/94752/love-after-marriage",
+      "name": "Love After Marriage",
+      "type": "Scripted",
+      "language": "Chinese",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": 2,
+      "premiered": "2026-08-16",
+      "ended": "2026-08-16",
+      "officialSite": "https://hongguoduanju.com/detail?series_id=7673912559740668952",
+      "schedule": {
+         "time": "",
+         "days": [
+            "Sunday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 57,
+      "network": null,
+      "webChannel": {
+         "id": 715,
+         "name": "Hongguo",
+         "country": {
+            "name": "China",
+            "code": "CN",
+            "timezone": "Asia/Shanghai"
+         },
+         "officialSite": "https://www.novelquickapp.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608574.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608574.jpg"
+      },
+      "summary": null,
+      "updated": 1790861233,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94752"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778017",
+            "name": "Episode 78"
+         }
+      }
+   },
+   {
+      "id": 94753,
+      "url": "https://www.tvmaze.com/shows/94753/love-legend",
+      "name": "Love Legend",
+      "type": "Scripted",
+      "language": "Chinese",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": 21,
+      "premiered": "2026-09-30",
+      "ended": null,
+      "officialSite": "https://v.youku.com/v_show/id_XNjU3MDU1NDYzNg==.html",
+      "schedule": {
+         "time": "10:00",
+         "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 56,
+      "network": null,
+      "webChannel": {
+         "id": 118,
+         "name": "Youku",
+         "country": {
+            "name": "China",
+            "code": "CN",
+            "timezone": "Asia/Shanghai"
+         },
+         "officialSite": null
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608612.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608612.jpg"
+      },
+      "summary": "<p>Yun Shao, a young woman from a prominent clan, is brutally sacrificed by her own family to a blood jade ritual. After narrowly escaping death, she encounters Pei Zhao, a member of the Fengyi Guard, and the two become bound by fate through a mother-child Gu parasite. To seek justice for the tragic death of Yun Xiang and uncover the truth behind the strange disturbances at the blood jade mine, Yun Shao breaks through societal constraints to join the Fengyi Guard. As the investigation deepens, eerie blood rituals and dark royal secrets surface one after another. Court politics rage, and various factions scheme and clash. Yun Shao and Pei Zhao fight side by side against corruption and evil, holding fast to their principles amid crisis after crisis\u2014searching for truth and a way forward within a maze of love, hate, and mystery.</p>",
+      "updated": 1790804270,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94753"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777335",
+            "name": "Episode 8"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777336",
+            "name": "Episode 9"
+         }
+      }
+   },
+   {
+      "id": 94754,
+      "url": "https://www.tvmaze.com/shows/94754/raiders-of-the-lost-pharaohs",
+      "name": "Raiders of the Lost Pharaohs",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2026-09-28",
+      "ended": null,
+      "officialSite": "https://www.history.co.uk/shows/raiders-of-the-lost-pharaohs",
+      "schedule": {
+         "time": "21:00",
+         "days": [
+            "Monday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 65,
+      "network": {
+         "id": 639,
+         "name": "Sky History",
+         "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608635.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608635.jpg"
+      },
+      "summary": "<p>Tutankhamun, Ramses the Great, Cleopatra, Khufu\u2026these legendary pharaohs built the wonders of Karnak, Luxor and the pyramids of Giza before their civilisation faded into obscurity. But in 1798, Napoleon Bonaparte's expedition to Egypt reopened the doors to a forgotten world and ignited a fascination with Ancient Egypt that continues to this day. Bold explorers, such as Jean-Fran\u00e7ois Champollion and Giovanni Battista Belzoni, risked everything to unearth these wonders. Archaeology became a conquest, and Egypt's heritage was plundered by tomb raiders - until Auguste Mariette laid the foundations of modern Egyptology. This immersive series reveals the splendour of the pharaohs and the feats of the explorers.</p>",
+      "updated": 1790775752,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94754"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3774925",
+            "name": "Napoleon's Egyptian Expedition"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3774926",
+            "name": "The Treasure Hunt"
+         }
+      }
+   },
+   {
+      "id": 94755,
+      "url": "https://www.tvmaze.com/shows/94755/uk-forensic-breakthroughs",
+      "name": "UK Forensic Breakthroughs",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2026-09-22",
+      "ended": null,
+      "officialSite": "https://www.truecrime-tv.co.uk/shows.php?title=uk+forensic+breakthroughs",
+      "schedule": {
+         "time": "22:00",
+         "days": [
+            "Tuesday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 59,
+      "network": {
+         "id": 566,
+         "name": "TRUE CRIME",
+         "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608644.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608644.jpg"
+      },
+      "summary": "<p><b>UK Forensic Breakthroughs</b> analyses ten of the UK's toughest murder cases, where forensic science was crucial in bringing the killer to justice.</p>",
+      "updated": 1790635365,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94755"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3774934",
+            "name": "Fire at the Crime Scene"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3774935",
+            "name": "Digital Death"
+         }
+      }
+   },
+   {
+      "id": 94756,
+      "url": "https://www.tvmaze.com/shows/94756/a-life-of-bliss",
+      "name": "A Life of Bliss",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+         "Comedy"
+      ],
+      "status": "Ended",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "1960-01-21",
+      "ended": "1961-04-19",
+      "officialSite": null,
+      "schedule": {
+         "time": "20:30",
+         "days": [
+            "Wednesday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 53,
+      "network": {
+         "id": 12,
+         "name": "BBC One",
+         "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+         },
+         "officialSite": "https://www.bbc.co.uk/bbcone"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 73818,
+         "imdb": "tt0201384"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608690.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608690.jpg"
+      },
+      "summary": "<p>George Cole's first television series, continuing from his popular radio series, about a shy young bachelor.</p>",
+      "updated": 1790688589,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94756"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775016",
+            "name": "Episode 10"
+         }
+      }
+   },
+   {
+      "id": 94757,
+      "url": "https://www.tvmaze.com/shows/94757/polabi",
+      "name": "Polab\u00ed",
+      "type": "Scripted",
+      "language": "Czech",
+      "genres": [
+         "Family"
+      ],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2025-08-26",
+      "ended": null,
+      "officialSite": "https://www.iprima.cz/serialy/polabi",
+      "schedule": {
+         "time": "",
+         "days": [
+            "Tuesday",
+            "Thursday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 52,
+      "network": {
+         "id": 1484,
+         "name": "Prima televize",
+         "country": {
+            "name": "Czech Republic",
+            "code": "CZ",
+            "timezone": "Europe/Prague"
+         },
+         "officialSite": "https://www.iprima.cz/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 466181,
+         "imdb": "tt37707914"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608746.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608746.jpg"
+      },
+      "summary": null,
+      "updated": 1790672530,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94757"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775217",
+            "name": "Episode 91"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775218",
+            "name": "Episode 92"
+         }
+      }
+   },
+   {
+      "id": 94758,
+      "url": "https://www.tvmaze.com/shows/94758/predel-zelanij",
+      "name": "\u041f\u0440\u0435\u0434\u0435\u043b \u0436\u0435\u043b\u0430\u043d\u0438\u0439",
+      "type": "Scripted",
+      "language": "Russian",
+      "genres": [
+         "Thriller"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2011-11-21",
+      "ended": "2011-12-01",
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 52,
+      "network": {
+         "id": 307,
+         "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
+         "country": {
+            "name": "Russian Federation",
+            "code": "RU",
+            "timezone": "Asia/Kamchatka"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608752.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608752.jpg"
+      },
+      "summary": null,
+      "updated": 1790681509,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94758"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775243",
+            "name": "\u0421\u0435\u0440\u0438\u044f 8"
+         }
+      }
+   },
+   {
+      "id": 94759,
+      "url": "https://www.tvmaze.com/shows/94759/jones",
+      "name": "Jones",
+      "type": "Scripted",
+      "language": "Portuguese",
+      "genres": [
+         "Drama",
+         "Mystery"
+      ],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2026-09-28",
+      "ended": null,
+      "officialSite": "https://www.rtp.pt/programa/tv/p49459",
+      "schedule": {
+         "time": "22:30",
+         "days": [
+            "Monday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 65,
+      "network": {
+         "id": 102,
+         "name": "RTP1",
+         "country": {
+            "name": "Portugal",
+            "code": "PT",
+            "timezone": "Europe/Lisbon"
+         },
+         "officialSite": "https://www.rtp.pt/play/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 473946,
+         "imdb": "tt37522954"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608765.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608765.jpg"
+      },
+      "summary": "<p>A powerful yet dysfunctional family gathers at a luxurious estate in Sintra to celebrate an engagement, but the festivities end in murder. Inspector Oliver Jones, who has the ability to communicate with the dead, teams up with J\u00falia, the sharp-witted and sarcastic victim, to uncover the killer. Amid family secrets, betrayals, and an agoraphobic English actress who dreams of becoming the next Sherlock Holmes, love and hatred intertwine, and every interaction reveals the complex bonds that hold this family together. Can the dead really help Jones solve the crime and uncover the culprit?</p>",
+      "updated": 1790781977,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94759"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775244",
+            "name": "Epis\u00f3dio 1"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775245",
+            "name": "Epis\u00f3dio 2"
+         }
+      }
+   },
+   {
+      "id": 94760,
+      "url": "https://www.tvmaze.com/shows/94760/shadows-and-dust",
+      "name": "Shadows and Dust",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [
+         "History"
+      ],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2026-09-14",
+      "ended": null,
+      "officialSite": "https://superchannel.ca/series/shadows-and-dust",
+      "schedule": {
+         "time": "21:00",
+         "days": [
+            "Monday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 61,
+      "network": {
+         "id": 2106,
+         "name": "Super Channel Quest",
+         "country": {
+            "name": "Canada",
+            "code": "CA",
+            "timezone": "America/Toronto"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": "tt43589297"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608799.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608799.jpg"
+      },
+      "summary": "<p>Gone but not forgotten. From the Peking Man to fugitive DB Cooper, from Columbus's sunken Santa Maria to Cambyses's vanished armies, history's missing pieces evade recapture. Ensnared in illicit dealings, cloaked in myth and rumour, hunted by the masses, phantom fragments inspire obsession and theories of sabotage, miscalculation, and worlds undone without warning. How did we allow these precious relics to slip from our grasp? And what, if anything, is left to be found? Investigators follow trails through the past, sifting through desert sands for ancient armour, combing coral reefs for traces of first contact and parsing FBI profiles for new suspects. Amid cloak and dagger rendezvous, forgotten testimonies, and new studies, are we on the verge of great rediscovery?</p>",
+      "updated": 1790677143,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94760"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775269",
+            "name": "Roman Concrete"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775271",
+            "name": "The Santa Maria"
+         }
+      }
+   },
+   {
+      "id": 94761,
+      "url": "https://www.tvmaze.com/shows/94761/prefiero-la-muerte",
+      "name": "Prefiero la Muerte",
+      "type": "Scripted",
+      "language": "Spanish",
+      "genres": [
+         "Adventure",
+         "Horror"
+      ],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2026-10-02",
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 53,
+      "network": null,
+      "webChannel": {
+         "id": 3,
+         "name": "Prime Video",
+         "country": null,
+         "officialSite": "https://www.primevideo.com"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": "tt31841438"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608854.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608854.jpg"
+      },
+      "summary": null,
+      "updated": 1790688502,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94761"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775786",
+            "name": "Bolillo"
+         }
+      }
+   },
+   {
+      "id": 94762,
+      "url": "https://www.tvmaze.com/shows/94762/e-kyria-ntoremi",
+      "name": "\u0397 \u039a\u03c5\u03c1\u03af\u03b1 \u039d\u03c4\u03bf\u03c1\u03b5\u03bc\u03af",
+      "type": "Scripted",
+      "language": "Greek",
+      "genres": [
+         "Drama"
+      ],
+      "status": "Ended",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "1983-10-16",
+      "ended": "1984-01-08",
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 53,
+      "network": {
+         "id": 1442,
+         "name": "\u0395\u03a41",
+         "country": {
+            "name": "Greece",
+            "code": "GR",
+            "timezone": "Europe/Athens"
+         },
+         "officialSite": null
+      },
+      "webChannel": {
+         "id": 764,
+         "name": "ERTFLIX",
+         "country": {
+            "name": "Greece",
+            "code": "GR",
+            "timezone": "Europe/Athens"
+         },
+         "officialSite": "https://www.ertflix.gr/#/landing"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 264427,
+         "imdb": "tt2331837"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608954.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608954.jpg"
+      },
+      "summary": "<p>During the interwar period, a progressive, Paris-raised teacher returns to her roots in provincial Greece, where her modern views clash with a deeply conservative society, risking her career, her reputation, and her secret romance with a student.\u00a0</p>",
+      "updated": 1790708401,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94762"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775822",
+            "name": "\u0395\u03c0\u03b5\u03b9\u03c3\u03cc\u03b4\u03b9\u03bf 13"
+         }
+      }
+   },
+   {
+      "id": 94763,
+      "url": "https://www.tvmaze.com/shows/94763/nascar-americana",
+      "name": "NASCAR Americana",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [
+         "Sports"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2026-08-09",
+      "ended": "2026-08-23",
+      "officialSite": "https://www.usanetwork.com/series/nascar-americana-1786320316367",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 52,
+      "network": {
+         "id": 30,
+         "name": "USA Network",
+         "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+         },
+         "officialSite": "https://www.usanetwork.com"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 481200,
+         "imdb": "tt43751440"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608879.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608879.jpg"
+      },
+      "summary": "<p>A small, family-owned sport has turned into a one-of-a-kind phenomenon. Over 78 years of existence, NASCAR, a regional pastime, evolved into a popular national powerhouse by balancing its southern roots with a modern-day flair. In <b>NASCAR Americana</b>, the three-part docuseries explores the sport's rise by drawing on interviews and stories from stock-car racing's greats to examine how NASCAR has reflected and shaped the culture, identity, and character of a changing nation.</p>",
+      "updated": 1790692734,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94763"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775825",
+            "name": "Enduring Spirit"
+         }
+      }
+   },
+   {
+      "id": 94764,
+      "url": "https://www.tvmaze.com/shows/94764/lego-one-piece",
+      "name": "LEGO ONE PIECE",
+      "type": "Animation",
+      "language": "English",
+      "genres": [
+         "Action",
+         "Adventure"
+      ],
+      "status": "To Be Determined",
+      "runtime": null,
+      "averageRuntime": 33,
+      "premiered": "2026-09-29",
+      "ended": null,
+      "officialSite": "https://www.netflix.com/nl-en/title/81969131",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 81,
+      "network": null,
+      "webChannel": {
+         "id": 1,
+         "name": "Netflix",
+         "country": null,
+         "officialSite": "https://www.netflix.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 476514,
+         "imdb": "tt41538904"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608881.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608881.jpg"
+      },
+      "summary": "<p>A LEGO-animated retelling of ONE PIECE's early adventures, this two-part special follows Usopp as he recounts the Straw Hat Pirates' journey from the East Blue to the Grand Line for new crewmate Tony Tony Chopper. Packed with humor, action, and heart, the story reimagines iconic battles and friendships in a playful brick-built world.</p>",
+      "updated": 1790711407,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94764"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775830",
+            "name": "Grand Line, Grand Time"
+         }
+      }
+   },
+   {
+      "id": 94765,
+      "url": "https://www.tvmaze.com/shows/94765/who-the-hell-is-hamish",
+      "name": "Who The Hell Is Hamish?",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+         "Drama",
+         "Crime"
+      ],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 79,
+      "network": null,
+      "webChannel": {
+         "id": 107,
+         "name": "Paramount+",
+         "country": null,
+         "officialSite": "https://www.paramountplus.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 481220,
+         "imdb": "tt44082819"
+      },
+      "image": null,
+      "summary": "<p><b>Who The Hell Is Hamish?</b>\u00a0is inspired by an industrious fraudster, and the group of victims who eventually decided they had had enough of him. The charming and cultured Hamish sets his sights on Bec, a recently divorced single mother with three sons and access to a significant family trust. When Bec notices gaps in his story and some odd behaviour, what starts as private unease widens into something far larger: a pattern of deception spanning continents and suspected of leaving more than $70 million in its wake.</p>",
+      "updated": 1790709543,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94765"
+         }
+      }
+   },
+   {
+      "id": 94766,
+      "url": "https://www.tvmaze.com/shows/94766/miracles-of-the-er",
+      "name": "Miracles of the ER",
+      "type": "Scripted",
+      "language": "Chinese",
+      "genres": [
+         "Drama",
+         "Medical"
+      ],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2026-11-12",
+      "ended": null,
+      "officialSite": "https://www.netflix.com/title/82027980",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 61,
+      "network": null,
+      "webChannel": {
+         "id": 1,
+         "name": "Netflix",
+         "country": null,
+         "officialSite": "https://www.netflix.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": "tt39494650"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1608985.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608985.jpg"
+      },
+      "summary": "<p>At Yang-Da University Hospital, Associate Director of Emergency Medicine Chou Cheng-chun makes a bold decision to accept Lin Geng-ming, an average-performing medical school graduate. Lin joins the emergency department as a resident alongside elite peers, Tang Hsi and Chiang Tung-yen, working shoulder to shoulder to save lives. Together with senior attending physician He Yu-hua, the ER team faces relentless medical crises, ethical dilemmas, and internal power struggles within the hospital. Miracles of the ER delves into the complex dynamics between doctors and patients, patients and their families, revealing both the tension and the deep compassion that bind them all together.</p>",
+      "updated": 1790709393,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94766"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775946",
+            "name": "Episode 1"
+         }
+      }
+   },
+   {
+      "id": 94767,
+      "url": "https://www.tvmaze.com/shows/94767/obsina",
+      "name": "\u041e\u0431\u0449\u0438\u043d\u0430",
+      "type": "Scripted",
+      "language": "Russian",
+      "genres": [],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 52,
+      "network": null,
+      "webChannel": {
+         "id": 366,
+         "name": "Okko",
+         "country": {
+            "name": "Russian Federation",
+            "code": "RU",
+            "timezone": "Asia/Kamchatka"
+         },
+         "officialSite": "https://okko.tv/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": null,
+      "summary": null,
+      "updated": 1790709521,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94767"
+         }
+      }
+   },
+   {
+      "id": 94768,
+      "url": "https://www.tvmaze.com/shows/94768/the-secret-lives-of-mormon-wives-orange-county",
+      "name": "The Secret Lives of Mormon Wives: Orange County",
+      "type": "Reality",
+      "language": "English",
+      "genres": [],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2026-11-12",
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 59,
+      "network": null,
+      "webChannel": {
+         "id": 2,
+         "name": "Hulu",
+         "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+         },
+         "officialSite": "https://www.hulu.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 477319,
+         "imdb": "tt42006761"
+      },
+      "image": null,
+      "summary": "<p>A new group of dynamic young mothers in Orange County collide in a community where beliefs are not just their religion; they are their identity. While some defend their way of life, fighting against modernity, others embrace change, becoming a platform to disrupt the status quo. Scandals and secrets will be revealed, facades will crumble, and families and friendships will change forever on both sides of the battlefield as this group of strong, game-changing influencers comes together to build their answer to #MomTok.\u00a0</p>",
+      "updated": 1790723071,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94768"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3775999",
+            "name": "Episode 1"
+         }
+      }
+   },
+   {
+      "id": 94769,
+      "url": "https://www.tvmaze.com/shows/94769/the-new-stanford-prison-experiment",
+      "name": "The New Stanford Prison Experiment",
+      "type": "Reality",
+      "language": "English",
+      "genres": [],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2026-10-21",
+      "ended": null,
+      "officialSite": "https://www.netflix.com/title/81930790",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 59,
+      "network": null,
+      "webChannel": {
+         "id": 1,
+         "name": "Netflix",
+         "country": null,
+         "officialSite": "https://www.netflix.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 482844,
+         "imdb": "tt46658083"
+      },
+      "image": null,
+      "summary": "<p>In this bold reimagining of one of history's most controversial social experiments, thirty willing participants enter a real prison and are randomly assigned as guards or prisoners. Thrust into a system of power, hierarchy, and control, they'll discover whether ordinary people inevitably conform to the roles they're given\u2014or whether empathy, morality, and individuality can withstand the forces pushing them in the opposite direction. As the pressure builds and the balance of power begins to shift, the central question feels more urgent than ever: Does power corrupt?</p>",
+      "updated": 1790722849,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94769"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776013",
+            "name": "Episode 1"
+         }
+      }
+   },
+   {
+      "id": 94770,
+      "url": "https://www.tvmaze.com/shows/94770/het-bestaat",
+      "name": "Het Bestaat",
+      "type": "Documentary",
+      "language": "Dutch",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2026-09-29",
+      "ended": null,
+      "officialSite": "https://vtm.be/het-bestaat",
+      "schedule": {
+         "time": "21:40",
+         "days": [
+            "Tuesday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 52,
+      "network": {
+         "id": 156,
+         "name": "VTM",
+         "country": {
+            "name": "Belgium",
+            "code": "BE",
+            "timezone": "Europe/Brussels"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609014.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609014.jpg"
+      },
+      "summary": null,
+      "updated": 1790720119,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94770"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776555",
+            "name": "Aflevering 1"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776556",
+            "name": "Aflevering 2"
+         }
+      }
+   },
+   {
+      "id": 94771,
+      "url": "https://www.tvmaze.com/shows/94771/aileen-wuornos-damsel-of-death",
+      "name": "Aileen Wuornos: Damsel of Death",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "In Development",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2026-10-04",
+      "ended": null,
+      "officialSite": "https://www.crimeandinvestigation.co.uk/shows/aileen-wuornos-damsel-of-death",
+      "schedule": {
+         "time": "21:00",
+         "days": [
+            "Sunday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 64,
+      "network": {
+         "id": 346,
+         "name": "Crime & Investigation",
+         "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609029.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609029.jpg"
+      },
+      "summary": "<p><b>Aileen Wuornos: Damsel of Death</b> re-examines the crimes and life of one of America's most notorious female killers, drawing on FBI case files and testimony from Brian Jarvis, the lead detective who investigated Wuornos and questioned her following her arrest. Beginning with the murder of Richard Mallory in Florida in November 1989, the documentary traces a series of killings that left seven men dead over the following 11 months. As bodies were discovered along Florida's highways, all shot multiple times, investigators began searching for the person responsible.</p>",
+      "updated": 1790723527,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94771"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776660",
+            "name": "Episode 1"
+         }
+      }
+   },
+   {
+      "id": 94772,
+      "url": "https://www.tvmaze.com/shows/94772/convictions-gone-bad-with-will-mellor",
+      "name": "Convictions Gone Bad with Will Mellor",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "In Development",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2026-10-05",
+      "ended": null,
+      "officialSite": "https://www.crimeandinvestigation.co.uk/shows/convictions-gone-bad-will-mellor",
+      "schedule": {
+         "time": "21:00",
+         "days": [
+            "Monday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 61,
+      "network": {
+         "id": 346,
+         "name": "Crime & Investigation",
+         "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609034.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609034.jpg"
+      },
+      "summary": "<p>Will Mellor fronts this gripping true crime series, delving into five of the most shocking miscarriages of justice in legal history. Will unpacks how the system got it so disastrously wrong and reveals the crucial new evidence that finally set the wrongfully convicted, free. We hear from the falsely accused in their own words, providing an insight into what it's like to be arrested, tried and convicted of the most horrendous of crimes; and the subsequent battle to clear their name.</p>",
+      "updated": 1790726370,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94772"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776672",
+            "name": "Angela Cannings"
+         }
+      }
+   },
+   {
+      "id": 94773,
+      "url": "https://www.tvmaze.com/shows/94773/baddies-gone-wild-cancun",
+      "name": "Baddies Gone Wild: Cancun",
+      "type": "Reality",
+      "language": null,
+      "genres": [],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": 45,
+      "premiered": "2026-09-13",
+      "ended": null,
+      "officialSite": "https://www.thezeusnetwork.com/baddies-gone-wild-cancun",
+      "schedule": {
+         "time": "",
+         "days": [
+            "Sunday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 53,
+      "network": null,
+      "webChannel": {
+         "id": 331,
+         "name": "Zeus",
+         "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+         },
+         "officialSite": "https://www.thezeusnetwork.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 482253,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609109.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609109.jpg"
+      },
+      "summary": "<p>The ladies are back and going even wilder! This season, they're taking their energy straight to Cancun for nonstop turn-ups, unforgettable nights, and plenty of unexpected moments along the way. With no telling what can happen when the girls hit the streets, beaches, and nightlife of Mexico, Cancun is about to experience Baddies Gone Wild like never before.</p>",
+      "updated": 1790781332,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94773"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776818",
+            "name": "I'm Not a Bully"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776819",
+            "name": "Episode 4"
+         }
+      }
+   },
+   {
+      "id": 94774,
+      "url": "https://www.tvmaze.com/shows/94774/food-samourai",
+      "name": "Food Samoura\u00ef",
+      "type": "Documentary",
+      "language": "French",
+      "genres": [
+         "Food",
+         "Travel"
+      ],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2026-09-30",
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 57,
+      "network": null,
+      "webChannel": {
+         "id": 287,
+         "name": "Disney+",
+         "country": null,
+         "officialSite": "https://www.disneyplus.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 483248,
+         "imdb": "tt42152894"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609180.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609180.jpg"
+      },
+      "summary": "<p>The six-episode show sees Mory, accompanied by pastry chef and friend The\u00f3 Segretin and guests such as Omar Sy, immerse himself in Japanese culture and gastronomy to unlock how to prepare the perfect bento. Alongside Lupin star Sy are other guests including multi-Michelin-starred chef Pierre Gagnaire, writer Chihiro Masui.</p>",
+      "updated": 1790758265,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94774"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776886",
+            "name": "Episode 6"
+         }
+      }
+   },
+   {
+      "id": 94775,
+      "url": "https://www.tvmaze.com/shows/94775/lola-ylosalaisin",
+      "name": "Lola yl\u00f6salaisin",
+      "type": "Scripted",
+      "language": "Finnish",
+      "genres": [
+         "Drama"
+      ],
+      "status": "Ended",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2016-12-28",
+      "ended": "2017-01-01",
+      "officialSite": "https://areena.yle.fi/1-3781283",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 52,
+      "network": {
+         "id": 1385,
+         "name": "Yle TV1",
+         "country": {
+            "name": "Finland",
+            "code": "FI",
+            "timezone": "Europe/Helsinki"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 323277,
+         "imdb": "tt4899658"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609190.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609190.jpg"
+      },
+      "summary": "<p>Set in a tight-knit coastal community, the story follows a group of teenage girls navigating a world shaped by strict social hierarchies and traditional power dynamics. In this town, wealth and influence are concentrated within a few dominant families, creating a rigid system of control and compliance that directly impacts the lives of the youth.</p>",
+      "updated": 1790761053,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94775"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776892",
+            "name": "Jakso 6"
+         }
+      }
+   },
+   {
+      "id": 94776,
+      "url": "https://www.tvmaze.com/shows/94776/the-unbelievable-encounters-with-dan-aykroyd",
+      "name": "The UnBelievable: Encounters with Dan Aykroyd",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2026-09-01",
+      "ended": null,
+      "officialSite": "https://www.hulu.com/series/1c95aa89-ab5f-441c-a9f2-1662e37642f5",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 56,
+      "network": null,
+      "webChannel": {
+         "id": 2,
+         "name": "Hulu",
+         "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+         },
+         "officialSite": "https://www.hulu.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 483121,
+         "imdb": "tt45372557"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609202.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609202.jpg"
+      },
+      "summary": "<p>What happens when an ordinary day takes a truly extraordinary turn? The UnBelievable: Encounters with Dan Aykroyd dives into history's strangest brushes with the unexplained\u2014from alleged alien abductions and cryptid sightings to haunted houses, ghostly visitors, and demonic possessions. Whether you call them impossible, paranormal, or just plain weird, these are the encounters that left witnesses rattled, investigators scratching their heads, and skeptics wondering if there might be more out there than we can explain.</p>",
+      "updated": 1790761937,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94776"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776900",
+            "name": "Death Defying Experiences"
+         }
+      }
+   },
+   {
+      "id": 94777,
+      "url": "https://www.tvmaze.com/shows/94777/happy-jack",
+      "name": "Happy Jack",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+         "Comedy"
+      ],
+      "status": "In Development",
+      "runtime": 30,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 76,
+      "network": {
+         "id": 20,
+         "name": "AMC",
+         "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 483245,
+         "imdb": null
+      },
+      "image": null,
+      "summary": "<p><b>Happy Jack </b>centers on Jack, a bit of a lifelong ne'er-do-well. He's got two great daughters, although his Dad deserves more credit for how they turned out. Kate runs Jack's company and keeps him on the rails while Sam is a wild child who is more like her Dad. When Sam comes home to introduce everyone to her new boyfriend, Jack's shocked to learn Paul, a former investment banker turned van life guru, is the same age as he is. Shocked at first, Jack soon realizes he's got a choice to make. Will he keep looking out for number one, or embrace this last chance to be a real part of his daughters' lives?</p>",
+      "updated": 1790762650,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94777"
+         }
+      }
+   },
+   {
+      "id": 94778,
+      "url": "https://www.tvmaze.com/shows/94778/the-howard-stern-show",
+      "name": "The Howard Stern Show",
+      "type": "Talk Show",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": 90,
+      "premiered": "2026-09-17",
+      "ended": null,
+      "officialSite": "https://www.hbomax.com/show/e491ce40-051c-4571-98e2-91fa892353fa",
+      "schedule": {
+         "time": "",
+         "days": [
+            "Thursday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 53,
+      "network": null,
+      "webChannel": {
+         "id": 329,
+         "name": "HBO Max",
+         "country": null,
+         "officialSite": "https://www.hbomax.com"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 482620,
+         "imdb": "tt45495066"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609213.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609213.jpg"
+      },
+      "summary": "<p>Legendary innovator, broadcaster, and \"King of All Media\" Howard Stern brings his signature, long-running SiriusXM show to HBO Max.</p>",
+      "updated": 1790767731,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94778"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776905",
+            "name": "Episode 3"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3776906",
+            "name": "Episode 4"
+         }
+      }
+   },
+   {
+      "id": 94779,
+      "url": "https://www.tvmaze.com/shows/94779/la-senora",
+      "name": "La Se\u00f1ora",
+      "type": "Scripted",
+      "language": "Spanish",
+      "genres": [
+         "Crime",
+         "Thriller",
+         "Legal"
+      ],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 55,
+      "network": null,
+      "webChannel": {
+         "id": 3,
+         "name": "Prime Video",
+         "country": null,
+         "officialSite": "https://www.primevideo.com"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": null,
+      "summary": "<p><b>La Se\u00f1ora</b> is a fictionalized series that follows Catalina Rojas, a haughty, upper-middle-class woman who becomes the prime suspect in the attempted murder of several members of her own family, and the investigator on the case looking for justice.\u00a0</p>",
+      "updated": 1790789000,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94779"
+         }
+      }
+   },
+   {
+      "id": 94780,
+      "url": "https://www.tvmaze.com/shows/94780/stacks-of-cash",
+      "name": "Stacks of Cash",
+      "type": "Game Show",
+      "language": "English",
+      "genres": [],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 52,
+      "network": {
+         "id": 2,
+         "name": "CBS",
+         "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+         },
+         "officialSite": "https://www.cbs.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 483296,
+         "imdb": null
+      },
+      "image": null,
+      "summary": "<p><b>Stacks of Cash</b> is an edge-of-your-seat game show hosted by Emmy Award-nominated actor Mike O'Malley, where six contestants face off in a quiz-driven battle with towering stakes. Players answer questions to earn uniquely shaped blocks, then stack their way toward a gold line. One wrong move can send everything crashing down<b>.</b></p>",
+      "updated": 1790855252,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94780"
+         }
+      }
+   },
+   {
+      "id": 94781,
+      "url": "https://www.tvmaze.com/shows/94781/zui-bang-de-wo-men",
+      "name": "Zui Bang De Wo Men",
+      "type": "Scripted",
+      "language": "Chinese",
+      "genres": [
+         "Drama",
+         "Sports"
+      ],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": "https://www.mgtv.com/h/910200/24684023.html",
+      "schedule": {
+         "time": "12:00",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 52,
+      "network": null,
+      "webChannel": {
+         "id": 226,
+         "name": "Mango TV",
+         "country": {
+            "name": "China",
+            "code": "CN",
+            "timezone": "Asia/Shanghai"
+         },
+         "officialSite": "https://w.mgtv.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609345.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609345.jpg"
+      },
+      "summary": null,
+      "updated": 1790803203,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94781"
+         }
+      }
+   },
+   {
+      "id": 94782,
+      "url": "https://www.tvmaze.com/shows/94782/de-operatiekamer",
+      "name": "De operatiekamer",
+      "type": "Variety",
+      "language": "Dutch",
+      "genres": [],
+      "status": "Running",
+      "runtime": 70,
+      "averageRuntime": 70,
+      "premiered": "2026-09-30",
+      "ended": null,
+      "officialSite": "https://vtm.be/operatiekamer",
+      "schedule": {
+         "time": "22:00",
+         "days": [
+            "Wednesday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 51,
+      "network": {
+         "id": 156,
+         "name": "VTM",
+         "country": {
+            "name": "Belgium",
+            "code": "BE",
+            "timezone": "Europe/Brussels"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609357.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609357.jpg"
+      },
+      "summary": null,
+      "updated": 1790802707,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94782"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777224",
+            "name": "Margriet en Celien Hermans"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777225",
+            "name": "Jan Jaap van der Wal"
+         }
+      }
+   },
+   {
+      "id": 94783,
+      "url": "https://www.tvmaze.com/shows/94783/cow-squad",
+      "name": "Cow Squad",
+      "type": "Animation",
+      "language": "English",
+      "genres": [],
+      "status": "To Be Determined",
+      "runtime": null,
+      "averageRuntime": 8,
+      "premiered": "2026-07-10",
+      "ended": null,
+      "officialSite": "https://youtube.com/playlist?list=PLMDO67qS4Hpw&si=TBoOsy-PRxIy1pyC",
+      "schedule": {
+         "time": "",
+         "days": [
+            "Friday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 56,
+      "network": null,
+      "webChannel": {
+         "id": 21,
+         "name": "YouTube",
+         "country": null,
+         "officialSite": "https://www.youtube.com"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": "tt43668090"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609441.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609441.jpg"
+      },
+      "summary": "<p>Animated series based on Chick-fil-A's new mascots, Sarge, Daisy and Carrots.</p>",
+      "updated": 1790848844,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94783"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777608",
+            "name": "Birds of a Feather"
+         }
+      }
+   },
+   {
+      "id": 94784,
+      "url": "https://www.tvmaze.com/shows/94784/bobs-game-night-blood-on-the-clocktower",
+      "name": "Bob's Game Night - Blood on the Clocktower",
+      "type": "Reality",
+      "language": "English",
+      "genres": [],
+      "status": "To Be Determined",
+      "runtime": null,
+      "averageRuntime": 31,
+      "premiered": "2026-06-17",
+      "ended": null,
+      "officialSite": "https://tubitv.com/series/300021548/blood-on-the-clocktower",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 51,
+      "network": null,
+      "webChannel": {
+         "id": 401,
+         "name": "Tubi",
+         "country": null,
+         "officialSite": "https://tubitv.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609386.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609386.jpg"
+      },
+      "summary": "<p>Bob the Drag Queen hosts a deadly social deduction game in Ravenswood Bluff, where players must battle to expose evil secrets and shocking betrayal.</p>",
+      "updated": 1790812898,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94784"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777372",
+            "name": "End of the Bluff"
+         }
+      }
+   },
+   {
+      "id": 94785,
+      "url": "https://www.tvmaze.com/shows/94785/mafia-behind-the-bloodshed",
+      "name": "Mafia: Behind the Bloodshed",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "In Development",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2026-10-06",
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "21:00",
+         "days": [
+            "Tuesday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 53,
+      "network": {
+         "id": 639,
+         "name": "Sky History",
+         "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609395.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609395.jpg"
+      },
+      "summary": null,
+      "updated": 1790822030,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94785"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777418",
+            "name": "Russian Vory"
+         }
+      }
+   },
+   {
+      "id": 94786,
+      "url": "https://www.tvmaze.com/shows/94786/deadly-destinations",
+      "name": "Deadly Destinations",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2026-09-23",
+      "ended": null,
+      "officialSite": "https://www.truecrime-tv.co.uk/shows.php?title=deadly+destinations",
+      "schedule": {
+         "time": "22:00",
+         "days": [
+            "Wednesday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 48,
+      "network": {
+         "id": 566,
+         "name": "TRUE CRIME",
+         "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 483010,
+         "imdb": "tt43658158"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609434.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609434.jpg"
+      },
+      "summary": "<p><b>Deadly Destinations</b> chronicles the stories of unsuspecting travelers whose lives are tragically cut short, and gradually reveals how their final stop holds critical clues needed to catch their killer.</p>",
+      "updated": 1790828244,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94786"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777464",
+            "name": "Predator on the Path"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777465",
+            "name": "Exchange Student Murder"
+         }
+      }
+   },
+   {
+      "id": 94787,
+      "url": "https://www.tvmaze.com/shows/94787/zarah-wilde-jahre",
+      "name": "Zarah: Wilde Jahre",
+      "type": "Scripted",
+      "language": "German",
+      "genres": [
+         "Drama",
+         "Romance",
+         "History"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": 45,
+      "premiered": "2017-08-24",
+      "ended": "2017-10-05",
+      "officialSite": "https://www.zdf-studios.com/en/program-catalog/international/drama/series/drama/zarah-wild-times",
+      "schedule": {
+         "time": "21:00",
+         "days": [
+            "Thursday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 37,
+      "network": null,
+      "webChannel": {
+         "id": 352,
+         "name": "ZDFmediathek",
+         "country": {
+            "name": "Germany",
+            "code": "DE",
+            "timezone": "Europe/Busingen"
+         },
+         "officialSite": "https://www.zdf.de/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609442.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609442.jpg"
+      },
+      "summary": "<p>A lesbian journalist fights the patriarchy in 1970s Hamburg.</p>",
+      "updated": 1790834076,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94787"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777477",
+            "name": "Papi ist der Beste"
+         }
+      }
+   },
+   {
+      "id": 94788,
+      "url": "https://www.tvmaze.com/shows/94788/24-hour-millionaire",
+      "name": "24 Hour Millionaire",
+      "type": "Reality",
+      "language": "English",
+      "genres": [],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": {
+         "id": 2,
+         "name": "CBS",
+         "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+         },
+         "officialSite": "https://www.cbs.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 483295,
+         "imdb": "tt47736951"
+      },
+      "image": null,
+      "summary": "<p><b>24 Hour Millionaire </b>is an epic series that assembles the most skilled game players and puts them to the ultimate test: 24 nonstop hours of social strategy and physical competitions where one player is guaranteed to walk away with a $1 million prize.</p><p>\u00a0</p>",
+      "updated": 1790840841,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94788"
+         }
+      }
+   },
+   {
+      "id": 94789,
+      "url": "https://www.tvmaze.com/shows/94789/stacks-of-cash",
+      "name": "Stacks of Cash",
+      "type": "Game Show",
+      "language": "English",
+      "genres": [],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": {
+         "id": 2,
+         "name": "CBS",
+         "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+         },
+         "officialSite": "https://www.cbs.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": null,
+      "summary": "<p><b>Duplicate of https://www.tvmaze.com/shows/94780/stacks-of-cash</b></p><p>On <b>Stacks of Cash </b>six contestants face off in a quiz-driven battle with towering stakes. Players answer questions to earn uniquely shaped blocks, then stack their way toward a gold line. One wrong move can send everything crashing down.</p><p>\u00a0</p>",
+      "updated": 1790855237,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94789"
+         }
+      }
+   },
+   {
+      "id": 94790,
+      "url": "https://www.tvmaze.com/shows/94790/made-in-the-usa",
+      "name": "Made in the USA",
+      "type": "Reality",
+      "language": "English",
+      "genres": [],
+      "status": "Ended",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2005-09-14",
+      "ended": "2005-10-14",
+      "officialSite": null,
+      "schedule": {
+         "time": "18:00",
+         "days": [
+            "Friday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": {
+         "id": 30,
+         "name": "USA Network",
+         "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+         },
+         "officialSite": "https://www.usanetwork.com"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": "tt0472011"
+      },
+      "image": null,
+      "summary": "<p><b>Made in the U.S.A.</b> will track contestants' challenges to produce their ideas into full-scale products. One contestant will be eliminated each week; the last remaining inventor gets a contract with HSN.</p>",
+      "updated": 1790841896,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94790"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777485",
+            "name": "Ready to Pitch?"
+         }
+      }
+   },
+   {
+      "id": 94791,
+      "url": "https://www.tvmaze.com/shows/94791/happy-marriage",
+      "name": "Happy Marriage",
+      "type": "Scripted",
+      "language": "Japanese",
+      "genres": [
+         "Drama"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2025-07-17",
+      "ended": "2025-09-11",
+      "officialSite": "https://www.tv-asahi.co.jp/shiawasena-kekkon/",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": {
+         "id": 263,
+         "name": "TV Asahi",
+         "country": {
+            "name": "Japan",
+            "code": "JP",
+            "timezone": "Asia/Tokyo"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 462956,
+         "imdb": "tt37498110"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609548.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609548.jpg"
+      },
+      "summary": null,
+      "updated": 1790843387,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94791"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777516",
+            "name": "Episode 9"
+         }
+      }
+   },
+   {
+      "id": 94792,
+      "url": "https://www.tvmaze.com/shows/94792/pop-pap-polters",
+      "name": "Pop Pap Polters",
+      "type": "Animation",
+      "language": "Japanese",
+      "genres": [
+         "Comedy",
+         "Children"
+      ],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2026-10-04",
+      "ended": null,
+      "officialSite": "https://ppp-anime.jp/",
+      "schedule": {
+         "time": "10:00",
+         "days": [
+            "Sunday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": {
+         "id": 263,
+         "name": "TV Asahi",
+         "country": {
+            "name": "Japan",
+            "code": "JP",
+            "timezone": "Asia/Tokyo"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 483316,
+         "imdb": "tt44923712"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609550.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609550.jpg"
+      },
+      "summary": "<p>The remote control seems to have moved, and snacks have mysteriously disappeared? It might actually be the work of a mischievous ghost... This is a slightly whimsical and amusing story about three little ghost brothers, Pop, Pup, and Porta, who live inside the walls of a certain house.</p>",
+      "updated": 1790844477,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94792"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777517",
+            "name": "TBA"
+         }
+      }
+   },
+   {
+      "id": 94793,
+      "url": "https://www.tvmaze.com/shows/94793/the-sound-of-sugar-cubes",
+      "name": "The Sound of Sugar Cubes",
+      "type": "Scripted",
+      "language": "Korean",
+      "genres": [
+         "Drama"
+      ],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2026-10-23",
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": null,
+      "webChannel": {
+         "id": 114,
+         "name": "wavve",
+         "country": {
+            "name": "Korea, Republic of",
+            "code": "KR",
+            "timezone": "Asia/Seoul"
+         },
+         "officialSite": "https://www.wavve.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": null,
+      "summary": "<p>An orphan, Han Yul didn't have much in life but a dream to become a singer. That is, till he saw his best friend mercilessly murdered by someone he looked up to. Harold. Popular. Perfect. Psychopath. And rich enough to cover his tracks. On the run, Han Yul quits high school, changing his name with every new job he scrambles together. When a famous singer hears his voice and offers a chance at revenge, one question remains: can he sing?</p>",
+      "updated": 1790852884,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94793"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777653",
+            "name": "Episode 1"
+         }
+      }
+   },
+   {
+      "id": 94794,
+      "url": "https://www.tvmaze.com/shows/94794/his-wild-rose-strikes-again",
+      "name": "His Wild Rose Strikes Again",
+      "type": "Scripted",
+      "language": "Chinese",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": 2,
+      "premiered": "2025-12-24",
+      "ended": "2025-12-24",
+      "officialSite": "https://hongguoduanju.com/detail?series_id=7585016802925628440",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": null,
+      "webChannel": {
+         "id": 67,
+         "name": "iQIYI",
+         "country": null,
+         "officialSite": "https://www.iq.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609551.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609551.jpg"
+      },
+      "summary": "<p>On the day she is abandoned, Lu Chayao sets fire to her grandmother's courtyard. Amid the flames, she encounters the bloodied heir Lu Shiye. He takes her home, plotting to use this troubled beauty to overturn the situation between their two families. Yet, the more defiant she gets, the more he falls for her. From then on, the cunning and calculating Shiye lays the traps, while the shrewd and eccentric Chayao sets them in motion\u2014teaming up to crush their enemies and save each other.\u00a0</p><p>This drama is adapted from the Fanqie Novel \"Young Master, the Down-and-Out Girl You Brought Home Has Lost It Again\" by author Miao Zong Shui Bu Xing.</p>",
+      "updated": 1790858561,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94794"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777604",
+            "name": "Episode 74"
+         }
+      }
+   },
+   {
+      "id": 94795,
+      "url": "https://www.tvmaze.com/shows/94795/my-national-husband",
+      "name": "My National Husband",
+      "type": "Scripted",
+      "language": "Chinese",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": 2,
+      "premiered": "2025-08-30",
+      "ended": "2025-08-30",
+      "officialSite": "https://www.iq.com/album/my-national-husband-2025-ngzd8sponl",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": null,
+      "webChannel": {
+         "id": 67,
+         "name": "iQIYI",
+         "country": null,
+         "officialSite": "https://www.iq.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609584.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609584.jpg"
+      },
+      "summary": "<p>Qiao An Hao and Lu Jin Nian enter a fake marriage because of Xu Jia Mu's car accident, concealing their true feelings. Later, they join the same film crew and experience misunderstandings, mutual protection, and revelations about the past</p>",
+      "updated": 1790855180,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94795"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777778",
+            "name": "Episode 81"
+         }
+      }
+   },
+   {
+      "id": 94797,
+      "url": "https://www.tvmaze.com/shows/94797/zmora",
+      "name": "Zmora",
+      "type": "Scripted",
+      "language": "Polish",
+      "genres": [
+         "Drama",
+         "Crime"
+      ],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2026-10-02",
+      "ended": null,
+      "officialSite": "https://play.hbomax.com/show/b7611e8b-65be-4556-893c-7045bbacdd08",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": null,
+      "webChannel": {
+         "id": 329,
+         "name": "HBO Max",
+         "country": null,
+         "officialSite": "https://www.hbomax.com"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 481992,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609602.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609602.jpg"
+      },
+      "summary": "<p>A disgraced journalist returns to her hometown and sets out to investigate the unsolved disappearance of a childhood friend.</p>",
+      "updated": 1790856828,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94797"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777783",
+            "name": "TBA"
+         }
+      }
+   },
+   {
+      "id": 94798,
+      "url": "https://www.tvmaze.com/shows/94798/political-lupin",
+      "name": "Political Lupin",
+      "type": "Scripted",
+      "language": "Japanese",
+      "genres": [
+         "Drama",
+         "Crime"
+      ],
+      "status": "In Development",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2026-10-07",
+      "ended": null,
+      "officialSite": "https://www.fujitv.co.jp/politicalupin/",
+      "schedule": {
+         "time": "22:00",
+         "days": [
+            "Wednesday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": {
+         "id": 131,
+         "name": "Fuji TV",
+         "country": {
+            "name": "Japan",
+            "code": "JP",
+            "timezone": "Asia/Tokyo"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 481579,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609607.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609607.jpg"
+      },
+      "summary": "<p>Set in the fictional country of Nipponia, the protagonist of this story is Kisaragi Yayoi, who sets her sights on \"political money,\" whose use is often unclear. While outsmarting an elite politician who manages the ruling party's finances, she brilliantly seizes all of this shady political money.</p>",
+      "updated": 1790857840,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94798"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777790",
+            "name": "TBA"
+         }
+      }
+   },
+   {
+      "id": 94799,
+      "url": "https://www.tvmaze.com/shows/94799/lost10",
+      "name": "LOST10",
+      "type": "Scripted",
+      "language": "Japanese",
+      "genres": [
+         "Thriller"
+      ],
+      "status": "In Development",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2026-10-16",
+      "ended": null,
+      "officialSite": "https://www.tbs.co.jp/lost10/",
+      "schedule": {
+         "time": "22:00",
+         "days": [
+            "Friday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": {
+         "id": 159,
+         "name": "TBS",
+         "country": {
+            "name": "Japan",
+            "code": "JP",
+            "timezone": "Asia/Tokyo"
+         },
+         "officialSite": "https://www.tbs.co.jp/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 481031,
+         "imdb": null
+      },
+      "image": null,
+      "summary": "<p>The story is set in Hokkaido. Triggered by the Shikabadake Incident, a mountain accident that occurs during a guided climbing tour, this human suspense drama unfolds as the motives, senses of justice, evil, and complex emotions of the various people involved intertwine.</p>",
+      "updated": 1790858062,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94799"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777792",
+            "name": "TBA"
+         }
+      }
+   },
+   {
+      "id": 94800,
+      "url": "https://www.tvmaze.com/shows/94800/pitch-invasion-how-the-usa-changed-soccer",
+      "name": "Pitch Invasion: How the USA Changed Soccer",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [
+         "Sports"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": 58,
+      "premiered": "2026-06-08",
+      "ended": "2026-06-08",
+      "officialSite": "https://www.bbc.co.uk/iplayer/episodes/m002xmb9/pitch-invasion-how-the-usa-changed-soccer",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": null,
+      "webChannel": {
+         "id": 26,
+         "name": "BBC iPlayer",
+         "country": {
+            "name": "United Kingdom",
+            "code": "GB",
+            "timezone": "Europe/London"
+         },
+         "officialSite": "https://www.bbc.co.uk/iplayer"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 479152,
+         "imdb": "tt43515090"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609614.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609614.jpg"
+      },
+      "summary": "<p>Star-spangled soccer, from Best to Beckham. How the USA gave a declining, hooligan-ridden sport a family friendly makeover. It didn't just grow the game, it changed it forever.</p>",
+      "updated": 1790859414,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94800"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777851",
+            "name": "Episode 2"
+         }
+      }
+   },
+   {
+      "id": 94801,
+      "url": "https://www.tvmaze.com/shows/94801/a-cloud-loves-me",
+      "name": "A Cloud Loves Me",
+      "type": "Scripted",
+      "language": "Chinese",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": 2,
+      "premiered": "2026-09-29",
+      "ended": "2026-09-29",
+      "officialSite": "https://hongguoduanju.com/player/7689322645132692542",
+      "schedule": {
+         "time": "",
+         "days": [
+            "Tuesday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": null,
+      "webChannel": {
+         "id": 715,
+         "name": "Hongguo",
+         "country": {
+            "name": "China",
+            "code": "CN",
+            "timezone": "Asia/Shanghai"
+         },
+         "officialSite": "https://www.novelquickapp.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609630.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609630.jpg"
+      },
+      "summary": "<p>The story begins on Gu Yueji's 27th birthday, which turns into a disaster when her first love betrays her, dumps her, and leaves her burdened with debt. Right at her lowest point, a birthday cake deliveryman named Ren Jiangye arrives. Desperate for a fresh start, Yueji enters into a living arrangement and contract with him.</p>",
+      "updated": 1790863263,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94801"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777939",
+            "name": "Episode 66"
+         }
+      }
+   },
+   {
+      "id": 94802,
+      "url": "https://www.tvmaze.com/shows/94802/thornbird",
+      "name": "Thornbird",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+         "Crime",
+         "Thriller"
+      ],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": null,
+      "webChannel": {
+         "id": 2,
+         "name": "Hulu",
+         "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+         },
+         "officialSite": "https://www.hulu.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609632.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609632.jpg"
+      },
+      "summary": "<p>Ten years after her father\u2014the infamous serial killer Gabriel Thorn\u2014was caught, 17-year-old Ryan Shipley is back in her childhood hometown of Starling, Tennessee, trying to lay low. No one can know who she really is. No one can know the truth about her past. All Ryan wants is a chance to live as a normal teenager, maybe even fall in love.</p>",
+      "updated": 1790862642,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94802"
+         }
+      }
+   },
+   {
+      "id": 94803,
+      "url": "https://www.tvmaze.com/shows/94803/pablo-luisao",
+      "name": "Pablo & Luis\u00e3o",
+      "type": "Scripted",
+      "language": "Portuguese",
+      "genres": [
+         "Comedy"
+      ],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2025-05-22",
+      "ended": null,
+      "officialSite": "https://globoplay.globo.com/pablo-luisao/t/K2zwft1xdB/",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": null,
+      "webChannel": {
+         "id": 131,
+         "name": "Globoplay",
+         "country": {
+            "name": "Brazil",
+            "code": "BR",
+            "timezone": "America/Noronha"
+         },
+         "officialSite": null
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 434801,
+         "imdb": "tt36325058"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609634.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609634.jpg"
+      },
+      "summary": "<p>The adventures of <b>Pablo and Luis\u00e3o</b>. The production will bring to the small screen the hilarious stories of the artist's father and his best friend in a frustrated attempt to open their own businesses, the love-hate relationship between the two with their family and the holes they got into.</p>",
+      "updated": 1790863345,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94803"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778034",
+            "name": "Enterro do Tio Z\u00e9"
+         }
+      }
+   },
+   {
+      "id": 94804,
+      "url": "https://www.tvmaze.com/shows/94804/alemao-os-dois-lados-do-complexo",
+      "name": "Alem\u00e3o: Os Dois Lados do Complexo",
+      "type": "Scripted",
+      "language": "Portuguese",
+      "genres": [
+         "Drama",
+         "Action",
+         "Crime"
+      ],
+      "status": "Ended",
+      "runtime": 35,
+      "averageRuntime": 35,
+      "premiered": "2016-01-12",
+      "ended": "2016-01-15",
+      "officialSite": null,
+      "schedule": {
+         "time": "23:45",
+         "days": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": {
+         "id": 374,
+         "name": "TV Globo",
+         "country": {
+            "name": "Brazil",
+            "code": "BR",
+            "timezone": "America/Noronha"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 305701,
+         "imdb": "tt27562930"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609641.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609641.jpg"
+      },
+      "summary": "<p>2010: Just as the Brazilian government launch a military-assisted siege on one of Rio de Janeiro's most notorious and criminally-controlled favelas, the identities of four undercover policemen operating in the slum are accidentally leaked. As violence mounts, the favela's ruthless boss, orders his men to hunt them down.</p>",
+      "updated": 1790875602,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94804"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778038",
+            "name": "Cap\u00edtulo 4"
+         }
+      }
+   },
+   {
+      "id": 94805,
+      "url": "https://www.tvmaze.com/shows/94805/burnout-in-limbo",
+      "name": "Burnout in Limbo",
+      "type": "Scripted",
+      "language": "Chinese",
+      "genres": [
+         "Drama",
+         "Crime"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": 60,
+      "premiered": "2026-09-24",
+      "ended": "2026-09-24",
+      "officialSite": "https://v.qq.com/x/cover/mzc00200s92k27r.html",
+      "schedule": {
+         "time": "10:00",
+         "days": [
+            "Thursday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": null,
+      "webChannel": {
+         "id": 104,
+         "name": "Tencent QQ",
+         "country": {
+            "name": "China",
+            "code": "CN",
+            "timezone": "Asia/Shanghai"
+         },
+         "officialSite": "https://v.qq.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609644.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609644.jpg"
+      },
+      "summary": null,
+      "updated": 1790864049,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94805"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778042",
+            "name": "Episode 3"
+         }
+      }
+   },
+   {
+      "id": 94806,
+      "url": "https://www.tvmaze.com/shows/94806/meu-nome-e-preta",
+      "name": "Meu nome \u00e9 Preta",
+      "type": "Documentary",
+      "language": "Portuguese",
+      "genres": [],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "2026-07-20",
+      "ended": "2026-08-08",
+      "officialSite": "https://globoplay.globo.com/meu-nome-e-preta/t/5xYCtskFn6/",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": null,
+      "webChannel": {
+         "id": 131,
+         "name": "Globoplay",
+         "country": {
+            "name": "Brazil",
+            "code": "BR",
+            "timezone": "America/Noronha"
+         },
+         "officialSite": null
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 480656,
+         "imdb": "tt43663421"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609645.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609645.jpg"
+      },
+      "summary": "<p>An intimate portrait of Preta's life, told through the artist's own perspective and exclusive archival material. The series explores the many sides of her personality, career, and experiences that shaped her remarkable journey.</p>",
+      "updated": 1790864193,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94806"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778046",
+            "name": "Minha carne \u00e9 de carnaval"
+         }
+      }
+   },
+   {
+      "id": 94807,
+      "url": "https://www.tvmaze.com/shows/94807/fang-sheng-mi-zong",
+      "name": "Fang Sheng Mi Zong",
+      "type": "Scripted",
+      "language": "Chinese",
+      "genres": [
+         "Drama",
+         "Science-Fiction",
+         "Mystery"
+      ],
+      "status": "In Development",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": "https://v.qq.com/x/cover/mzc00200ukh13h6.html",
+      "schedule": {
+         "time": "",
+         "days": []
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": null,
+      "webChannel": {
+         "id": 104,
+         "name": "Tencent QQ",
+         "country": {
+            "name": "China",
+            "code": "CN",
+            "timezone": "Asia/Shanghai"
+         },
+         "officialSite": "https://v.qq.com/"
+      },
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609647.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609647.jpg"
+      },
+      "summary": null,
+      "updated": 1790864631,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94807"
+         }
+      }
+   },
+   {
+      "id": 94808,
+      "url": "https://www.tvmaze.com/shows/94808/ekmek-pagoto",
+      "name": "\u0395\u03ba\u03bc\u03ad\u03ba \u03a0\u03b1\u03b3\u03c9\u03c4\u03cc",
+      "type": "Scripted",
+      "language": "Greek",
+      "genres": [
+         "Comedy"
+      ],
+      "status": "Ended",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "1991-09-20",
+      "ended": "1992-06-19",
+      "officialSite": "https://www.megatv.com/ekpompes/43404/ekmek-pagto/",
+      "schedule": {
+         "time": "",
+         "days": [
+            "Friday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": {
+         "id": 1071,
+         "name": "MEGA Channel",
+         "country": {
+            "name": "Greece",
+            "code": "GR",
+            "timezone": "Europe/Athens"
+         },
+         "officialSite": "https://www.megatv.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": 274843,
+         "imdb": "tt0224474"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609659.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609659.jpg"
+      },
+      "summary": "<p>After many years of living in Africa, a family returns to Greece and tries to make a fresh start and stand on their own feet again. The grandmother prepares the evening meal, and her cooking becomes the reason for the whole family to gather. During the appetizer, all the issues troubling them come to the surface. In the first course, secrets are revealed and unbelievable stories unfold. But when the dessert arrives - ekmek ice cream - nothing seems quite so serious anymore.</p>",
+      "updated": 1790880432,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94808"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778448",
+            "name": "\u0395\u03c0\u03b5\u03b9\u03c3\u03cc\u03b4\u03b9\u03bf 40"
+         }
+      }
+   },
+   {
+      "id": 94809,
+      "url": "https://www.tvmaze.com/shows/94809/o-episkeptes-tes-omichles",
+      "name": "\u039f \u0395\u03c0\u03b9\u03c3\u03ba\u03ad\u03c0\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 \u039f\u03bc\u03af\u03c7\u03bb\u03b7\u03c2",
+      "type": "Scripted",
+      "language": "Greek",
+      "genres": [
+         "Drama",
+         "Crime"
+      ],
+      "status": "Ended",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": "1991-09-20",
+      "ended": "1992-08-21",
+      "officialSite": "https://www.megatv.com/ekpompes/43298/episkeptis-tis-omixlis-o/",
+      "schedule": {
+         "time": "",
+         "days": [
+            "Friday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": {
+         "id": 1071,
+         "name": "MEGA Channel",
+         "country": {
+            "name": "Greece",
+            "code": "GR",
+            "timezone": "Europe/Athens"
+         },
+         "officialSite": "https://www.megatv.com/"
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": "tt0387733"
+      },
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609664.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609664.jpg"
+      },
+      "summary": "<p>A professor of the high school in Ioannina, who many years ago had been forced to flee to Germany because he was unfairly accused of killing a student, returns after many years, determined to restore his name and discover the real culprit. In his homeland everyone is confronted with suspicion, and his presence is of crucial importance to the small society where he lives. But as his research progresses, he discovers that there are many more hidden secrets.</p>",
+      "updated": 1790878291,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94809"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778516",
+            "name": "\u0395\u03c0\u03b5\u03b9\u03c3\u03cc\u03b4\u03b9\u03bf 49"
+         }
+      }
+   },
+   {
+      "id": 94810,
+      "url": "https://www.tvmaze.com/shows/94810/big-money-in-the-morning",
+      "name": "Big Money in the Morning",
+      "type": "News",
+      "language": null,
+      "genres": [],
+      "status": "In Development",
+      "runtime": 180,
+      "averageRuntime": 180,
+      "premiered": "2026-10-12",
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+         "time": "06:00",
+         "days": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+         ]
+      },
+      "rating": {
+         "average": null
+      },
+      "weight": 0,
+      "network": {
+         "id": 524,
+         "name": "Fox Business Network",
+         "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+         },
+         "officialSite": null
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+         "tvrage": null,
+         "thetvdb": null,
+         "imdb": null
+      },
+      "image": null,
+      "summary": "<p>A fast-paced, comprehensive look at the major issues driving the market, designed to help viewers navigate the complex financial forces shaping their future before the trading day begins.</p>",
+      "updated": 1790878055,
+      "_links": {
+         "self": {
+            "href": "https://api.tvmaze.com/shows/94810"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778449",
+            "name": "Episode 1"
+         }
+      }
+   }
+]

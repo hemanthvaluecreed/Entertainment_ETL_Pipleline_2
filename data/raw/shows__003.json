@@ -44,18 +44,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1598898.jpg"
       },
       "summary": "<p><b>The Real Housewives of New York City</b> will feature an elite and powerful set of New York socialites as they juggle their careers and home lives with busy calendars packed with charity fund-raising galas, the social whirl of the Hamptons, and interviews for elite private schools. These driven and ambitious women show everyone what it takes to make it in the upper echelon of society, where money and status are an essential way of life.</p>",
-      "updated": 1790486408,
+      "updated": 1790741547,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/750"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3740579",
-            "name": "A Seder in Brooklyn"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3750214",
             "name": "Gloves Off at the Gala"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3766634",
+            "name": "TBA"
          }
       }
    },
@@ -106,7 +106,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/591/1479677.jpg"
       },
       "summary": "<p>Chat show featuring celebrities, music and fabulous weirdness from the British public.</p>",
-      "updated": 1790508071,
+      "updated": 1790842241,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/751"
@@ -146,7 +146,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 68,
+      "weight": 87,
       "network": {
          "id": 32,
          "name": "TBS",
@@ -204,7 +204,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 82,
       "network": {
          "id": 65,
          "name": "IFC",
@@ -265,7 +265,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 82,
+      "weight": 53,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -324,7 +324,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 90,
+      "weight": 54,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -378,7 +378,7 @@
          "days": []
       },
       "rating": {
-         "average": 7.6
+         "average": 7.7
       },
       "weight": 99,
       "network": null,
@@ -559,7 +559,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 95,
+      "weight": 70,
       "network": {
          "id": 78,
          "name": "Disney Channel",
@@ -617,7 +617,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 98,
+      "weight": 96,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -673,7 +673,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 51,
+      "weight": 70,
       "network": {
          "id": 66,
          "name": "Discovery",
@@ -732,7 +732,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 53,
+      "weight": 72,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -792,7 +792,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 70,
+      "weight": 53,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -852,7 +852,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 83,
+      "weight": 90,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -912,7 +912,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 94,
+      "weight": 96,
       "network": {
          "id": 11,
          "name": "Cartoon Network",
@@ -993,7 +993,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1221842.jpg"
       },
       "summary": "<p><b>Doctor Who</b> is the longest-running science fiction TV series in history, airing initially from 1963 to 1989. <i>Doctor Who</i> is about ideas. It pioneered sophisticated mixed-level storytelling. Its format was the key to its longevity: the Doctor, a mysterious traveller in space and time, travels in his ship, the TARDIS. The TARDIS can take him and his companions anywhere in time and space. Inevitably he finds evil at work wherever he goes..</p>",
-      "updated": 1784584961,
+      "updated": 1790525292,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/766"
@@ -1026,7 +1026,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 89,
+      "weight": 95,
       "network": {
          "id": 298,
          "name": "USA Network",
@@ -1200,7 +1200,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 98,
+      "weight": 93,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -1260,7 +1260,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 90,
+      "weight": 94,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -1319,7 +1319,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 90,
+      "weight": 97,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -1377,7 +1377,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 96,
+      "weight": 91,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -1435,7 +1435,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 53,
+      "weight": 94,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -1495,7 +1495,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 97,
+      "weight": 93,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -1555,7 +1555,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 97,
+      "weight": 53,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -1615,7 +1615,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 70,
+      "weight": 94,
       "network": {
          "id": 78,
          "name": "Disney Channel",
@@ -1675,7 +1675,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 94,
+      "weight": 52,
       "network": {
          "id": 18,
          "name": "Lifetime",
@@ -1795,7 +1795,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 93,
+      "weight": 96,
       "network": {
          "id": 48,
          "name": "CTV",
@@ -1854,7 +1854,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -1937,7 +1937,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/494/1237032.jpg"
       },
       "summary": "<p>Marshall Matt Dillon is responsible for keeping the law and respectability in Dodge City in this western action-drama. <b>Gunsmoke</b> captured the courage, character and spirit of the Western Frontier.</p>",
-      "updated": 1790097250,
+      "updated": 1790790862,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/782"
@@ -1973,7 +1973,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -2033,7 +2033,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -2093,7 +2093,7 @@
       "rating": {
          "average": 8.9
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -2152,7 +2152,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 89,
+      "weight": 90,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -2212,7 +2212,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 99,
+      "weight": 95,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -2332,7 +2332,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 84,
+      "weight": 94,
       "network": {
          "id": 41,
          "name": "E4",
@@ -2393,7 +2393,7 @@
       "rating": {
          "average": null
       },
-      "weight": 75,
+      "weight": 85,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -2477,18 +2477,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15519.jpg"
       },
       "summary": "<p>Set in the East End of London, the show focuses on the tensions between love and family with stories ranging from hard-hitting social issues, to personal, human tragedies. And there's plenty of funny moments too.\u00a0<br /><br />Classic characters old and new across thousands of episodes have shared a drink in The Queen Vic, shed tears of despair or joy, sat on Arthur's bench in the Square... and at some point or other they probably crossed paths with Ian Beale.</p>",
-      "updated": 1790504246,
+      "updated": 1790803797,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/793"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3754610",
-            "name": "24/09/2026"
+            "href": "https://api.tvmaze.com/episodes/3771169",
+            "name": "01/10/2026"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3771166",
-            "name": "28/09/2026"
+            "href": "https://api.tvmaze.com/episodes/3771170",
+            "name": "05/10/2026"
          }
       }
    },
@@ -2633,7 +2633,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 96,
+      "weight": 90,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -2692,7 +2692,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 83,
+      "weight": 96,
       "network": {
          "id": 13,
          "name": "FX",
@@ -2775,7 +2775,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/544/1362281.jpg"
       },
       "summary": "<p>It's the deadliest job on earth: crab fishing off the Alaskan coast on the icy Bering Sea. These adventurers will battle Arctic weather, brutal waves, and a ticking clock for big money in this modern-day gold rush from which they may never return.</p>",
-      "updated": 1789099549,
+      "updated": 1790636173,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/798"
@@ -2811,7 +2811,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 92,
+      "weight": 96,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -2871,7 +2871,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 93,
+      "weight": 94,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -2927,7 +2927,7 @@
       "rating": {
          "average": 5.7
       },
-      "weight": 82,
+      "weight": 89,
       "network": {
          "id": 22,
          "name": "MTV",
@@ -2967,7 +2967,11 @@
       "name": "WWE Monday Night RAW",
       "type": "Sports",
       "language": "English",
-      "genres": [],
+      "genres": [
+         "Drama",
+         "Action",
+         "Sports"
+      ],
       "status": "Running",
       "runtime": null,
       "averageRuntime": 179,
@@ -3002,18 +3006,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/627/1568559.jpg"
       },
       "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-      "updated": 1790080176,
+      "updated": 1790787081,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/802"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3680019",
-            "name": "#1738 - Frost Bank Center in San Antonio, TX"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3680020",
             "name": "#1739 - Fiserv Forum in Milwaukee, WI"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3680021",
+            "name": "#1740 - Enterprise Center in St. Louis, MO"
          }
       }
    },
@@ -3043,7 +3047,7 @@
       "rating": {
          "average": 4.2
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -3066,7 +3070,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/568/1420164.jpg"
       },
       "summary": "<p>Featuring a star-studded cast of WWE Superstars, <b>SmackDown Live</b> delivers a shot of adrenaline to viewers and bring fans over-the-top action, feats of athleticism beyond the reach of mortal men, and WWE's special brand of drama.</p>",
-      "updated": 1790384911,
+      "updated": 1790943397,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/803"
@@ -3252,14 +3256,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/593/1482536.jpg"
       },
       "summary": "<p>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. <b>The Bold and the Beautiful</b>, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on <i>The Bold and the Beautiful</i>...</p>",
-      "updated": 1789916437,
+      "updated": 1790725962,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/806"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3766530",
-            "name": "Ep. #9873"
+            "href": "https://api.tvmaze.com/episodes/3773099",
+            "name": "Ep. #9877"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3773100",
+            "name": "Ep. #9878"
          }
       }
    },
@@ -3287,7 +3295,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 95,
+      "weight": 94,
       "network": {
          "id": 78,
          "name": "Disney Channel",
@@ -3347,7 +3355,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 97,
+      "weight": 92,
       "network": {
          "id": 27,
          "name": "Nickelodeon",
@@ -3407,7 +3415,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 93,
+      "weight": 97,
       "network": {
          "id": 49,
          "name": "BBC Three",
@@ -3525,7 +3533,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 71,
+      "weight": 93,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -3612,18 +3620,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/598/1496284.jpg"
       },
       "summary": "<p><b>Days of our Lives</b> is set in the fictitious Midwestern town of Salem. The core families are the Bradys, the Hortons and the DiMeras, and the multi-layered storylines involve elements of romance, adventure, mystery, comedy and drama.</p><p>Beginning on September 12, 2022, DAYS became exclusive to streaming on Peacock.</p>",
-      "updated": 1790471612,
+      "updated": 1790942608,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/812"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3719761",
-            "name": "Ep. #15474"
+            "href": "https://api.tvmaze.com/episodes/3777373",
+            "name": "Ep. #15478"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3719762",
-            "name": "Ep. #15475"
+            "href": "https://api.tvmaze.com/episodes/3777374",
+            "name": "Ep. #15479"
          }
       }
    },
@@ -3653,7 +3661,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 96,
+      "weight": 94,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -3773,7 +3781,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 90,
+      "weight": 85,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -3831,7 +3839,7 @@
       "rating": {
          "average": 6.3
       },
-      "weight": 70,
+      "weight": 52,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -3889,7 +3897,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 89,
+      "weight": 84,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -3971,7 +3979,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/495/1237709.jpg"
       },
       "summary": "<p>This long-running drama dealt with the experiences of a group of young people in Beverly Hills, CA as they navigated high school, college and ultimately the real world. The series focused on their travails as they tried to maintain their friendship while dealing with romances, family and personal crises, tragedies and countless drug addictions.</p>",
-      "updated": 1789323766,
+      "updated": 1790540522,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/818"
@@ -4004,7 +4012,7 @@
       "rating": {
          "average": null
       },
-      "weight": 88,
+      "weight": 78,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -4063,7 +4071,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 70,
+      "weight": 52,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -4180,7 +4188,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 69,
+      "weight": 70,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -4239,7 +4247,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 89,
+      "weight": 84,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -4298,7 +4306,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 96,
+      "weight": 97,
       "network": {
          "id": 53,
          "name": "History",
@@ -4416,7 +4424,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -4475,7 +4483,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 46,
+      "weight": 82,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -4534,7 +4542,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 80,
+      "weight": 49,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -4592,7 +4600,7 @@
       "rating": {
          "average": null
       },
-      "weight": 67,
+      "weight": 68,
       "network": {
          "id": 82,
          "name": "Travel Channel",
@@ -4708,7 +4716,7 @@
       "rating": {
          "average": 5.1
       },
-      "weight": 95,
+      "weight": 94,
       "network": {
          "id": 41,
          "name": "E4",
@@ -4731,14 +4739,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/618/1545382.jpg"
       },
       "summary": "<p>A look at the lifestyles of a group of 20-something residents of the exclusive postcode in London, Chelsea, SW3.</p>",
-      "updated": 1789280011,
+      "updated": 1790528125,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/831"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3761630",
-            "name": "Episode 2"
+            "href": "https://api.tvmaze.com/episodes/3772898",
+            "name": "Episode 3"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3772899",
+            "name": "Episode 4"
          }
       }
    },
@@ -4828,7 +4840,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 92,
+      "weight": 93,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -4888,7 +4900,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 97,
+      "weight": 95,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -4947,7 +4959,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 97,
+      "weight": 95,
       "network": {
          "id": 17,
          "name": "STARZ",
@@ -5008,7 +5020,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 84,
+      "weight": 47,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -5064,7 +5076,7 @@
       "rating": {
          "average": null
       },
-      "weight": 65,
+      "weight": 47,
       "network": {
          "id": 107,
          "name": "Destination America",
@@ -5120,7 +5132,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 69,
+      "weight": 94,
       "network": {
          "id": 66,
          "name": "Discovery",
@@ -5179,7 +5191,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -5238,7 +5250,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 89,
+      "weight": 51,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -5296,7 +5308,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 96,
+      "weight": 94,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -5353,7 +5365,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 94,
+      "weight": 89,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -5409,7 +5421,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 82,
+      "weight": 90,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -5467,7 +5479,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 68,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -5605,18 +5617,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1599421.jpg"
       },
       "summary": "<p>These ladies show no signs of slowing down and although they may be enjoying the sunny SoCal lifestyle, replete with plastic surgery and frequent shopping sprees, real life still manages to find them, even in the land of excess and indulgence on <b>The Real Housewives of Orange County</b>.</p>",
-      "updated": 1790310951,
+      "updated": 1790910735,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/846"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3701312",
-            "name": "Lei It on Me"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3758671",
             "name": "Don't Look Now"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3758672",
+            "name": "TBA"
          }
       }
    },
@@ -5644,7 +5656,7 @@
       "rating": {
          "average": null
       },
-      "weight": 91,
+      "weight": 83,
       "network": {
          "id": 22,
          "name": "MTV",
@@ -5704,7 +5716,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 96,
+      "weight": 51,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -5766,7 +5778,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 88,
+      "weight": 93,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -5826,7 +5838,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 96,
+      "weight": 98,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -5884,7 +5896,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 85,
+      "weight": 86,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -5944,7 +5956,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 82,
+      "weight": 70,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -6000,7 +6012,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 50,
+      "weight": 83,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -6060,7 +6072,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 91,
+      "weight": 70,
       "network": {
          "id": 63,
          "name": "Sky Showcase",
@@ -6118,7 +6130,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 47,
+      "weight": 92,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -6175,7 +6187,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 89,
+      "weight": 90,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -6231,7 +6243,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 92,
+      "weight": 88,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -6287,7 +6299,7 @@
       "rating": {
          "average": 5.9
       },
-      "weight": 97,
+      "weight": 93,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -6345,7 +6357,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 50,
+      "weight": 70,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -6405,7 +6417,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 96,
+      "weight": 84,
       "network": {
          "id": 36,
          "name": "CBC",
@@ -6464,7 +6476,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 81,
+      "weight": 89,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -6522,7 +6534,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 96,
+      "weight": 70,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -6581,7 +6593,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 93,
+      "weight": 84,
       "network": {
          "id": 54,
          "name": "ITV2",
@@ -6641,7 +6653,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 95,
+      "weight": 85,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -6699,7 +6711,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 96,
+      "weight": 94,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -6758,7 +6770,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 97,
+      "weight": 94,
       "network": {
          "id": 11,
          "name": "Cartoon Network",
@@ -6816,7 +6828,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 68,
+      "weight": 89,
       "network": {
          "id": 89,
          "name": "Investigation Discovery",
@@ -6995,7 +7007,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 67,
+      "weight": 48,
       "network": {
          "id": 77,
          "name": "Science",
@@ -7109,7 +7121,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 83,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -7163,7 +7175,7 @@
       "rating": {
          "average": 5
       },
-      "weight": 85,
+      "weight": 61,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -7192,12 +7204,12 @@
             "href": "https://api.tvmaze.com/shows/875"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3770876",
-            "name": "24/09/2026"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3770877",
             "name": "01/10/2026"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3770879",
+            "name": "08/10/2026"
          }
       }
    },
@@ -7279,7 +7291,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 87,
+      "weight": 69,
       "network": {
          "id": 92,
          "name": "Animal Planet",
@@ -7337,7 +7349,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 77,
       "network": {
          "id": 41,
          "name": "E4",
@@ -7453,7 +7465,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 95,
+      "weight": 69,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -7569,7 +7581,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 25,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -7739,7 +7751,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 75,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -7795,7 +7807,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 44,
       "network": {
          "id": 18,
          "name": "Lifetime",
@@ -7853,7 +7865,7 @@
       "rating": {
          "average": null
       },
-      "weight": 66,
+      "weight": 86,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -7911,7 +7923,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 81,
+      "weight": 95,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -7971,7 +7983,7 @@
       "rating": {
          "average": 8.2
       },
-      "weight": 89,
+      "weight": 67,
       "network": {
          "id": 60,
          "name": "CBBC",
@@ -8088,7 +8100,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 66,
       "network": {
          "id": 92,
          "name": "Animal Planet",
@@ -8148,7 +8160,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 96,
+      "weight": 97,
       "network": {
          "id": 489,
          "name": "TVO",
@@ -8208,7 +8220,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 92,
+      "weight": 83,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -8271,7 +8283,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 81,
+      "weight": 82,
       "network": {
          "id": 73,
          "name": "Nicktoons",
@@ -8329,7 +8341,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 91,
+      "weight": 89,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -8385,7 +8397,7 @@
       "rating": {
          "average": 6.3
       },
-      "weight": 88,
+      "weight": 66,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -8501,7 +8513,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 93,
+      "weight": 89,
       "network": {
          "id": 11,
          "name": "Cartoon Network",
@@ -8557,7 +8569,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 42,
       "network": {
          "id": 85,
          "name": "PBS",
@@ -8613,7 +8625,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 73,
       "network": {
          "id": 41,
          "name": "E4",
@@ -8673,7 +8685,7 @@
       "rating": {
          "average": null
       },
-      "weight": 70,
+      "weight": 72,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -8731,7 +8743,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 94,
+      "weight": 95,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -8760,12 +8772,12 @@
             "href": "https://api.tvmaze.com/shows/904"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3758728",
-            "name": "Valentines Mansion and Gardens 1"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3772803",
             "name": "Souter Lighthouse"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3772804",
+            "name": "Caerphilly Castle 1"
          }
       }
    },
@@ -8795,7 +8807,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 72,
          "name": "Syndication",
@@ -8854,7 +8866,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 85,
+      "weight": 46,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -8975,7 +8987,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 49,
+      "weight": 70,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -9035,7 +9047,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -9058,7 +9070,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/16036.jpg"
       },
       "summary": "<p>Perry Mason is an attorney who specializes in defending seemingly indefensible cases. With the aid of his secretary Della Street and investigator Paul Drake, he often finds that by digging deeply into the facts, startling facts can be revealed. Often relying on his outstanding courtroom skills, he often tricks or traps people into unwittingly admitting their guilt.</p>",
-      "updated": 1789975376,
+      "updated": 1790562522,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/909"
@@ -9152,7 +9164,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 79,
+      "weight": 87,
       "network": {
          "id": 49,
          "name": "BBC Three",
@@ -9210,7 +9222,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 10,
          "name": "Adult Swim",
@@ -9269,7 +9281,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 80,
+      "weight": 48,
       "network": {
          "id": 66,
          "name": "Discovery",
@@ -9385,7 +9397,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 91,
+      "weight": 94,
       "network": {
          "id": 78,
          "name": "Disney Channel",
@@ -9445,7 +9457,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 22,
          "name": "MTV",
@@ -9505,7 +9517,7 @@
       "rating": {
          "average": 5.9
       },
-      "weight": 95,
+      "weight": 90,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -9563,7 +9575,7 @@
       "rating": {
          "average": 8.2
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -9680,7 +9692,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 95,
+      "weight": 92,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -9739,7 +9751,7 @@
       "rating": {
          "average": 5
       },
-      "weight": 48,
+      "weight": 47,
       "network": {
          "id": 176,
          "name": "Discovery Family",
@@ -9797,7 +9809,7 @@
       "rating": {
          "average": 5.9
       },
-      "weight": 95,
+      "weight": 97,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -9853,7 +9865,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 93,
+      "weight": 84,
       "network": {
          "id": 295,
          "name": "U&W",
@@ -9995,18 +10007,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/564/1410376.jpg"
       },
       "summary": "<p>Are you ready for the lockdown?<br /><br /><b>Ghost Adventures</b> crew -- Zak Bagans, Aaron Goodwin, Billy Tolley, and Jay Wasley -- is back to investigate the scariest, most notorious, haunted places in the world.<br /><br />The trio will interview eyewitnesses and historians at each location, arming themselves with the stories of the ghosts they will later provoke and confront during their dusk-to-dawn lockdowns. (Note: They don't always come out unscathed!) Then they'll review and analyze their findings with some the most respected experts and specialists in the paranormal field.</p>",
-      "updated": 1790236854,
+      "updated": 1790834419,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/926"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3509674",
-            "name": "Pioche Hospital of Hell"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3751448",
             "name": "Factory of Fear"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3770658",
+            "name": "Possession in Pilot Rock"
          }
       }
    },
@@ -10090,7 +10102,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 68,
+      "weight": 89,
       "network": {
          "id": 10,
          "name": "Adult Swim",
@@ -10149,7 +10161,7 @@
       "rating": {
          "average": 4.1
       },
-      "weight": 90,
+      "weight": 68,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -10205,7 +10217,7 @@
       "rating": {
          "average": 5.4
       },
-      "weight": 79,
+      "weight": 46,
       "network": {
          "id": 22,
          "name": "MTV",
@@ -10321,7 +10333,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 95,
+      "weight": 94,
       "network": {
          "id": 53,
          "name": "History",
@@ -10377,7 +10389,7 @@
       "rating": {
          "average": 6.4
       },
-      "weight": 91,
+      "weight": 83,
       "network": {
          "id": 66,
          "name": "Discovery",
@@ -10436,7 +10448,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 95,
+      "weight": 96,
       "network": {
          "id": 53,
          "name": "History",
@@ -10500,7 +10512,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 89,
+      "weight": 94,
       "network": null,
       "webChannel": {
          "id": 325,
@@ -10612,7 +10624,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 93,
+      "weight": 48,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -10729,7 +10741,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 67,
+      "weight": 88,
       "network": {
          "id": 53,
          "name": "History",
@@ -10789,7 +10801,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 97,
+      "weight": 95,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -10849,7 +10861,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 81,
+      "weight": 69,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -10908,7 +10920,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 82,
+      "weight": 70,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -10968,7 +10980,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 92,
+      "weight": 95,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -11028,7 +11040,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 94,
+      "weight": 95,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -11051,7 +11063,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/16218.jpg"
       },
       "summary": "<p>Single mother of three, Reba Hart, tackles parenthood and other obstacles along the way. After her dentist husband of 20 years, Brock, leaves her for his dental hygienist, Barbra Jean, Reba's seemingly perfect world is turned upside down.</p>",
-      "updated": 1761782023,
+      "updated": 1790877376,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/944"
@@ -11088,7 +11100,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 95,
+      "weight": 96,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -11148,7 +11160,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 87,
+      "weight": 94,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -11207,7 +11219,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 68,
+      "weight": 48,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -11267,7 +11279,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -11326,7 +11338,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 48,
+      "weight": 92,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -11386,7 +11398,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 91,
+      "weight": 94,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -11505,7 +11517,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 81,
+      "weight": 83,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -11563,7 +11575,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 69,
+      "weight": 96,
       "network": {
          "id": 41,
          "name": "E4",
@@ -11621,7 +11633,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 96,
+      "weight": 94,
       "network": {
          "id": 81,
          "name": "Food Network",
@@ -11799,7 +11811,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 16,
          "name": "Syfy",
@@ -11857,7 +11869,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 85,
       "network": {
          "id": 53,
          "name": "History",
@@ -11915,7 +11927,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 60,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -12033,7 +12045,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 69,
+      "weight": 49,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -12152,7 +12164,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 91,
+      "weight": 69,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -12211,7 +12223,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 82,
+      "weight": 93,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -12269,7 +12281,7 @@
       "rating": {
          "average": null
       },
-      "weight": 87,
+      "weight": 47,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -12329,7 +12341,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 88,
+      "weight": 82,
       "network": {
          "id": 27,
          "name": "Nickelodeon",
@@ -12389,7 +12401,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 96,
+      "weight": 89,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -12449,7 +12461,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 92,
+      "weight": 94,
       "network": {
          "id": 20,
          "name": "AMC",
@@ -12507,7 +12519,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 42,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -12568,7 +12580,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 82,
+      "weight": 49,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -12628,7 +12640,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 81,
+      "weight": 82,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -12742,7 +12754,7 @@
       "rating": {
          "average": 5
       },
-      "weight": 67,
+      "weight": 47,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -12792,7 +12804,7 @@
       "ended": null,
       "officialSite": "http://www.oxygen.com/snapped",
       "schedule": {
-         "time": "18:00",
+         "time": "21:00",
          "days": [
             "Sunday"
          ]
@@ -12823,18 +12835,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/550/1376494.jpg"
       },
       "summary": "<p>Who are these women and what drives them to kill? Oxygen's hit true crime series, <b>Snapped</b>, profiles fascinating cases of women accused of murder. Did they really do it? And if they did, why? Whether the motivation is revenge against a cheating husband, the promise of a hefty insurance payoff, or putting an end to years of abuse, the reasons are as varied as the women themselves. From socialites to secretaries, female killers share one thing in common: at some point, they all snapped. Each episode of <i>Snapped</i> chronicles the life of a woman who has been charged with murder. These shocking but true stories turn common assumptions about crime and criminals upside down, and prove that even the most unlikely suspects can be capable of murder.</p>",
-      "updated": 1790231415,
+      "updated": 1790834384,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/974"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3750263",
-            "name": "Lara Paige Conley"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3766129",
             "name": "Jennifer Reali"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3770629",
+            "name": "Jasmine Femia"
          }
       }
    },
@@ -12924,7 +12936,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 71,
          "name": "The WB",
@@ -12984,7 +12996,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 97,
+      "weight": 83,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -13041,7 +13053,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 65,
+      "weight": 86,
       "network": {
          "id": 11,
          "name": "Cartoon Network",
@@ -13157,7 +13169,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 92,
+      "weight": 88,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -13217,7 +13229,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 80,
+      "weight": 82,
       "network": {
          "id": 72,
          "name": "Syndication",
@@ -13277,7 +13289,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 89,
+      "weight": 66,
       "network": {
          "id": 72,
          "name": "Syndication",
@@ -13341,7 +13353,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 77,
       "network": {
          "id": 62,
          "name": "nick@nite",
@@ -13459,7 +13471,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 88,
+      "weight": 94,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -13517,7 +13529,7 @@
       "rating": {
          "average": 6.4
       },
-      "weight": 79,
+      "weight": 46,
       "network": {
          "id": 23,
          "name": "Comedy Central",
@@ -13576,7 +13588,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 96,
+      "weight": 95,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -13633,7 +13645,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 67,
+      "weight": 91,
       "network": {
          "id": 27,
          "name": "Nickelodeon",
@@ -13689,7 +13701,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 63,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -13807,7 +13819,7 @@
       "rating": {
          "average": null
       },
-      "weight": 80,
+      "weight": 68,
       "network": null,
       "webChannel": {
          "id": 202,
@@ -13859,7 +13871,7 @@
       "rating": {
          "average": 4.5
       },
-      "weight": 76,
+      "weight": 43,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -13918,7 +13930,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 68,
+      "weight": 49,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -13977,7 +13989,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 92,
+      "weight": 70,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -14037,7 +14049,7 @@
       "rating": {
          "average": 4.8
       },
-      "weight": 64,
+      "weight": 79,
       "network": {
          "id": 83,
          "name": "National Geographic Wild",
@@ -14096,7 +14108,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 80,
+      "weight": 68,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -14152,7 +14164,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 97,
+      "weight": 94,
       "network": {
          "id": 22,
          "name": "MTV",
@@ -14212,7 +14224,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 90,
+      "weight": 82,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -14268,7 +14280,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 82,
+      "weight": 83,
       "network": {
          "id": 16,
          "name": "Syfy",

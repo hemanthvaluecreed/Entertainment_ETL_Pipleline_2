@@ -4,8 +4,6 @@ import psycopg
 
 from config import DB_CONFIG, BATCH_SIZE
 from logger.loggerConfig import logger
-from config import DB_CONFIG, BATCH_SIZE
-from logger.loggerConfig import logger
 
 PROCESSED_DIR = os.path.join("data", "processed")
 # 1. DATABASE CONNECTION
