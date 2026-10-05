@@ -745,7 +745,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 100,
+      "weight": 99,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -805,7 +805,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 6,
          "name": "Showcase",
@@ -865,7 +865,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -1008,18 +1008,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606113.jpg"
       },
       "summary": "<p>From athletes and actors to tattoo artists, social workers and musicians - a diverse mix of teams will need to utilize their street smarts and savvy know-how to compete in the race of their lifetime.</p>",
-      "updated": 1790841494,
+      "updated": 1790928815,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/18"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3684167",
-            "name": "Sorry Guys, We Used Our Express Pass"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3684168",
             "name": "Are Tomatoes Good for Skin Care?"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3684628",
+            "name": "This Is Sick and Twisted"
          }
       }
    },
@@ -1109,7 +1109,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 98,
+      "weight": 91,
       "network": {
          "id": 13,
          "name": "FX",
@@ -1169,7 +1169,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -1229,7 +1229,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -1409,7 +1409,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 79,
+      "weight": 89,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -1470,7 +1470,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 78,
+      "weight": 92,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -1530,7 +1530,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 96,
+      "weight": 94,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -1732,18 +1732,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1607475.jpg"
       },
       "summary": "<p><b>American Horror Story </b>is an horror television anthology series. Each season is conceived as a self-contained miniseries, following a disparate set of characters and settings, and a storyline with its own beginning, middle, and end. While some actors appear for more than one year, they play completely different roles in each season.</p>",
-      "updated": 1790833516,
+      "updated": 1791047857,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/30"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3667319",
-            "name": "Rauhnacht"
+            "href": "https://api.tvmaze.com/episodes/3667322",
+            "name": "The Return of Devil's Night"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3667320",
-            "name": "Is That All There Is?"
+            "href": "https://api.tvmaze.com/episodes/3667323",
+            "name": "The Baddest Witch of Them All"
          }
       }
    },
@@ -1891,7 +1891,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 96,
+      "weight": 93,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -1947,7 +1947,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 99,
+      "weight": 97,
       "network": {
          "id": 16,
          "name": "Syfy",
@@ -2067,7 +2067,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 77,
+      "weight": 80,
       "network": {
          "id": 15,
          "name": "BBC America",
@@ -2187,7 +2187,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 98,
+      "weight": 95,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -2247,7 +2247,7 @@
       "rating": {
          "average": 8.8
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -2306,7 +2306,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 94,
+      "weight": 93,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -2366,7 +2366,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -2486,7 +2486,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -2546,7 +2546,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -2844,7 +2844,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 90,
+      "weight": 94,
       "network": {
          "id": 18,
          "name": "Lifetime",
@@ -2903,7 +2903,7 @@
       "rating": {
          "average": 8.3
       },
-      "weight": 96,
+      "weight": 93,
       "network": {
          "id": 19,
          "name": "Cinemax",
@@ -2963,7 +2963,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 97,
+      "weight": 93,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -3023,7 +3023,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 92,
+      "weight": 78,
       "network": {
          "id": 173,
          "name": "CMT",
@@ -3083,7 +3083,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 98,
+      "weight": 99,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -3142,7 +3142,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 73,
+      "weight": 76,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -3323,7 +3323,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 98,
+      "weight": 96,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -3510,7 +3510,7 @@
       "rating": {
          "average": 8.6
       },
-      "weight": 98,
+      "weight": 93,
       "network": {
          "id": 7,
          "name": "CTV Sci-Fi Channel",
@@ -3690,7 +3690,7 @@
       "rating": {
          "average": 8.4
       },
-      "weight": 99,
+      "weight": 97,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -3891,7 +3891,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1605101.jpg"
       },
       "summary": "<p>The doctors of Grey Sloan Memorial Hospital deal with life-or-death consequences on a daily basis -- it's in one another that they find comfort, friendship and, at times, more than friendship. Together they're discovering that neither medicine nor relationships can be defined in black and white. Real life only comes in shades of grey.</p>",
-      "updated": 1790316286,
+      "updated": 1790920010,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/67"
@@ -3932,7 +3932,7 @@
       "rating": {
          "average": 8.2
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -3992,7 +3992,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 100,
+      "weight": 99,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -4073,7 +4073,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603527.jpg"
       },
       "summary": "<p><b>The Voice</b> is a singing competition where famous musicians serve as coaches to mentor aspiring artists through a series of blind auditions, battles, and live performances, with the ultimate goal of finding and crowning America's best new vocal talent.\u00a0</p><p>\u00a0</p>",
-      "updated": 1790652675,
+      "updated": 1791100732,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/70"
@@ -4140,7 +4140,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603519.jpg"
       },
       "summary": "<p>The hit series in which celebrities perform choreographed dance routines that are judged by a panel of renowned ballroom experts</p>",
-      "updated": 1790842842,
+      "updated": 1790926500,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/71"
@@ -4301,7 +4301,7 @@
       "rating": {
          "average": 8.2
       },
-      "weight": 98,
+      "weight": 95,
       "network": {
          "id": 20,
          "name": "AMC",
@@ -4361,7 +4361,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 71,
+      "weight": 92,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -4503,7 +4503,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1514143.jpg"
       },
       "summary": "<p>Forget about athletes, movie stars and politicians. Parents are the real heroes - but we think Frankie Heck, must be some kind of superhero. A loving wife and mother of three, she's middle class in the middle of the country and is rapidly approaching middle age.</p><p>Frankie and her husband, Mike, have lived in Orson, Indiana, their whole lives. A man of few words (every one a zinger), Mike is a manager at the town quarry and Frankie is the third-best used car salesman (out of the three) at the local dealership. She may not be a high-powered career woman, but when it comes to her family, she'll go to just about any length. And with kids like these, she had better. There's Axl, her semi-nudist teenage son conceived while under the influence of Guns N' Roses; Sue, the awkward teenage daughter who fails at everything... but with the utmost of gusto; and their seven-year-old son Brick, whose best friend is his backpack.</p><p>Sometimes it seems like everyone is trying to get to the top, or struggling not to hit bottom, but we think Frankie and her family will find a lot of love, and a lot of laughs, somewhere in <b>The Middle</b>.</p>",
-      "updated": 1790640758,
+      "updated": 1790900770,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/77"
@@ -4540,7 +4540,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 96,
+      "weight": 86,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -4658,7 +4658,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 100,
+      "weight": 99,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -4919,7 +4919,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/609/1523259.jpg"
       },
       "summary": "<p><b>Family Guy</b> follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of middle-class New Englanders in Quahog, RI. Lois is Peter's wife, a stay-at-home mom with no patience for her family's antics. Then there are their kids: 18-year-old Meg is an outcast at school and the Griffin family punching bag; 13-year-old Chris is a socially awkward teen who doesn't have a clue about the opposite sex; and one-year-old Stewie is a diabolically clever baby whose burgeoning sexuality is very much a work in progress. Rounding out the Griffin household is Brian the family dog and a ladies' man who is one step away from AA.</p>",
-      "updated": 1788783694,
+      "updated": 1790964297,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/84"
@@ -4959,7 +4959,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 96,
+      "weight": 86,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -5019,7 +5019,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 93,
+      "weight": 95,
       "network": {
          "id": 13,
          "name": "FX",
@@ -5079,7 +5079,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 96,
+      "weight": 92,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -5138,7 +5138,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -5257,7 +5257,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 68,
+      "weight": 85,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -5316,7 +5316,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 49,
+      "weight": 72,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -5376,7 +5376,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -5555,7 +5555,7 @@
       "rating": {
          "average": 5.4
       },
-      "weight": 67,
+      "weight": 84,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -5611,7 +5611,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 88,
+      "weight": 70,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -5670,7 +5670,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 99,
+      "weight": 92,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -5726,7 +5726,7 @@
       "rating": {
          "average": 5.5
       },
-      "weight": 94,
+      "weight": 90,
       "network": {
          "id": 55,
          "name": "VH1",
@@ -5904,7 +5904,7 @@
       "rating": {
          "average": 8.4
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -5987,7 +5987,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/640/1601308.jpg"
       },
       "summary": "<p>In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.</p>",
-      "updated": 1790781719,
+      "updated": 1791100836,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/103"
@@ -6028,7 +6028,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 16,
          "name": "Syfy",
@@ -6088,7 +6088,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 96,
+      "weight": 91,
       "network": {
          "id": 21,
          "name": "El Rey Network",
@@ -6148,7 +6148,7 @@
       "rating": {
          "average": 8.7
       },
-      "weight": 96,
+      "weight": 98,
       "network": {
          "id": 13,
          "name": "FX",
@@ -6266,7 +6266,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 66,
+      "weight": 83,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -6386,7 +6386,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 89,
+      "weight": 95,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -6589,7 +6589,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603530.jpg"
       },
       "summary": "<p>Eighteen to twenty castaways will compete against each other on <b>Survivor</b>. All castaways will compete to outwit, outplay, outlast and ultimately be crowned Sole Survivor.</p>",
-      "updated": 1790841150,
+      "updated": 1790899798,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/114"
@@ -6600,7 +6600,7 @@
          },
          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3684661",
-            "name": "TBA"
+            "name": "What I'm Smellin' Is Stinky"
          }
       }
    },
@@ -6874,7 +6874,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 96,
+      "weight": 85,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -7013,7 +7013,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1389.jpg"
       },
       "summary": "<p>Out of the blackness, the first thing Jack senses is pain. Then burning sun. A Bamboo forest. Smoke. Screams. With a rush comes the horrible awareness that the plane he was on tore apart in mid-air and crashed on a Pacific island. From there it's a blur, as his doctor's instinct kicks in: people need his help.</p><p>Stripped of everything, the 48 survivors scavenge what they can from the plane for their survival. Some panic. Some pin their hopes on rescue. A few find inner strength they never knew they had -- like Kate, who, with no medical training, suddenly finds herself suturing the doctor's wounds. Hurley - a man with a warm sense of humor despite the desperate situation - does his best to keep his cool as he helps those around him to survive. Charlie is a faded rock star who harbors a painful secret. Sayid is a Middle Eastern man who must wrestle with the racial profiling directed at him by some of his fellow survivors. Jin and Sun are a Korean couple whose traditions, values and language are foreign, and thus causes much to get lost in the translation. Sawyer has an air of danger surrounding him, and his intense sense of mistrust for everyone around him could prove to be fatal to his fellow castaways. Michael has just gained custody of his nine-year-old son, Walt, after the death of his ex-wife - they are a father and son who don't even know each other. Locke is a mysterious man who keeps to himself, and who harbors a deeper connection to the island than any of the others. Self-centered Shannon - who actually gives herself a pedicure amid the chaos - and her estranged controlling brother, Boone , constantly bicker and must learn to get along if they are to survive. And young Claire is eight months pregnant and ill-prepared for the hardships of motherhood - especially on a deserted island.</p>",
-      "updated": 1781642614,
+      "updated": 1791031701,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/123"
@@ -7107,7 +7107,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 82,
+      "weight": 96,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -7225,7 +7225,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 90,
+      "weight": 97,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -7285,7 +7285,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 98,
+      "weight": 95,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -7343,7 +7343,7 @@
       "rating": {
          "average": 5.4
       },
-      "weight": 66,
+      "weight": 83,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -7462,7 +7462,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 89,
+      "weight": 71,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -7520,7 +7520,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 48,
+      "weight": 90,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -7580,7 +7580,7 @@
       "rating": {
          "average": 8.3
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -7699,7 +7699,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 80,
+      "weight": 92,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -7758,7 +7758,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 80,
+      "weight": 69,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -7818,7 +7818,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 100,
+      "weight": 99,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -7877,7 +7877,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -7937,7 +7937,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 95,
+      "weight": 84,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -7996,7 +7996,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 81,
+      "weight": 90,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -8054,7 +8054,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 98,
+      "weight": 96,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -8112,7 +8112,7 @@
       "rating": {
          "average": 8.4
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -8229,7 +8229,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 82,
+      "weight": 95,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -8287,7 +8287,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -8346,7 +8346,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -8404,7 +8404,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 88,
+      "weight": 83,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -8524,7 +8524,7 @@
       "rating": {
          "average": 8.4
       },
-      "weight": 99,
+      "weight": 100,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -8582,7 +8582,7 @@
       "rating": {
          "average": 8.4
       },
-      "weight": 97,
+      "weight": 91,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -8642,7 +8642,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 99,
+      "weight": 97,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -8698,7 +8698,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 80,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -8818,7 +8818,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 97,
+      "weight": 91,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -8878,7 +8878,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -8937,7 +8937,7 @@
       "rating": {
          "average": 8.5
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 13,
          "name": "FX",
@@ -9056,7 +9056,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 94,
+      "weight": 93,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -9116,7 +9116,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 82,
+      "weight": 85,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -9236,7 +9236,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 96,
+      "weight": 95,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -9296,7 +9296,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 89,
+      "weight": 97,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -9886,7 +9886,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -10059,7 +10059,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 97,
+      "weight": 94,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -10417,7 +10417,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 13,
          "name": "FX",
@@ -10589,7 +10589,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 98,
+      "weight": 91,
       "network": {
          "id": 20,
          "name": "AMC",
@@ -10648,7 +10648,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 82,
+      "weight": 96,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -10708,7 +10708,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -10768,7 +10768,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 89,
+      "weight": 84,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -10828,7 +10828,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 96,
+      "weight": 97,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -10944,7 +10944,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 92,
+      "weight": 95,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -11002,7 +11002,7 @@
       "rating": {
          "average": 5.1
       },
-      "weight": 80,
+      "weight": 68,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -11182,7 +11182,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 99,
+      "weight": 97,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -11241,7 +11241,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 97,
+      "weight": 91,
       "network": null,
       "webChannel": {
          "id": 46,
@@ -11297,7 +11297,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -11415,7 +11415,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 95,
+      "weight": 91,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -11475,7 +11475,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 93,
+      "weight": 97,
       "network": {
          "id": 18,
          "name": "Lifetime",
@@ -11535,7 +11535,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -11595,7 +11595,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 94,
+      "weight": 97,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -11891,7 +11891,7 @@
       "rating": {
          "average": null
       },
-      "weight": 71,
+      "weight": 83,
       "network": {
          "id": 17,
          "name": "STARZ",
@@ -11951,7 +11951,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 87,
+      "weight": 92,
       "network": {
          "id": 17,
          "name": "STARZ",
@@ -12016,7 +12016,7 @@
       "rating": {
          "average": 8.3
       },
-      "weight": 100,
+      "weight": 99,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -12076,7 +12076,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 66,
+      "weight": 83,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -12136,7 +12136,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 89,
+      "weight": 95,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -12196,7 +12196,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 92,
+      "weight": 82,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -12256,7 +12256,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 31,
          "name": "Audience Network",
@@ -12438,7 +12438,7 @@
       "rating": {
          "average": 6.4
       },
-      "weight": 66,
+      "weight": 90,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -12498,7 +12498,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 16,
          "name": "Syfy",
@@ -12558,7 +12558,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 16,
          "name": "Syfy",
@@ -12618,7 +12618,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 95,
+      "weight": 99,
       "network": {
          "id": 129,
          "name": "TF1",
@@ -12677,7 +12677,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 33,
          "name": "SundanceTV",
@@ -12736,7 +12736,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 63,
+      "weight": 66,
       "network": {
          "id": 22,
          "name": "MTV",
@@ -12796,7 +12796,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 80,
+      "weight": 68,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -12855,7 +12855,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 88,
+      "weight": 82,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -12913,7 +12913,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 80,
+      "weight": 83,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -12972,7 +12972,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 80,
+      "weight": 68,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -13032,7 +13032,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 89,
+      "weight": 95,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -13149,7 +13149,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 88,
+      "weight": 68,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -13267,7 +13267,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 92,
+      "weight": 83,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -13327,7 +13327,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 88,
+      "weight": 93,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -13387,7 +13387,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 88,
+      "weight": 89,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -13445,7 +13445,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 87,
+      "weight": 94,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -13505,7 +13505,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 91,
+      "weight": 96,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -13624,7 +13624,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 91,
+      "weight": 89,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -13682,7 +13682,7 @@
       "rating": {
          "average": 6.3
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 13,
          "name": "FX",
@@ -13764,14 +13764,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/4185.jpg"
       },
       "summary": "<p><b>COPS</b> follows police officers, constables, and sheriff's deputies during patrols and various police activities by embedding camera crews with their units. The show's formula adheres to a classic <i>cin\u00e9ma v\u00e9rit\u00e9</i> ethos. With no narration or scripted dialog, it depends entirely on the commentary of the officers and on the actions of the people with whom they come into contact.</p>",
-      "updated": 1790363986,
+      "updated": 1790974101,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/240"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3771709",
-            "name": "Boosted & Busted"
+            "href": "https://api.tvmaze.com/episodes/3779642",
+            "name": "Kansas Highway Patrol: Kansas Pit-Y"
          }
       }
    },
@@ -13800,7 +13800,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 87,
+      "weight": 95,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -13858,7 +13858,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 77,
+      "weight": 86,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -13978,7 +13978,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 79,
+      "weight": 48,
       "network": {
          "id": 36,
          "name": "CBC",
@@ -14034,7 +14034,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 62,
       "network": {
          "id": 16,
          "name": "Syfy",
@@ -14093,7 +14093,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 68,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -14154,7 +14154,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 91,
+      "weight": 87,
       "network": {
          "id": 23,
          "name": "Comedy Central",

@@ -27,7 +27,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -81,7 +81,7 @@
       "rating": {
          "average": null
       },
-      "weight": 83,
+      "weight": 82,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -133,7 +133,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 33,
       "network": null,
       "webChannel": {
          "id": 750,
@@ -244,7 +244,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 51,
       "network": {
          "id": 1880,
          "name": "Express",
@@ -485,7 +485,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 7,
       "network": {
          "id": 1075,
          "name": "\u0426\u0422 \u0421\u0421\u0421\u0420",
@@ -544,7 +544,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 70,
       "network": null,
       "webChannel": {
          "id": 399,
@@ -771,7 +771,7 @@
       "rating": {
          "average": 5.6
       },
-      "weight": 65,
+      "weight": 67,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -831,7 +831,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 553,
@@ -890,7 +890,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -1114,7 +1114,7 @@
       "rating": {
          "average": null
       },
-      "weight": 66,
+      "weight": 77,
       "network": null,
       "webChannel": {
          "id": 393,
@@ -1216,7 +1216,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 33,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -1277,7 +1277,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 366,
@@ -1300,12 +1300,16 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/627/1568686.jpg"
       },
       "summary": "<p>In the late 1970s, in a small provincial town, girls Manyunya and Narine live a joyful and adventurous life. Their everyday life is filled with pranks, friendship, the first childhood worries, and amusing misunderstandings that invariably involve adults: the strict but kind Granny, dad Misha, and Narine's parents, Nadya and Yura. Narine's younger sister, Karinka the \"meteor,\" and her eternal \"victim,\" Rubik, join the gang, making the stories even more unpredictable. From trying to tame a kitten and fix a car to playing \"adults\" and staging their own theatrical productions, the girls learn friendship, mutual support, and responsibility. Their pranks often turn into funny and sometimes even instructive lessons, but most importantly, Manyunya and Narine always stay together, turning their childhood into a true fairy tale.</p>",
-      "updated": 1790307332,
+      "updated": 1790973455,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92272"
          },
          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3635602",
+            "name": "\u0421\u0435\u0440\u0438\u044f 13"
+         },
+         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3650422",
             "name": "\u0421\u0435\u0440\u0438\u044f 14"
          }
@@ -1336,7 +1340,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 91,
+      "weight": 92,
       "network": null,
       "webChannel": {
          "id": 584,
@@ -1446,7 +1450,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -1556,7 +1560,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 114,
@@ -1678,7 +1682,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 59,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -1734,7 +1738,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -1839,7 +1843,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -1895,7 +1899,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -1935,8 +1939,8 @@
    },
    {
       "id": 92284,
-      "url": "https://www.tvmaze.com/shows/92284/ying-jia",
-      "name": "Ying Jia",
+      "url": "https://www.tvmaze.com/shows/92284/the-winner",
+      "name": "The Winner",
       "type": "Scripted",
       "language": "Chinese",
       "genres": [
@@ -1955,7 +1959,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -1974,11 +1978,11 @@
          "imdb": null
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/627/1568720.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/627/1568720.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610078.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610078.jpg"
       },
       "summary": null,
-      "updated": 1780424307,
+      "updated": 1790970256,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92284"
@@ -2007,7 +2011,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -2059,7 +2063,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -2111,7 +2115,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 48,
       "network": {
          "id": 241,
          "name": "TVB",
@@ -2139,11 +2143,11 @@
          "imdb": null
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/627/1568731.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/627/1568731.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610088.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610088.jpg"
       },
       "summary": null,
-      "updated": 1780425287,
+      "updated": 1790970695,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92287"
@@ -2224,7 +2228,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -2243,11 +2247,11 @@
          "imdb": null
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/627/1568737.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/627/1568737.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610112.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610112.jpg"
       },
       "summary": null,
-      "updated": 1780426239,
+      "updated": 1790972090,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92289"
@@ -2328,7 +2332,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 54,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -2347,11 +2351,11 @@
          "imdb": null
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/627/1568741.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/627/1568741.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610097.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610097.jpg"
       },
       "summary": null,
-      "updated": 1780426715,
+      "updated": 1790971256,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92291"
@@ -2538,7 +2542,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -2570,8 +2574,8 @@
    },
    {
       "id": 92296,
-      "url": "https://www.tvmaze.com/shows/92296/yin-feng-gui",
-      "name": "Yin Feng Gui",
+      "url": "https://www.tvmaze.com/shows/92296/the-dark-game",
+      "name": "The Dark Game",
       "type": "Scripted",
       "language": "Chinese",
       "genres": [
@@ -2591,7 +2595,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -2610,11 +2614,11 @@
          "imdb": null
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/627/1568763.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/627/1568763.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610118.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610118.jpg"
       },
       "summary": null,
-      "updated": 1780427881,
+      "updated": 1790972449,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92296"
@@ -2747,7 +2751,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 66,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -2799,7 +2803,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 89,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -2844,7 +2848,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 47,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -3061,7 +3065,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -3160,7 +3164,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 366,
@@ -3487,7 +3491,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3613,7 +3617,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3674,7 +3678,7 @@
       "rating": {
          "average": 6.3
       },
-      "weight": 85,
+      "weight": 91,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -3860,7 +3864,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3925,7 +3929,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4087,7 +4091,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 46,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4279,7 +4283,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4402,7 +4406,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4459,7 +4463,7 @@
       "rating": {
          "average": null
       },
-      "weight": 70,
+      "weight": 71,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -4730,7 +4734,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 33,
       "network": {
          "id": 290,
          "name": "Net5",
@@ -4857,7 +4861,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 81,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -4911,7 +4915,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 85,
       "network": {
          "id": 81,
          "name": "Food Network",
@@ -5027,7 +5031,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 85,
       "network": {
          "id": 81,
          "name": "Food Network",
@@ -5333,7 +5337,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -5488,7 +5492,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -5541,7 +5545,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 347,
@@ -5595,7 +5599,7 @@
       "rating": {
          "average": null
       },
-      "weight": 20,
+      "weight": 64,
       "network": {
          "id": 1234,
          "name": "CBC",
@@ -5709,7 +5713,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 83,
       "network": null,
       "webChannel": {
          "id": 399,
@@ -5728,18 +5732,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/627/1569627.jpg"
       },
       "summary": "<p>At the peak of his career, top celebrity Feng Qinglang escapes to a remote tea mountain, seeking a brief respite from the spotlight. Instead, he meets Xu Changyang, a free-spirited young tea farmer with an untamed soul. One belongs to the dazzling world of fame, the other to the forests and the land. As they grow closer among the mountains and wilderness, love quietly takes root. But the relentless scrutiny of the entertainment industry and the harsh realities of society soon close in, pushing them toward separation time and again. In the end, will they follow the call of their hearts and risk everything for love?</p>",
-      "updated": 1790108061,
+      "updated": 1790953999,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92352"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3770071",
-            "name": "Side Story 01: I Got It!"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3770072",
             "name": "Side Story 02: First Kiss"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3770073",
+            "name": "Side Story 03: Across Time"
          }
       }
    },
@@ -5768,7 +5772,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 50,
       "network": null,
       "webChannel": {
          "id": 650,
@@ -5936,7 +5940,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 33,
       "network": null,
       "webChannel": {
          "id": 434,
@@ -5996,7 +6000,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 56,
       "network": {
          "id": 1095,
          "name": "GMM25",
@@ -6114,7 +6118,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6223,7 +6227,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -6272,7 +6276,7 @@
       "rating": {
          "average": null
       },
-      "weight": 75,
+      "weight": 57,
       "network": {
          "id": 1750,
          "name": "Sky Documentaries",
@@ -6452,7 +6456,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -6509,7 +6513,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -6559,7 +6563,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 33,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -6725,7 +6729,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 1590,
          "name": "Ch\u016bky\u014d TV",
@@ -6781,7 +6785,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 46,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -6838,7 +6842,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 38,
       "network": {
          "id": 524,
          "name": "Fox Business Network",
@@ -6864,12 +6868,12 @@
             "href": "https://api.tvmaze.com/shows/92375"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3719406",
-            "name": "Episode 78"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3719407",
             "name": "Episode 79"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3719408",
+            "name": "Episode 80"
          }
       }
    },
@@ -6893,7 +6897,7 @@
       "rating": {
          "average": null
       },
-      "weight": 83,
+      "weight": 84,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -7002,7 +7006,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -7063,7 +7067,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 80,
+      "weight": 81,
       "network": null,
       "webChannel": {
          "id": 588,
@@ -7122,7 +7126,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 377,
@@ -7180,7 +7184,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 26,
       "network": {
          "id": 276,
          "name": "Hunan TV",
@@ -7242,7 +7246,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 48,
       "network": {
          "id": 276,
          "name": "Hunan TV",
@@ -7270,11 +7274,11 @@
          "imdb": null
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/628/1570260.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/628/1570260.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610046.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610046.jpg"
       },
       "summary": null,
-      "updated": 1780855304,
+      "updated": 1790959801,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92382"
@@ -7715,7 +7719,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -7927,7 +7931,7 @@
       "rating": {
          "average": null
       },
-      "weight": 75,
+      "weight": 57,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -8038,7 +8042,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 491,
@@ -8260,7 +8264,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 73,
       "network": {
          "id": 89,
          "name": "Investigation Discovery",
@@ -8314,7 +8318,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 47,
       "network": {
          "id": 364,
          "name": "Canale 5",
@@ -8498,7 +8502,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 48,
       "network": {
          "id": 1022,
          "name": "Geo Entertainment",
@@ -8613,7 +8617,7 @@
       "rating": {
          "average": null
       },
-      "weight": 95,
+      "weight": 94,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -8664,7 +8668,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 641,
@@ -8714,7 +8718,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 401,
@@ -9046,7 +9050,7 @@
       "rating": {
          "average": 3.8
       },
-      "weight": 62,
+      "weight": 41,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -9165,14 +9169,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/628/1570783.jpg"
       },
       "summary": "<p><b>Half as Interesting</b> is an entertaining, fact-based, educational series covering diverse topics of general interest presented in a somewhat humorous, quirky style. Topics range from curious to weird and are rarely important to know unless you're looking for some lunch room or coffee break conversation starters.</p>",
-      "updated": 1790627025,
+      "updated": 1790943837,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92416"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3774704",
-            "name": "Why Rolex Won't Sell You Their Most Expensive Watches"
+            "href": "https://api.tvmaze.com/episodes/3778956",
+            "name": "Why They Dug the World's Biggest Hole"
          }
       }
    },
@@ -9196,7 +9200,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 3,
       "network": {
          "id": 280,
          "name": "tvN",
@@ -9255,7 +9259,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 39,
       "network": {
          "id": 2058,
          "name": "Green TV Entertainment",
@@ -9314,7 +9318,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 51,
       "network": {
          "id": 2015,
          "name": "Food Network",
@@ -9427,7 +9431,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": {
          "id": 1765,
          "name": "VTV3",
@@ -9480,7 +9484,7 @@
       "rating": {
          "average": null
       },
-      "weight": 80,
+      "weight": 81,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -9669,16 +9673,12 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/635/1587927.jpg"
       },
       "summary": "<p>After her husband disappears, Cemre finds herself in the mysterious Coral Mansion, where secrets from the past, family feuds, and forbidden love change her destiny.</p>",
-      "updated": 1790820549,
+      "updated": 1790947017,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92425"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3766039",
-            "name": "4. B\u00f6l\u00fcm"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3777436",
             "name": "5. B\u00f6l\u00fcm"
          }
@@ -9706,7 +9706,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 47,
       "network": null,
       "webChannel": {
          "id": 387,
@@ -9760,7 +9760,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 131,
@@ -9876,7 +9876,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 30,
       "network": {
          "id": 1282,
          "name": "CCTV-1",
@@ -9938,7 +9938,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 84,
+      "weight": 87,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -9992,7 +9992,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 77,
       "network": {
          "id": 458,
          "name": "CBeebies",
@@ -10280,7 +10280,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 3,
       "network": {
          "id": 276,
          "name": "Hunan TV",
@@ -10751,7 +10751,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -11042,7 +11042,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 82,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -11153,7 +11153,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 82,
       "network": null,
       "webChannel": {
          "id": 490,
@@ -11176,7 +11176,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/628/1571281.jpg"
       },
       "summary": "<p>From the director of \u2018Secret Relationships', follows the romance between an investigator burdened by the stigma of \"being a murderer's son\" and a prosecutor.</p>",
-      "updated": 1784826713,
+      "updated": 1791025275,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92451"
@@ -11212,7 +11212,7 @@
       "rating": {
          "average": null
       },
-      "weight": 75,
+      "weight": 50,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -11269,7 +11269,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 68,
       "network": {
          "id": 17,
          "name": "STARZ",
@@ -11320,7 +11320,7 @@
       "rating": {
          "average": null
       },
-      "weight": 91,
+      "weight": 92,
       "network": {
          "id": 645,
          "name": "TLC",
@@ -11377,7 +11377,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 39,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -11485,7 +11485,7 @@
       "rating": {
          "average": 5.5
       },
-      "weight": 91,
+      "weight": 92,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -11603,7 +11603,7 @@
       "rating": {
          "average": null
       },
-      "weight": 81,
+      "weight": 79,
       "network": null,
       "webChannel": {
          "id": 399,
@@ -11780,7 +11780,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 26,
       "network": {
          "id": 2082,
          "name": "Canal+ Pop",
@@ -11836,7 +11836,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 82,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -12288,7 +12288,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -12307,11 +12307,11 @@
          "imdb": null
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/641/1603699.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603699.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609955.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609955.jpg"
       },
       "summary": null,
-      "updated": 1789758367,
+      "updated": 1790956324,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92471"
@@ -12411,7 +12411,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 26,
       "network": {
          "id": 1030,
          "name": "M-Net",
@@ -12754,7 +12754,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 46,
       "network": {
          "id": 300,
          "name": "\u041d\u0422\u0412",
@@ -12812,7 +12812,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 65,
       "network": {
          "id": 64,
          "name": "S4C",
@@ -12934,7 +12934,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -13048,7 +13048,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 85,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -13170,7 +13170,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 79,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -13218,7 +13218,7 @@
       "rating": {
          "average": null
       },
-      "weight": 81,
+      "weight": 80,
       "network": {
          "id": 476,
          "name": "YTV",
@@ -13263,9 +13263,9 @@
       "type": "Reality",
       "language": "Russian",
       "genres": [],
-      "status": "In Development",
+      "status": "Running",
       "runtime": 90,
-      "averageRuntime": null,
+      "averageRuntime": 90,
       "premiered": "2026-10-02",
       "ended": null,
       "officialSite": "https://tnt-online.ru/projects/idealnoe-ograblenie",
@@ -13301,7 +13301,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606823.jpg"
       },
       "summary": "<p>In a luxury house, everything is arranged for a comfortable life: spacious rooms, a warm pool, a well-groomed territory... And most importantly, there is money in the house! The bank is replenished every day thanks to the joint efforts of the participants.</p><p>There is only one way to break this impressive jackpot \u2014 to successfully leave the house. Whichever player does it first, the entire budget will be transferred to that account.\u00a0<br />All entrances and exits, windows and any possible loopholes in the house are securely closed, which means that the participants will not just have to look for a way to freedom, but build a subtle strategy. Interestingly, the smart home itself is also a full-fledged hero of the project. He can ironically communicate with the characters at breakfast and challenge them during the trials.</p>",
-      "updated": 1790233670,
+      "updated": 1790949895,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92488"
@@ -13309,6 +13309,10 @@
          "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3768068",
             "name": "\u0412\u044b\u043f\u0443\u0441\u043a 1"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3779085",
+            "name": "\u0412\u044b\u043f\u0443\u0441\u043a 2"
          }
       }
    },
@@ -13338,7 +13342,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 34,
       "network": {
          "id": 300,
          "name": "\u041d\u0422\u0412",
@@ -13392,7 +13396,7 @@
       "rating": {
          "average": null
       },
-      "weight": 80,
+      "weight": 62,
       "network": null,
       "webChannel": {
          "id": 27,
@@ -13506,7 +13510,7 @@
       "rating": {
          "average": null
       },
-      "weight": 93,
+      "weight": 94,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -13564,7 +13568,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -13739,7 +13743,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -13847,7 +13851,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -13903,7 +13907,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 104,

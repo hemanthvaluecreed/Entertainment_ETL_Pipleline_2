@@ -21,7 +21,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 70,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -100,7 +100,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/640/1600840.jpg"
       },
       "summary": "<p><b>The Drop</b> follows Wanda and Leon (from the original Snowfall series), who are now fighting to reinvent themselves in '90s Los Angeles, where the fallout from the crack epidemic is fueling a new game: the rise of West Coast rap.</p>",
-      "updated": 1790781138,
+      "updated": 1790988194,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92751"
@@ -369,7 +369,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 82,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -426,7 +426,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 63,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -479,7 +479,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -684,7 +684,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 81,
       "network": {
          "id": 280,
          "name": "tvN",
@@ -802,7 +802,7 @@
       "rating": {
          "average": null
       },
-      "weight": 89,
+      "weight": 88,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -825,18 +825,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1597877.jpg"
       },
       "summary": "<p>30 years after his landmark debut album \"Reasonable Doubt<i>,</i>\" artist, icon, philanthropist, entrepreneur\u00a0JA\u0178-Z sits down with longtime friend, producer, and director Rick Rubin for an intimate reflection on his storied career, revisiting the music together and unpacking his work and life through a shared listening and illuminating conversation. Featuring many of JA\u0178-Z's iconic tracks and album cuts, including \"99 Problems,\" \"Brooklyn's Finest,\" and \"4:44<i>,</i>\" the eight-episode series offers a deeply revealing portrait of the artist and his work, exploring the influences and inspiration that shaped both the man and his music.</p>",
-      "updated": 1790392093,
+      "updated": 1790989914,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92764"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3716160",
-            "name": "Chapter Four"
+            "href": "https://api.tvmaze.com/episodes/3716162",
+            "name": "Chapter Six"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3716161",
-            "name": "Chapter Five"
+            "href": "https://api.tvmaze.com/episodes/3716163",
+            "name": "Chapter Seven"
          }
       }
    },
@@ -865,7 +865,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 38,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -972,7 +972,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 88,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -1177,7 +1177,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 308,
          "name": "\u0422\u041d\u0422",
@@ -1384,12 +1384,12 @@
          "Romance",
          "Thriller"
       ],
-      "status": "Running",
+      "status": "Ended",
       "runtime": null,
       "averageRuntime": 44,
       "premiered": "2026-08-14",
-      "ended": null,
-      "officialSite": "https://www.youku.tv/v/v_show/id_XNjU1NzAzMDM0MA==.html?s=cdaaf7dfbaa444448d52&scm=20140719.manual.37136.show_cdaaf7dfbaa444448d52&spm=a2hja.14919748_WEBHOME_JINGXUAN.drawer1d_zj1_1&s=cdaaf7dfbaa444448d52",
+      "ended": "2026-10-02",
+      "officialSite": "https://www.youku.tv/v/v_show/id_XNjU1NzAzMDM0MA==.html",
       "schedule": {
          "time": "20:00",
          "days": [
@@ -1399,7 +1399,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 73,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -1422,16 +1422,12 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/636/1592330.jpg"
       },
       "summary": "<p>Undercover officer Mo Feihuan unexpectedly crosses paths with Xu Luetao, the CEO of Tianping Group. Drawn together by fate, both men hide behind carefully crafted masks and dangerous secrets. As their true identities are gradually revealed, sweetness turns into suspicion, and even the deepest devotion seems destined to fail. A single careless remark from Xu Luetao shatters their fragile bond. Meanwhile, a major cross-border counterfeit operation exposes a brutal power struggle among local forces, drawing both the underworld and the police into a deadly game. Caught in the eye of the storm, Mo Feihuan and Xu Luetao find that the only person they can truly trust is each other. With every step leading deeper into danger and every moment apart deepening their longing, they stand together against overwhelming odds. Though divided by opposing worlds, their hearts remain destined for the same path.</p>",
-      "updated": 1790420522,
+      "updated": 1790969190,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92775"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3694738",
-            "name": "Episode 8"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3694739",
             "name": "Episode 9"
          }
@@ -1752,7 +1748,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 33,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -1978,7 +1974,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 10,
       "network": {
          "id": 85,
          "name": "PBS",
@@ -2034,7 +2030,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 718,
          "name": "Channel 3",
@@ -2153,7 +2149,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 34,
       "network": null,
       "webChannel": {
          "id": 235,
@@ -2267,7 +2263,7 @@
       "rating": {
          "average": null
       },
-      "weight": 70,
+      "weight": 65,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -2322,7 +2318,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 48,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -2548,7 +2544,7 @@
       "rating": {
          "average": null
       },
-      "weight": 92,
+      "weight": 91,
       "network": {
          "id": 167,
          "name": "AT-X",
@@ -2659,7 +2655,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 68,
       "network": {
          "id": 135,
          "name": "5",
@@ -2708,7 +2704,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -2762,7 +2758,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 79,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -2867,7 +2863,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 69,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -3011,18 +3007,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/630/1575844.jpg"
       },
       "summary": "<p>The lives of Luna Arteaga and Maya become intertwined in a story of secrets, betrayal, and second chances. Luna, a young music student in Los Angeles, returns to Mexico when her father's illness and a crisis at the family estate force her to confront a past built on lies. Unbeknownst to her, the source of the turmoil is Dalila Mondrag\u00f3n, the woman she has always believed to be her mother.</p><p>Meanwhile, Maya is determined to rebuild her life after escaping an abusive marriage. With the support of Sebasti\u00e1n, a doctor who restores her hope, she begins to dream of a new future. But threats from her ex-husband and long-buried secrets threaten to destroy her happiness.</p><p>When a devastating truth comes to light, both women will find themselves caught in a battle over identity, love, and a disputed inheritance that will change their lives forever.</p>",
-      "updated": 1790792286,
+      "updated": 1790943747,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92803"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3656260",
-            "name": "Cap\u00edtulo 74"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3656261",
             "name": "Cap\u00edtulo 75"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3656262",
+            "name": "Cap\u00edtulo 76"
          }
       }
    },
@@ -3087,7 +3083,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/630/1575846.jpg"
       },
       "summary": "<p>Sof\u00eda Peralta-Avitia runs her family's powerful business empire while trapped in an unhappymarriage to Gonzalo Balmori-Ricci, a serial cheater obsessed with a much younger woman namedGrecia. Her life takes an unexpected turn when Franco Gallardo, a humble man from thecountryside, becomes her bodyguard. What begins as a professional relationship soon blossomsinto a love strong enough to challenge Gonzalo's ambition, jealousy, and desire for control.Meanwhile, Sof\u00eda's daughter, B\u00e1rbara \"Barbi,\" finds love with her new bodyguard, Salvador \"Chava\"Reyes, a man haunted by a troubled past. But prejudice, family secrets, and long-standing rivalriesthreaten to tear them apart.</p><p>Amid deception, passion, and family conflict, Sof\u00eda and Franco will discover that finding happinessmay require risking everything.</p>",
-      "updated": 1790834592,
+      "updated": 1791048438,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92804"
@@ -3123,7 +3119,7 @@
       "rating": {
          "average": null
       },
-      "weight": 63,
+      "weight": 59,
       "network": null,
       "webChannel": {
          "id": 366,
@@ -3182,7 +3178,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3291,7 +3287,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3564,7 +3560,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3621,7 +3617,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3882,7 +3878,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3988,7 +3984,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -4202,7 +4198,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 68,
       "network": {
          "id": 1279,
          "name": "BLAZE",
@@ -4312,7 +4308,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 135,
@@ -4368,7 +4364,7 @@
       "rating": {
          "average": null
       },
-      "weight": 75,
+      "weight": 78,
       "network": {
          "id": 1706,
          "name": "Sky Crime",
@@ -4603,7 +4599,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 43,
       "network": {
          "id": 1346,
          "name": "Guizhou TV",
@@ -4670,7 +4666,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4788,7 +4784,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -4951,7 +4947,7 @@
          ]
       },
       "rating": {
-         "average": 4.9
+         "average": 4.6
       },
       "weight": 99,
       "network": null,
@@ -4976,18 +4972,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1607536.jpg"
       },
       "summary": "<p>After a high-profile mission goes sideways, Daniel \"Hondo\" Harrelson is pulled out of forced retirement to lead a last-chance experimental S.W.A.T. unit made up of untested, unpredictable young recruits. Hondo must bridge a generational divide, navigate clashing personalities and turn a squad of outsiders into a team capable of protecting the city \u2014 and saving the program that made him who he is.</p>",
-      "updated": 1790917659,
+      "updated": 1790955473,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92838"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3657431",
-            "name": "Clean Entry"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3657617",
             "name": "Take the Shot"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3657618",
+            "name": "The Project"
          }
       }
    },
@@ -5417,7 +5413,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 77,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -5642,7 +5638,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 56,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -5702,7 +5698,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 83,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -5763,7 +5759,7 @@
       "rating": {
          "average": null
       },
-      "weight": 75,
+      "weight": 74,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -5822,7 +5818,7 @@
       "rating": {
          "average": null
       },
-      "weight": 92,
+      "weight": 91,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -5883,7 +5879,7 @@
       "rating": {
          "average": null
       },
-      "weight": 89,
+      "weight": 87,
       "network": {
          "id": 167,
          "name": "AT-X",
@@ -5943,7 +5939,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 56,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6003,7 +5999,7 @@
       "rating": {
          "average": null
       },
-      "weight": 71,
+      "weight": 65,
       "network": null,
       "webChannel": {
          "id": 51,
@@ -6057,7 +6053,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 77,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -6107,7 +6103,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 82,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -6150,7 +6146,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 84,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6198,7 +6194,7 @@
       "rating": {
          "average": null
       },
-      "weight": 65,
+      "weight": 60,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -6258,7 +6254,7 @@
       "rating": {
          "average": null
       },
-      "weight": 71,
+      "weight": 50,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6315,7 +6311,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6368,7 +6364,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 46,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6418,7 +6414,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 530,
          "name": "2x2",
@@ -6523,7 +6519,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 89,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -6693,7 +6689,7 @@
       "rating": {
          "average": null
       },
-      "weight": 96,
+      "weight": 97,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -7080,7 +7076,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 47,
       "network": {
          "id": 346,
          "name": "Crime & Investigation",
@@ -7600,7 +7596,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -7654,7 +7650,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -7708,7 +7704,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -7763,7 +7759,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 3,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -7822,7 +7818,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -8026,7 +8022,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -8196,7 +8192,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -8304,7 +8300,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 53,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -8356,7 +8352,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 79,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -8413,7 +8409,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 83,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -8456,7 +8452,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 34,
       "network": null,
       "webChannel": {
          "id": 401,
@@ -8676,7 +8672,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 61,
       "network": null,
       "webChannel": {
          "id": 164,
@@ -8733,7 +8729,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 541,
@@ -8845,7 +8841,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 43,
       "network": {
          "id": 1071,
          "name": "MEGA Channel",
@@ -8949,7 +8945,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 368,
@@ -9063,7 +9059,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 20,
@@ -9111,7 +9107,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 54,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -9325,7 +9321,7 @@
       "rating": {
          "average": null
       },
-      "weight": 75,
+      "weight": 77,
       "network": {
          "id": 476,
          "name": "YTV",
@@ -9738,7 +9734,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 79,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -9761,7 +9757,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/631/1577778.jpg"
       },
       "summary": "<p>Live-action anthology TV drama series adapting stories from Junji Ito's \"Masterpiece Collection.\"</p>",
-      "updated": 1790921170,
+      "updated": 1791025701,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92927"
@@ -9851,7 +9847,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 7,
       "network": {
          "id": 249,
          "name": "France 3",
@@ -9908,7 +9904,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 337,
@@ -10195,7 +10191,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 358,
@@ -10255,7 +10251,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 10,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -10318,7 +10314,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 1294,
          "name": "TVI",
@@ -10377,7 +10373,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -10434,7 +10430,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 1290,
          "name": "2+2",
@@ -10492,7 +10488,7 @@
       "rating": {
          "average": null
       },
-      "weight": 73,
+      "weight": 71,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -10548,7 +10544,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -11005,7 +11001,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -11050,11 +11046,11 @@
          "Mystery",
          "Supernatural"
       ],
-      "status": "Running",
+      "status": "Ended",
       "runtime": 30,
       "averageRuntime": 30,
       "premiered": "2026-07-01",
-      "ended": null,
+      "ended": "2026-09-16",
       "officialSite": "https://www.ktv.jp/konyamoserial/",
       "schedule": {
          "time": "23:00",
@@ -11065,7 +11061,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 43,
       "network": {
          "id": 1254,
          "name": "KTV",
@@ -11088,14 +11084,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/631/1578173.jpg"
       },
       "summary": "<p>When Isogai realizes that Hinata has the ability to spot murderers, he asks her to help him find the serial killer who murdered his fianc\u00e9e, Azusa Kawada.</p>",
-      "updated": 1786023289,
+      "updated": 1790930573,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92950"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3693889",
-            "name": "Episode 7"
+            "href": "https://api.tvmaze.com/episodes/3778804",
+            "name": "Episode 12"
          }
       }
    },
@@ -11239,7 +11235,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 356,
@@ -11416,7 +11412,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 47,
       "network": null,
       "webChannel": {
          "id": 20,
@@ -11465,7 +11461,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 69,
       "network": null,
       "webChannel": {
          "id": 20,
@@ -11636,7 +11632,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -11811,7 +11807,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -12092,7 +12088,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 26,
       "network": {
          "id": 308,
          "name": "\u0422\u041d\u0422",
@@ -12378,7 +12374,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -12495,7 +12491,7 @@
       "rating": {
          "average": null
       },
-      "weight": 93,
+      "weight": 94,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -12549,7 +12545,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -12613,7 +12609,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 39,
       "network": {
          "id": 297,
          "name": "CCTV-8",
@@ -12680,7 +12676,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 65,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -12709,12 +12705,12 @@
             "href": "https://api.tvmaze.com/shows/92978"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3702512",
-            "name": "As If I'd Be Jealous!"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3702513",
             "name": "Episode 4"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3702514",
+            "name": "Episode 5"
          }
       }
    },
@@ -12742,7 +12738,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 66,
       "network": null,
       "webChannel": {
          "id": 310,
@@ -12790,7 +12786,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 1519,
          "name": "\u041c\u0418\u0420",
@@ -12846,7 +12842,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -12956,7 +12952,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -13175,7 +13171,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -13232,7 +13228,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 27,
       "network": null,
       "webChannel": {
          "id": 65,
@@ -13350,7 +13346,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 468,
@@ -13410,7 +13406,7 @@
       "rating": {
          "average": null
       },
-      "weight": 60,
+      "weight": 58,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -13466,7 +13462,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 45,
       "network": {
          "id": 1031,
          "name": "TVNZ 1",
@@ -13578,7 +13574,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 34,
       "network": {
          "id": 236,
          "name": "Oprah Winfrey Network",
@@ -13638,7 +13634,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 47,
       "network": {
          "id": 161,
          "name": "TV Kanagawa",

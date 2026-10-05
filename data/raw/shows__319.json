@@ -21,7 +21,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 1,
       "network": {
          "id": 275,
          "name": "TG4",
@@ -248,7 +248,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 1,
       "network": {
          "id": 1229,
          "name": "C\u00fala4",
@@ -301,7 +301,7 @@
       "rating": {
          "average": null
       },
-      "weight": 88,
+      "weight": 78,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -355,7 +355,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 42,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -411,7 +411,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 1,
       "network": {
          "id": 1229,
          "name": "C\u00fala4",
@@ -464,7 +464,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 1,
       "network": {
          "id": 1229,
          "name": "C\u00fala4",
@@ -517,7 +517,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 81,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -573,7 +573,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": {
          "id": 1229,
          "name": "C\u00fala4",
@@ -680,7 +680,7 @@
       "rating": {
          "average": null
       },
-      "weight": 18,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 656,
@@ -792,7 +792,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 12,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -910,7 +910,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 57,
       "network": {
          "id": 53,
          "name": "History",
@@ -1024,7 +1024,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 15,
@@ -1080,7 +1080,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 74,
       "network": {
          "id": 128,
          "name": "KBS2",
@@ -1145,7 +1145,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 5,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -1198,7 +1198,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 23,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -1252,7 +1252,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 12,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -1368,7 +1368,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 62,
       "network": {
          "id": 268,
          "name": "jTBC",
@@ -1424,7 +1424,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 46,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -1476,7 +1476,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 82,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -1528,7 +1528,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 50,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -1641,7 +1641,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 12,
       "network": {
          "id": 149,
          "name": "Network 10",
@@ -1696,7 +1696,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 42,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -1752,7 +1752,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 63,
       "network": {
          "id": 251,
          "name": "Seven Network",
@@ -1781,12 +1781,12 @@
             "href": "https://api.tvmaze.com/shows/79783"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3664910",
-            "name": "Episode 13"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3664911",
             "name": "Episode 14"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3664913",
+            "name": "Episode 15"
          }
       }
    },
@@ -1872,7 +1872,7 @@
       "rating": {
          "average": null
       },
-      "weight": 87,
+      "weight": 88,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -1926,7 +1926,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 1,
       "network": null,
       "webChannel": {
          "id": 238,
@@ -1983,7 +1983,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 40,
       "network": {
          "id": 135,
          "name": "5",
@@ -2037,7 +2037,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 238,
@@ -2093,7 +2093,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 1,
       "network": null,
       "webChannel": {
          "id": 238,
@@ -2151,7 +2151,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 516,
@@ -2205,7 +2205,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 569,
@@ -2261,7 +2261,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 9,
       "network": {
          "id": 1438,
          "name": "\u0395\u03a1\u03a4",
@@ -2318,7 +2318,7 @@
       "rating": {
          "average": null
       },
-      "weight": 19,
+      "weight": 23,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -2372,7 +2372,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 38,
       "network": null,
       "webChannel": {
          "id": 569,
@@ -2430,7 +2430,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 29,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -2486,7 +2486,7 @@
       "rating": {
          "average": null
       },
-      "weight": 14,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -2538,7 +2538,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 56,
       "network": {
          "id": 1581,
          "name": "Sj\u00f3nvarp S\u00edmans",
@@ -2594,7 +2594,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 12,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -2650,7 +2650,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 387,
@@ -2711,7 +2711,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 33,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -2775,7 +2775,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -2840,7 +2840,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -2901,7 +2901,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -2959,7 +2959,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 23,
       "network": null,
       "webChannel": {
          "id": 265,
@@ -3018,7 +3018,7 @@
       "rating": {
          "average": null
       },
-      "weight": 14,
+      "weight": 48,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -3079,7 +3079,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 5,
       "network": {
          "id": 297,
          "name": "CCTV-8",
@@ -3242,7 +3242,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 42,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -3297,7 +3297,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 5,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -3350,7 +3350,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 62,
       "network": null,
       "webChannel": {
          "id": 356,
@@ -3466,7 +3466,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 31,
       "network": {
          "id": 718,
          "name": "Channel 3",
@@ -3522,7 +3522,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -3572,7 +3572,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 27,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -3624,7 +3624,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 68,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -3680,7 +3680,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 51,
@@ -3738,7 +3738,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 64,
       "network": null,
       "webChannel": {
          "id": 552,
@@ -3794,7 +3794,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 80,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -3902,7 +3902,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 552,
@@ -3958,7 +3958,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 552,
@@ -4012,7 +4012,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 5,
       "network": {
          "id": 226,
          "name": "Univision",
@@ -4076,7 +4076,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 47,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4135,7 +4135,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 39,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -4309,7 +4309,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 19,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -4368,7 +4368,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 5,
       "network": {
          "id": 106,
          "name": "France 2",
@@ -4427,7 +4427,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 9,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -4485,7 +4485,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 40,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -4541,7 +4541,7 @@
       "rating": {
          "average": null
       },
-      "weight": 70,
+      "weight": 54,
       "network": {
          "id": 373,
          "name": "RTL5",
@@ -4598,7 +4598,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 5,
       "network": {
          "id": 414,
          "name": "ARTE",
@@ -4649,7 +4649,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 1,
       "network": {
          "id": 980,
          "name": "France 5",
@@ -4705,7 +4705,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 76,
       "network": {
          "id": 476,
          "name": "YTV",
@@ -4819,7 +4819,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 91,
+      "weight": 84,
       "network": {
          "id": 81,
          "name": "Food Network",
@@ -4879,7 +4879,7 @@
       "rating": {
          "average": null
       },
-      "weight": 33,
+      "weight": 77,
       "network": {
          "id": 415,
          "name": "ARTE",
@@ -4937,7 +4937,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 87,
+      "weight": 91,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -4989,7 +4989,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 66,
       "network": {
          "id": 66,
          "name": "Discovery",
@@ -5048,7 +5048,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -5109,7 +5109,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 12,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -5174,7 +5174,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -5231,7 +5231,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 12,
       "network": null,
       "webChannel": {
          "id": 337,
@@ -5289,7 +5289,7 @@
       "rating": {
          "average": 5.3
       },
-      "weight": 90,
+      "weight": 95,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -5347,7 +5347,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -5519,7 +5519,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 88,
+      "weight": 92,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -5588,7 +5588,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 29,
       "network": {
          "id": 1146,
          "name": "9Life",
@@ -5642,7 +5642,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 5,
       "network": {
          "id": 129,
          "name": "TF1",
@@ -5700,7 +5700,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -5756,7 +5756,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 5,
       "network": {
          "id": 1782,
          "name": "Crave",
@@ -5810,7 +5810,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 5,
       "network": {
          "id": 129,
          "name": "TF1",
@@ -5908,7 +5908,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 44,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -5963,7 +5963,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -6027,7 +6027,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -6137,7 +6137,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -6192,7 +6192,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -6300,7 +6300,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 654,
@@ -6424,7 +6424,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 39,
       "network": {
          "id": 1095,
          "name": "GMM25",
@@ -6480,7 +6480,7 @@
       "rating": {
          "average": null
       },
-      "weight": 14,
+      "weight": 53,
       "network": {
          "id": 41,
          "name": "E4",
@@ -6534,7 +6534,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 33,
       "network": {
          "id": 1316,
          "name": "\u041c\u0423\u041b\u042c\u0422",
@@ -6755,7 +6755,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": null,
       "webChannel": {
          "id": 281,
@@ -6810,7 +6810,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -6866,7 +6866,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 1,
       "network": {
          "id": 1149,
          "name": "NITV",
@@ -6921,7 +6921,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 5,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -6979,7 +6979,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 33,
       "network": {
          "id": 251,
          "name": "Seven Network",
@@ -7033,7 +7033,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 35,
       "network": null,
       "webChannel": {
          "id": 468,
@@ -7207,7 +7207,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 5,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -7265,7 +7265,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -7375,7 +7375,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": {
          "id": 514,
          "name": "\u0422\u0412-3",
@@ -7431,7 +7431,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 71,
       "network": null,
       "webChannel": {
          "id": 439,
@@ -7491,7 +7491,7 @@
       "rating": {
          "average": null
       },
-      "weight": 63,
+      "weight": 66,
       "network": null,
       "webChannel": {
          "id": 687,
@@ -7545,7 +7545,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": {
          "id": 495,
          "name": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439",
@@ -7769,7 +7769,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 1,
       "network": {
          "id": 514,
          "name": "\u0422\u0412-3",
@@ -7829,7 +7829,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 366,
@@ -7883,7 +7883,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -7949,7 +7949,7 @@
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 23,
       "network": {
          "id": 262,
          "name": "KBS1",
@@ -8009,7 +8009,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 265,
@@ -8065,7 +8065,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": {
          "id": 114,
          "name": "ABC",
@@ -8176,7 +8176,7 @@
       "rating": {
          "average": null
       },
-      "weight": 14,
+      "weight": 11,
       "network": {
          "id": 125,
          "name": "FYI",
@@ -8234,7 +8234,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -8291,7 +8291,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 552,
@@ -8350,7 +8350,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 42,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -8459,7 +8459,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": {
          "id": 177,
          "name": "Discovery Life",
@@ -8523,7 +8523,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 29,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -8581,7 +8581,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 9,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -8639,7 +8639,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -8698,7 +8698,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -8758,7 +8758,7 @@
       "rating": {
          "average": null
       },
-      "weight": 14,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -8819,7 +8819,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -8878,7 +8878,7 @@
       "rating": {
          "average": null
       },
-      "weight": 73,
+      "weight": 42,
       "network": {
          "id": 1095,
          "name": "GMM25",
@@ -8938,7 +8938,7 @@
       "rating": {
          "average": null
       },
-      "weight": 63,
+      "weight": 42,
       "network": {
          "id": 1487,
          "name": "KKTV",
@@ -9278,7 +9278,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -9332,7 +9332,7 @@
       "rating": {
          "average": null
       },
-      "weight": 18,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 103,
@@ -9392,7 +9392,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -9506,7 +9506,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 1,
       "network": {
          "id": 109,
          "name": "ZDF",
@@ -9560,7 +9560,7 @@
       "rating": {
          "average": null
       },
-      "weight": 18,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -9609,7 +9609,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 34,
       "network": null,
       "webChannel": {
          "id": 54,
@@ -9720,7 +9720,7 @@
       "rating": {
          "average": null
       },
-      "weight": 80,
+      "weight": 39,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -9782,7 +9782,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 18,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -9836,7 +9836,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 25,
       "network": {
          "id": 489,
          "name": "TVO",
@@ -10046,7 +10046,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 114,
@@ -10102,7 +10102,7 @@
       "rating": {
          "average": 8.2
       },
-      "weight": 83,
+      "weight": 93,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -10156,7 +10156,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 5,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -10209,7 +10209,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 39,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -10329,7 +10329,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 67,
       "network": {
          "id": 1897,
          "name": "ENA",
@@ -10385,7 +10385,7 @@
       "rating": {
          "average": null
       },
-      "weight": 4,
+      "weight": 38,
       "network": {
          "id": 506,
          "name": "TTV",
@@ -10508,7 +10508,7 @@
       "rating": {
          "average": null
       },
-      "weight": 19,
+      "weight": 23,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -10569,7 +10569,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 50,
       "network": {
          "id": 1256,
          "name": "NOVA TV",
@@ -10598,12 +10598,12 @@
             "href": "https://api.tvmaze.com/shows/79946"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3770769",
-            "name": "Epizoda 11"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3770770",
             "name": "Epizoda 12"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3770771",
+            "name": "Epizoda 13"
          }
       }
    },
@@ -10633,7 +10633,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 42,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -10689,7 +10689,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -10744,7 +10744,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 9,
       "network": {
          "id": 268,
          "name": "jTBC",
@@ -10800,7 +10800,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 80,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -10854,7 +10854,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 30,
       "network": {
          "id": 251,
          "name": "Seven Network",
@@ -10915,7 +10915,7 @@
       "rating": {
          "average": 5.6
       },
-      "weight": 94,
+      "weight": 93,
       "network": {
          "id": 268,
          "name": "jTBC",
@@ -10973,7 +10973,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 411,
@@ -11037,7 +11037,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": {
          "id": 297,
          "name": "CCTV-8",
@@ -11108,7 +11108,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 29,
       "network": {
          "id": 1294,
          "name": "TVI",
@@ -11166,7 +11166,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 81,
+      "weight": 83,
       "network": null,
       "webChannel": {
          "id": 577,
@@ -11224,7 +11224,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 33,
       "network": {
          "id": 102,
          "name": "RTP1",
@@ -11280,7 +11280,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 9,
       "network": {
          "id": 149,
          "name": "Network 10",
@@ -11382,7 +11382,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": {
          "id": 390,
          "name": "Rai 1",
@@ -11497,7 +11497,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 482,
@@ -11554,7 +11554,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 79,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -11609,7 +11609,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 69,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -11665,7 +11665,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 5,
       "network": {
          "id": 236,
          "name": "Oprah Winfrey Network",
@@ -11726,7 +11726,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -11778,7 +11778,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 35,
       "network": null,
       "webChannel": {
          "id": 265,
@@ -11842,7 +11842,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 25,
       "network": {
          "id": 297,
          "name": "CCTV-8",
@@ -11905,7 +11905,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 14,
       "network": null,
       "webChannel": {
          "id": 594,
@@ -11961,7 +11961,7 @@
       "rating": {
          "average": null
       },
-      "weight": 14,
+      "weight": 11,
       "network": {
          "id": 1333,
          "name": "Plan\u00e8te+",
@@ -12019,7 +12019,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 46,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -12077,7 +12077,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -12132,7 +12132,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 5,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -12241,7 +12241,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 29,
       "network": {
          "id": 755,
          "name": "Show TV",
@@ -12297,7 +12297,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 46,
       "network": {
          "id": 1152,
          "name": "SBS Viceland",
@@ -12350,7 +12350,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -12406,7 +12406,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 73,
       "network": {
          "id": 409,
          "name": "Star TV",
@@ -12466,7 +12466,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 48,
       "network": {
          "id": 146,
          "name": "La 1",
@@ -12524,7 +12524,7 @@
       "rating": {
          "average": null
       },
-      "weight": 88,
+      "weight": 85,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -12634,7 +12634,7 @@
       "rating": {
          "average": null
       },
-      "weight": 33,
+      "weight": 66,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -12739,7 +12739,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -12797,7 +12797,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 4,
       "network": {
          "id": 120,
          "name": "Nine Network",
@@ -12852,7 +12852,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 5,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -12961,7 +12961,7 @@
       "rating": {
          "average": null
       },
-      "weight": 1,
+      "weight": 4,
       "network": null,
       "webChannel": {
          "id": 655,
@@ -13015,7 +13015,7 @@
       "rating": {
          "average": 8.6
       },
-      "weight": 81,
+      "weight": 92,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -13073,7 +13073,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 33,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -13244,7 +13244,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 12,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -13297,7 +13297,7 @@
       "rating": {
          "average": null
       },
-      "weight": 8,
+      "weight": 9,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -13353,7 +13353,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 29,
       "network": {
          "id": 12,
          "name": "BBC One",

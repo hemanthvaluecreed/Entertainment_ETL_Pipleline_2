@@ -354,7 +354,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 43,
       "network": {
          "id": 659,
          "name": "OUTtv",
@@ -460,7 +460,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 641,
@@ -730,7 +730,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 67,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -886,7 +886,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -901,11 +901,11 @@
          "imdb": null
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/628/1571948.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/628/1571948.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610357.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610357.jpg"
       },
       "summary": null,
-      "updated": 1782819706,
+      "updated": 1791032230,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92516"
@@ -1112,7 +1112,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 48,
       "network": {
          "id": 428,
          "name": "Shant TV",
@@ -1170,7 +1170,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 38,
       "network": {
          "id": 109,
          "name": "ZDF",
@@ -1286,7 +1286,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 11,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -1343,7 +1343,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 12,
       "network": null,
       "webChannel": {
          "id": 20,
@@ -1862,7 +1862,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -1914,7 +1914,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 85,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -1968,7 +1968,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 85,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -2014,7 +2014,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 109,
@@ -2074,7 +2074,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 65,
       "network": null,
       "webChannel": {
          "id": 399,
@@ -2093,7 +2093,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/628/1572379.jpg"
       },
       "summary": "<p>Bai Che, a death-scene cleanup worker, discovers his adoptive father's mysterious death at a job site. Black-market organ trade messages soon appear, and a break-in at his home makes him realize he is also in danger. Zhou Chen, who claims to be an organ donation coordinator, comes to him and begins uncovering the dark truth behind organ trafficking, gang forces, and hidden secrets about Bai Che's identity. As the mastermind behind the case closes in, the two men can only rely on each other through betrayal and pursuit.</p>",
-      "updated": 1784222932,
+      "updated": 1791026416,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92542"
@@ -2238,7 +2238,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 416,
@@ -2295,7 +2295,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -2349,7 +2349,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 53,
       "network": {
          "id": 39,
          "name": "ESPN",
@@ -2460,7 +2460,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -2648,12 +2648,12 @@
             "href": "https://api.tvmaze.com/shows/92553"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3647185",
-            "name": "Episode 1"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3678825",
             "name": "Episode 2"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3678826",
+            "name": "Episode 3"
          }
       }
    },
@@ -2683,7 +2683,7 @@
       "rating": {
          "average": null
       },
-      "weight": 92,
+      "weight": 91,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -2742,7 +2742,7 @@
       "rating": {
          "average": null
       },
-      "weight": 88,
+      "weight": 87,
       "network": {
          "id": 167,
          "name": "AT-X",
@@ -2863,7 +2863,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 7,
       "network": null,
       "webChannel": null,
       "dvdCountry": {
@@ -3293,7 +3293,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 54,
       "network": null,
       "webChannel": {
          "id": 109,
@@ -3350,7 +3350,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 54,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -3576,7 +3576,7 @@
       "rating": {
          "average": null
       },
-      "weight": 63,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -3628,7 +3628,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -3736,7 +3736,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -3788,7 +3788,7 @@
       "rating": {
          "average": null
       },
-      "weight": 92,
+      "weight": 67,
       "network": {
          "id": 66,
          "name": "Discovery",
@@ -3901,7 +3901,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 7,
       "network": {
          "id": 336,
          "name": "TVP1",
@@ -4062,7 +4062,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 7,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -4116,7 +4116,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 78,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -4169,7 +4169,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 33,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -4222,7 +4222,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -4272,7 +4272,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 109,
@@ -4330,7 +4330,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 566,
@@ -4662,7 +4662,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4721,7 +4721,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4777,7 +4777,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 66,
+      "weight": 83,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -4946,7 +4946,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5054,7 +5054,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 38,
       "network": {
          "id": 56,
          "name": "BET",
@@ -5114,7 +5114,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -5222,7 +5222,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5268,7 +5268,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 38,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5376,7 +5376,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 60,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5422,7 +5422,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5468,7 +5468,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5575,7 +5575,7 @@
       "rating": {
          "average": null
       },
-      "weight": 20,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5624,7 +5624,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -5678,7 +5678,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 71,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5770,7 +5770,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 60,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5816,7 +5816,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 61,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -5868,7 +5868,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 85,
       "network": {
          "id": 167,
          "name": "AT-X",
@@ -5987,7 +5987,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 76,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6010,7 +6010,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/629/1573362.jpg"
       },
       "summary": "<p>Set in 1950s Japan, <b>Grow Up Show</b> follows a group of cheerful yet resilient girls who belong to a wandering circus troupe struggling to survive financially. As they travel from town to town, performing under harsh conditions, the girls confront reality, responsibility, and personal growth\u2014learning what it truly means to grow up while chasing dreams beneath the circus tent.</p>",
-      "updated": 1790492822,
+      "updated": 1791170292,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92619"
@@ -6048,7 +6048,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 79,
       "network": {
          "id": 245,
          "name": "ABC",
@@ -6108,7 +6108,7 @@
       "rating": {
          "average": null
       },
-      "weight": 88,
+      "weight": 87,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6169,7 +6169,7 @@
       "rating": {
          "average": null
       },
-      "weight": 88,
+      "weight": 89,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -6229,7 +6229,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 85,
       "network": {
          "id": 167,
          "name": "AT-X",
@@ -6289,7 +6289,7 @@
       "rating": {
          "average": null
       },
-      "weight": 80,
+      "weight": 75,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6349,7 +6349,7 @@
       "rating": {
          "average": null
       },
-      "weight": 87,
+      "weight": 86,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -6492,7 +6492,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/629/1573371.jpg"
       },
       "summary": "<p>In a world where humans and ayakashi\u2013supernatural beings\u2013coexist, being chosen as an ayakashi's bride is the ultimate honor. Yuzu, an ordinary schoolgirl, has been overlooked her whole life, eclipsed by the shadow of her sister Karin, a chosen bride. Just when Yuzu has had enough, she unexpectedly captures the heart of Reiya, a dashing ogre from a powerful clan who claims Yuzu as his own.</p>",
-      "updated": 1789940214,
+      "updated": 1791113282,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92627"
@@ -6552,14 +6552,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/629/1573372.jpg"
       },
       "summary": "<p>Ito Narita's life is turned upside down when her mother remarries. Moving into a new household, she suddenly becomes the older sister to four unique younger stepbrothers, navigating the chaotic, heartwarming dynamics of her blended family and slowly growing closer to her aloof but kind eldest stepbrother.\u00a0</p>",
-      "updated": 1789755237,
+      "updated": 1790973996,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92628"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3663938",
-            "name": "Let the Memories Fall"
+            "href": "https://api.tvmaze.com/episodes/3779628",
+            "name": "Into the New Year! Valentines!"
          }
       }
    },
@@ -6649,7 +6649,7 @@
       "rating": {
          "average": null
       },
-      "weight": 88,
+      "weight": 89,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -6708,7 +6708,7 @@
       "rating": {
          "average": null
       },
-      "weight": 87,
+      "weight": 77,
       "network": {
          "id": 167,
          "name": "AT-X",
@@ -6765,7 +6765,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 90,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -6816,7 +6816,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -6841,12 +6841,12 @@
             "href": "https://api.tvmaze.com/shows/92633"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3743818",
-            "name": "Episode 2"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3743819",
             "name": "Episode 3"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3743821",
+            "name": "Episode 4"
          }
       }
    },
@@ -6873,7 +6873,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -7042,7 +7042,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -7096,7 +7096,7 @@
       "rating": {
          "average": null
       },
-      "weight": 66,
+      "weight": 83,
       "network": null,
       "webChannel": {
          "id": 347,
@@ -7147,7 +7147,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 1625,
          "name": "NRJ12",
@@ -7486,7 +7486,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -7544,7 +7544,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -7600,7 +7600,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -7946,7 +7946,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -8179,7 +8179,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -8296,7 +8296,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 7,
       "network": {
          "id": 96,
          "name": "Telecinco",
@@ -8467,7 +8467,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -8525,7 +8525,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 39,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -8640,7 +8640,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 39,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -8868,7 +8868,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 59,
@@ -9343,18 +9343,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/629/1573730.jpg"
       },
       "summary": "<p>The series introduces a new generation of young fans to the iconic world of Masters of the Universe through fast-paced, action-packed mini adventures. <b>Tales from Eternia</b> delivers high-stakes clashes between He-Man, Skeletor, and Eternia's iconic heroes and villains, bringing the timeless conflict between good and evil to life for today's audiences.</p>",
-      "updated": 1790366996,
+      "updated": 1790976140,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92677"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3649806",
-            "name": "MOSS MAN"
+            "href": "https://api.tvmaze.com/episodes/3649807",
+            "name": "Skeletor's Droid of Destruction!"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3649807",
-            "name": "Episode 16"
+            "href": "https://api.tvmaze.com/episodes/3649808",
+            "name": "Episode 17"
          }
       }
    },
@@ -9382,7 +9382,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 114,
@@ -9662,7 +9662,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -9887,7 +9887,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 7,
       "network": {
          "id": 1254,
          "name": "KTV",
@@ -10048,7 +10048,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 33,
       "network": {
          "id": 158,
          "name": "WOWOW",
@@ -10218,7 +10218,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -10272,7 +10272,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 109,
@@ -10350,18 +10350,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/629/1574305.jpg"
       },
       "summary": "<p>With the biggest bands performing exclusive intimate sets and unfiltered conversations with A-list celebrity guests, <b>TFI Unplugged</b> is the place where anything can happen. Chris Evans reinvents your favourite television institution for 2026.</p>",
-      "updated": 1790366771,
+      "updated": 1790976039,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92696"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3768202",
-            "name": "Chris Evans, Wayne & Coleen Rooney, Joe Marler, John Goodman & More!"
+            "href": "https://api.tvmaze.com/episodes/3771713",
+            "name": "Rocky Returns! Sylvester Stallone Takes On TFI Friday | Mikey Madison, Aaron Sorkin & Stephen Graham"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3771713",
-            "name": "Episode 5"
+            "href": "https://api.tvmaze.com/episodes/3779681",
+            "name": "Episode 6"
          }
       }
    },
@@ -10452,7 +10452,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 52,
       "network": {
          "id": 304,
          "name": "\u0421\u0422\u0421",
@@ -10475,14 +10475,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1599551.jpg"
       },
       "summary": "<p>Former football player Phil is forced to leave professional sports after a serious injury and take a job as a history teacher. However, his career at the school doesn't last long: due to his overly unconventional teaching methods, Phil is fired. To earn money for an expensive operation and get back into football, he starts tutoring with a friend, even agreeing to the most dubious offers.</p><p>One day, they get an unusual student \u2014 the 13\u2011year\u2011old son of the crime boss Lemur. The teenager dreams of following in his father's footsteps and already thinks like a real mafioso. Now Phil not only has to find a way to connect with the difficult child but also help the district police officer's daughter get into MGIMO, despite her strict father's resistance.</p>",
-      "updated": 1790057581,
+      "updated": 1791012053,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92698"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3767545",
-            "name": "\u0421\u0435\u0440\u0438\u044f 9"
+            "href": "https://api.tvmaze.com/episodes/3779733",
+            "name": "\u0421\u0435\u0440\u0438\u044f 17"
          }
       }
    },
@@ -10506,7 +10506,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 58,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -10559,7 +10559,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 337,
@@ -10733,7 +10733,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 7,
       "network": {
          "id": 245,
          "name": "ABC",
@@ -10793,7 +10793,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -10963,7 +10963,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 33,
       "network": null,
       "webChannel": {
          "id": 109,
@@ -11258,7 +11258,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 423,
@@ -11421,7 +11421,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 39,
       "network": {
          "id": 994,
          "name": "GMA",
@@ -11444,14 +11444,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/629/1574280.jpg"
       },
       "summary": "<p>A group of individuals becomes cyber protectors against modern digital threats. Cybercrime investigations with field operations, intense combat scenes, and technologically driven missions.</p>",
-      "updated": 1790749006,
+      "updated": 1790943793,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92715"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3776726",
-            "name": "Isa's unexpected visitor!"
+            "href": "https://api.tvmaze.com/episodes/3778955",
+            "name": "Cipher's copycat AI claims more victims!"
          }
       }
    },
@@ -11479,7 +11479,7 @@
       "rating": {
          "average": null
       },
-      "weight": 60,
+      "weight": 59,
       "network": null,
       "webChannel": {
          "id": 692,
@@ -12143,7 +12143,7 @@
       "rating": {
          "average": null
       },
-      "weight": 83,
+      "weight": 84,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -12208,7 +12208,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -12381,7 +12381,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 31,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -12436,7 +12436,7 @@
       "rating": {
          "average": null
       },
-      "weight": 89,
+      "weight": 90,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -12464,7 +12464,7 @@
          "self": {
             "href": "https://api.tvmaze.com/shows/92733"
          },
-         "nextepisode": {
+         "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3765510",
             "name": "Episode 1"
          }
@@ -12546,7 +12546,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 43,
       "network": {
          "id": 1709,
          "name": "RTBF",
@@ -12606,7 +12606,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 53,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -12724,7 +12724,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 48,
       "network": {
          "id": 1282,
          "name": "CCTV-1",
@@ -12789,7 +12789,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 40,
       "network": null,
       "webChannel": {
          "id": 244,
@@ -13018,9 +13018,9 @@
          "days": []
       },
       "rating": {
-         "average": 4.4
+         "average": 4.6
       },
-      "weight": 98,
+      "weight": 97,
       "network": null,
       "webChannel": {
          "id": 27,
@@ -13039,7 +13039,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/635/1588302.jpg"
       },
       "summary": "<p>Claudia, an ambitious young bi\u2011racial lawyer, travels to Jamaica to challenge an inheritance claim made by a local man, Cudjoe East, against Oliver Connaught, a wealthy white aristocrat. But the case takes an unsettling turn when Claudia discovers that the disputed estate is the very place that has haunted her nightmares: Hope Hill, the Connaught family's former plantation.\u00a0As Claudia and Oliver dig deeper, they uncover a disturbing link between the plantation's brutal past and the injustices still shaping the present.</p>",
-      "updated": 1786898836,
+      "updated": 1791062972,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/92743"
@@ -13074,7 +13074,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 38,
       "network": {
          "id": 135,
          "name": "5",
@@ -13130,7 +13130,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 51,
       "network": {
          "id": 135,
          "name": "5",
@@ -13299,7 +13299,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 42,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -13349,7 +13349,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 79,
       "network": null,
       "webChannel": {
          "id": 329,

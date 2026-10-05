@@ -51,12 +51,12 @@
             "href": "https://api.tvmaze.com/shows/76750"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3697218",
-            "name": "Episode 28"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3697219",
             "name": "Episode 29"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3697220",
+            "name": "Episode 30"
          }
       }
    },
@@ -144,7 +144,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": {
          "id": 1790,
          "name": "Epic TV",
@@ -250,7 +250,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 9,
       "network": {
          "id": 1055,
          "name": "Sony Entertainment Television",
@@ -307,7 +307,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -363,7 +363,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -598,7 +598,7 @@
       "rating": {
          "average": null
       },
-      "weight": 14,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 51,
@@ -820,7 +820,7 @@
       "rating": {
          "average": null
       },
-      "weight": 67,
+      "weight": 71,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -874,7 +874,7 @@
       "rating": {
          "average": null
       },
-      "weight": 92,
+      "weight": 83,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -934,7 +934,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 47,
       "network": null,
       "webChannel": {
          "id": 454,
@@ -991,7 +991,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 33,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -1041,7 +1041,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 298,
@@ -1150,7 +1150,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 50,
       "network": {
          "id": 524,
          "name": "Fox Business Network",
@@ -1179,12 +1179,8 @@
             "href": "https://api.tvmaze.com/shows/76771"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3723695",
-            "name": "Episode 195"
-         },
-         "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3723696",
-            "name": "Episode 196"
+            "href": "https://api.tvmaze.com/episodes/3723697",
+            "name": "Episode 197"
          }
       }
    },
@@ -1214,7 +1210,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 51,
       "network": {
          "id": 524,
          "name": "Fox Business Network",
@@ -1243,12 +1239,8 @@
             "href": "https://api.tvmaze.com/shows/76772"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3723716",
-            "name": "Episode 195"
-         },
-         "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3723717",
-            "name": "Episode 196"
+            "href": "https://api.tvmaze.com/episodes/3723718",
+            "name": "Episode 197"
          }
       }
    },
@@ -1274,7 +1266,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": {
          "id": 524,
          "name": "Fox Business Network",
@@ -1332,7 +1324,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -1417,12 +1409,8 @@
             "href": "https://api.tvmaze.com/shows/76775"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3723737",
-            "name": "Episode 195"
-         },
-         "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3723738",
-            "name": "Episode 196"
+            "href": "https://api.tvmaze.com/episodes/3723739",
+            "name": "Episode 197"
          }
       }
    },
@@ -1448,7 +1436,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 51,
       "network": {
          "id": 524,
          "name": "Fox Business Network",
@@ -1504,7 +1492,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 25,
       "network": {
          "id": 524,
          "name": "Fox Business Network",
@@ -1564,7 +1552,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 52,
       "network": {
          "id": 524,
          "name": "Fox Business Network",
@@ -1593,12 +1581,8 @@
             "href": "https://api.tvmaze.com/shows/76778"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3723761",
-            "name": "Episode 195"
-         },
-         "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3723762",
-            "name": "Episode 196"
+            "href": "https://api.tvmaze.com/episodes/3723763",
+            "name": "Episode 197"
          }
       }
    },
@@ -1628,7 +1612,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 52,
       "network": {
          "id": 524,
          "name": "Fox Business Network",
@@ -1657,12 +1641,8 @@
             "href": "https://api.tvmaze.com/shows/76779"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3723653",
-            "name": "Episode 195"
-         },
-         "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3723654",
-            "name": "Episode 196"
+            "href": "https://api.tvmaze.com/episodes/3723655",
+            "name": "Episode 197"
          }
       }
    },
@@ -1747,7 +1727,7 @@
       "rating": {
          "average": null
       },
-      "weight": 65,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -1911,7 +1891,7 @@
       "rating": {
          "average": null
       },
-      "weight": 0,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -2027,7 +2007,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -2141,7 +2121,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -2262,7 +2242,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 5,
       "network": {
          "id": 1725,
          "name": "Sony SAB",
@@ -2319,7 +2299,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 37,
       "network": {
          "id": 1725,
          "name": "Sony SAB",
@@ -2379,7 +2359,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 46,
       "network": {
          "id": 1055,
          "name": "Sony Entertainment Television",
@@ -2439,7 +2419,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": {
          "id": 1055,
          "name": "Sony Entertainment Television",
@@ -2497,7 +2477,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 9,
       "network": {
          "id": 452,
          "name": "TVNZ 2",
@@ -2617,7 +2597,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 0,
       "network": {
          "id": 1055,
          "name": "Sony Entertainment Television",
@@ -2796,7 +2776,7 @@
       "rating": {
          "average": null
       },
-      "weight": 0,
+      "weight": 37,
       "network": {
          "id": 1725,
          "name": "Sony SAB",
@@ -2971,7 +2951,7 @@
       "rating": {
          "average": null
       },
-      "weight": 60,
+      "weight": 63,
       "network": {
          "id": 261,
          "name": "Bounce",
@@ -3028,7 +3008,7 @@
       "rating": {
          "average": 5.3
       },
-      "weight": 95,
+      "weight": 94,
       "network": null,
       "webChannel": {
          "id": 352,
@@ -3084,7 +3064,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 0,
       "network": null,
       "webChannel": {
          "id": 4,
@@ -3184,7 +3164,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 47,
       "network": {
          "id": 159,
          "name": "TBS",
@@ -3242,7 +3222,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 86,
       "network": {
          "id": 242,
          "name": "National Geographic",
@@ -3300,7 +3280,7 @@
       "rating": {
          "average": null
       },
-      "weight": 19,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 438,
@@ -3475,7 +3455,7 @@
       "rating": {
          "average": null
       },
-      "weight": 91,
+      "weight": 82,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -3531,7 +3511,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 24,
       "network": null,
       "webChannel": {
          "id": 51,
@@ -3591,7 +3571,7 @@
       "rating": {
          "average": 5
       },
-      "weight": 91,
+      "weight": 72,
       "network": {
          "id": 135,
          "name": "5",
@@ -3647,7 +3627,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 311,
@@ -3699,7 +3679,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 44,
       "network": {
          "id": 135,
          "name": "5",
@@ -3753,7 +3733,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 59,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -3803,7 +3783,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 33,
       "network": null,
       "webChannel": {
          "id": 298,
@@ -3914,7 +3894,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -3976,7 +3956,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 9,
       "network": {
          "id": 279,
          "name": "TVB Jade",
@@ -4098,7 +4078,7 @@
       "rating": {
          "average": null
       },
-      "weight": 0,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4159,7 +4139,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 13,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4223,7 +4203,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4279,7 +4259,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -4390,7 +4370,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -4504,7 +4484,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -4677,7 +4657,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -4733,7 +4713,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -4787,7 +4767,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -4843,7 +4823,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -4952,7 +4932,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -5016,7 +4996,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -5127,7 +5107,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 35,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -5170,20 +5150,22 @@
       "genres": [
          "Children"
       ],
-      "status": "To Be Determined",
+      "status": "Running",
       "runtime": null,
-      "averageRuntime": 6,
+      "averageRuntime": 7,
       "premiered": "2024-02-13",
       "ended": null,
       "officialSite": "https://www.bluey.tv/book-reads/",
       "schedule": {
          "time": "",
-         "days": []
+         "days": [
+            "Tuesday"
+         ]
       },
       "rating": {
          "average": null
       },
-      "weight": 27,
+      "weight": 72,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -5202,14 +5184,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/518/1296073.jpg"
       },
       "summary": "<p><b>Bluey Book Reads</b> offers fans a new way to experience their favourite Bluey storybooks, combining off-screen narration from global talent with visuals from Bluey storybooks and live action shots.</p>",
-      "updated": 1754576398,
+      "updated": 1790972955,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76842"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3213238",
-            "name": "Road Trip"
+            "href": "https://api.tvmaze.com/episodes/3778996",
+            "name": "The Doctor"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3779627",
+            "name": "Episode 5"
          }
       }
    },
@@ -5236,7 +5222,7 @@
       "rating": {
          "average": null
       },
-      "weight": 89,
+      "weight": 88,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -5408,7 +5394,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 410,
@@ -5462,7 +5448,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 471,
@@ -5517,7 +5503,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 13,
       "network": {
          "id": 322,
          "name": "TV2",
@@ -5571,7 +5557,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 190,
@@ -5687,7 +5673,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": {
          "id": 1725,
          "name": "Sony SAB",
@@ -5862,7 +5848,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": {
          "id": 288,
          "name": "\u010cT1",
@@ -5922,7 +5908,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 5,
       "network": {
          "id": 1324,
          "name": "TVBS",
@@ -5983,7 +5969,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 5,
       "network": {
          "id": 1385,
          "name": "Yle TV1",
@@ -6149,7 +6135,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 29,
       "network": {
          "id": 787,
          "name": "Channel 7",
@@ -6203,7 +6189,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 4,
@@ -6257,7 +6243,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 13,
       "network": null,
       "webChannel": {
          "id": 4,
@@ -6311,7 +6297,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 36,
       "network": null,
       "webChannel": {
          "id": 4,
@@ -6365,7 +6351,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 4,
@@ -6420,7 +6406,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 78,
+      "weight": 43,
       "network": {
          "id": 1095,
          "name": "GMM25",
@@ -6474,7 +6460,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 301,
@@ -6574,7 +6560,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 5,
       "network": {
          "id": 106,
          "name": "France 2",
@@ -6627,7 +6613,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 31,
       "network": {
          "id": 1782,
          "name": "Crave",
@@ -6976,7 +6962,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": null,
       "webChannel": {
          "id": 405,
@@ -7096,7 +7082,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 82,
+      "weight": 89,
       "network": null,
       "webChannel": {
          "id": 54,
@@ -7317,7 +7303,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 13,
       "network": {
          "id": 28,
          "name": "NewsNation",
@@ -7371,7 +7357,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 11,
       "network": {
          "id": 1333,
          "name": "Plan\u00e8te+",
@@ -7429,7 +7415,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": {
          "id": 85,
          "name": "PBS",
@@ -7489,7 +7475,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 51,
       "network": {
          "id": 28,
          "name": "NewsNation",
@@ -7512,14 +7498,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1297796.jpg"
       },
       "summary": "<p><b>NewsNation Live</b> with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</p>",
-      "updated": 1785584054,
+      "updated": 1790954355,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76884"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687210",
-            "name": "Episode 176"
+            "href": "https://api.tvmaze.com/episodes/3779170",
+            "name": "Episode 197"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3779171",
+            "name": "Episode 198"
          }
       }
    },
@@ -7532,7 +7522,7 @@
       "genres": [],
       "status": "Running",
       "runtime": 180,
-      "averageRuntime": 199,
+      "averageRuntime": 198,
       "premiered": "2023-04-24",
       "ended": null,
       "officialSite": null,
@@ -7549,7 +7539,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 53,
       "network": {
          "id": 28,
          "name": "NewsNation",
@@ -7568,18 +7558,22 @@
          "imdb": null
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/519/1297795.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1297795.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609998.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609998.jpg"
       },
       "summary": "<p>The day's top news headlines with reports from correspondents around the country.</p>",
-      "updated": 1785584241,
+      "updated": 1790955029,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76885"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687233",
-            "name": "Episode 176"
+            "href": "https://api.tvmaze.com/episodes/3779219",
+            "name": "Episode 197"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3779221",
+            "name": "Episode 198"
          }
       }
    },
@@ -7609,7 +7603,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 56,
       "network": {
          "id": 28,
          "name": "NewsNation",
@@ -7632,14 +7626,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/518/1296745.jpg"
       },
       "summary": "<p><b>The Hill on NewsNation</b> combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</p><p><br /><br />\u00a0</p>",
-      "updated": 1785584515,
+      "updated": 1790955601,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76886"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687279",
-            "name": "Episode 176"
+            "href": "https://api.tvmaze.com/episodes/3779335",
+            "name": "Episode 197"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3779336",
+            "name": "Episode 198"
          }
       }
    },
@@ -7771,7 +7769,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -7831,7 +7829,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 0,
       "network": {
          "id": 1733,
          "name": "Televisa",
@@ -7893,7 +7891,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 33,
       "network": {
          "id": 460,
          "name": "El Trece",
@@ -8002,7 +8000,7 @@
       "rating": {
          "average": null
       },
-      "weight": 0,
+      "weight": 25,
       "network": {
          "id": 415,
          "name": "ARTE",
@@ -8058,7 +8056,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 45,
       "network": {
          "id": 28,
          "name": "NewsNation",
@@ -8167,7 +8165,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 15,
       "network": {
          "id": 1033,
          "name": "HOT3",
@@ -8230,7 +8228,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 25,
       "network": {
          "id": 1733,
          "name": "Televisa",
@@ -8288,7 +8286,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 27,
       "network": {
          "id": 1817,
          "name": "Lifetime",
@@ -8344,7 +8342,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 0,
       "network": null,
       "webChannel": {
          "id": 173,
@@ -8455,7 +8453,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 9,
       "network": {
          "id": 360,
          "name": "Das Erste",
@@ -8513,7 +8511,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": null,
       "webChannel": {
          "id": 298,
@@ -8563,7 +8561,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 19,
       "network": {
          "id": 228,
          "name": "The Weather Channel",
@@ -8621,7 +8619,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 5,
       "network": {
          "id": 91,
          "name": "NRK1",
@@ -8738,7 +8736,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 65,
       "network": {
          "id": 639,
          "name": "Sky History",
@@ -8795,7 +8793,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 29,
       "network": null,
       "webChannel": {
          "id": 467,
@@ -8915,7 +8913,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 78,
+      "weight": 81,
       "network": {
          "id": 268,
          "name": "jTBC",
@@ -9025,7 +9023,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 13,
       "network": {
          "id": 28,
          "name": "NewsNation",
@@ -9085,7 +9083,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 53,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -9108,14 +9106,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/522/1306601.jpg"
       },
       "summary": "<p>Start your day and weekend with real news and analysis from Rob Finnerty, Michael Grimm &amp; Sarah Williamson and team.</p>",
-      "updated": 1785586263,
+      "updated": 1790874176,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76913"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687440",
-            "name": "Episode 176"
+            "href": "https://api.tvmaze.com/episodes/3778130",
+            "name": "Episode 197"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778131",
+            "name": "Episode 198"
          }
       }
    },
@@ -9145,7 +9147,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 54,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -9168,14 +9170,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/518/1297255.jpg"
       },
       "summary": "<p>Award-winning journalist Greta Van Susteren digs into the top stories of the day with the focus on why they matter to the American people. Greta speaks with the top newsmakers on both sides of the aisle, creating a conversation and dialogue that is imperative for the nation's well-being.</p>",
-      "updated": 1785586877,
+      "updated": 1790875982,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76914"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687532",
-            "name": "Episode 175"
+            "href": "https://api.tvmaze.com/episodes/3778281",
+            "name": "Episode 196"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778282",
+            "name": "Episode 197"
          }
       }
    },
@@ -9201,7 +9207,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 9,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -9258,7 +9264,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 59,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -9281,14 +9287,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/518/1297264.jpg"
       },
       "summary": "<p><b>National Report</b> with Shaun Kraisman and Emma Rechenberg for live breaking news from NY and Washington, on politics, health, finance, and lifestyle that impact you.</p>",
-      "updated": 1785586342,
+      "updated": 1790874970,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76916"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687463",
-            "name": "Episode 176"
+            "href": "https://api.tvmaze.com/episodes/3778172",
+            "name": "Episode 197"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778173",
+            "name": "Episode 198"
          }
       }
    },
@@ -9494,7 +9504,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -9558,7 +9568,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 46,
       "network": {
          "id": 444,
          "name": "Jiangsu TV",
@@ -9771,7 +9781,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 9,
       "network": {
          "id": 276,
          "name": "Hunan TV",
@@ -9844,7 +9854,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 5,
       "network": {
          "id": 1282,
          "name": "CCTV-1",
@@ -9913,7 +9923,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 46,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -9969,7 +9979,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 53,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -10081,7 +10091,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 5,
       "network": {
          "id": 1983,
          "name": "Merit Street",
@@ -10135,7 +10145,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 4,
@@ -10189,7 +10199,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 4,
@@ -10301,7 +10311,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 68,
       "network": {
          "id": 40,
          "name": "CNN",
@@ -10409,7 +10419,7 @@
       "rating": {
          "average": null
       },
-      "weight": 0,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 398,
@@ -10516,7 +10526,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": null,
       "webChannel": {
          "id": 398,
@@ -10626,7 +10636,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 47,
       "network": {
          "id": 308,
          "name": "\u0422\u041d\u0422",
@@ -10680,7 +10690,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": null,
       "webChannel": {
          "id": 398,
@@ -10733,7 +10743,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 42,
       "network": {
          "id": 120,
          "name": "Nine Network",
@@ -10789,7 +10799,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 0,
       "network": {
          "id": 120,
          "name": "Nine Network",
@@ -10840,7 +10850,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 398,
@@ -10896,7 +10906,7 @@
       "rating": {
          "average": null
       },
-      "weight": 0,
+      "weight": 5,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -10948,7 +10958,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 23,
       "network": {
          "id": 129,
          "name": "TF1",
@@ -11068,7 +11078,7 @@
       "rating": {
          "average": null
       },
-      "weight": 0,
+      "weight": 5,
       "network": {
          "id": 505,
          "name": "\u0420\u0415\u041d \u0422\u0412",
@@ -11131,7 +11141,7 @@
       "rating": {
          "average": null
       },
-      "weight": 0,
+      "weight": 25,
       "network": {
          "id": 304,
          "name": "\u0421\u0422\u0421",
@@ -11190,7 +11200,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": {
          "id": 1029,
          "name": "\u0421\u0422\u0421 Love",
@@ -11248,7 +11258,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 9,
       "network": {
          "id": 149,
          "name": "Network 10",
@@ -11305,7 +11315,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 5,
       "network": {
          "id": 307,
          "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -11422,7 +11432,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 149,
@@ -11476,7 +11486,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": {
          "id": 106,
          "name": "France 2",
@@ -11705,7 +11715,7 @@
       "rating": {
          "average": null
       },
-      "weight": 23,
+      "weight": 70,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -11818,7 +11828,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 58,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -11841,14 +11851,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1298268.jpg"
       },
       "summary": "<p><b>Rob Schmitt Tonight</b> locks in all the late-breaking stories that matter to you, and delivers the up-to-the-minute news you need to hear before turning in.</p>",
-      "updated": 1785587312,
+      "updated": 1790877482,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76960"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687601",
-            "name": "Episode 176"
+            "href": "https://api.tvmaze.com/episodes/3778410",
+            "name": "Episode 197"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778411",
+            "name": "Episode 198"
          }
       }
    },
@@ -11938,7 +11952,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 56,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -11961,14 +11975,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1298269.jpg"
       },
       "summary": "<p>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond \u2014 never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</p>",
-      "updated": 1785588998,
+      "updated": 1790889262,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76962"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687647",
-            "name": "Episode 175"
+            "href": "https://api.tvmaze.com/episodes/3778594",
+            "name": "Episode 196"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778595",
+            "name": "Episode 197"
          }
       }
    },
@@ -11995,7 +12013,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 9,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12052,7 +12070,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 59,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12071,18 +12089,22 @@
          "imdb": "tt27722982"
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/519/1298281.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1298281.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609720.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609720.jpg"
       },
       "summary": "<p>Chris Plante and his \"THE RIGHT SQUAD\" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</p>",
-      "updated": 1785589069,
+      "updated": 1790931998,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76964"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687670",
-            "name": "Episode 175"
+            "href": "https://api.tvmaze.com/episodes/3778825",
+            "name": "Episode 196"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778826",
+            "name": "Episode 197"
          }
       }
    },
@@ -12112,7 +12134,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 13,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12172,7 +12194,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 56,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12195,14 +12217,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/521/1303405.jpg"
       },
       "summary": "<p>Carl Higbie Frontline focuses on providing commonsense news analysis, exposing big government overreach and the media's shortfalls \u2014 all while always fighting for American values. Produced from Newsmax's Manhattan studios covering breaking news and exploring key issues such as personal liberty, security, and government transparency.</p>",
-      "updated": 1785587192,
+      "updated": 1790876437,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76966"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687578",
-            "name": "Episode 176"
+            "href": "https://api.tvmaze.com/episodes/3778367",
+            "name": "Episode 197"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778368",
+            "name": "Episode 198"
          }
       }
    },
@@ -12232,7 +12258,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 57,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12250,16 +12276,23 @@
          "thetvdb": null,
          "imdb": "tt28696475"
       },
-      "image": null,
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609660.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609660.jpg"
+      },
       "summary": "<p>Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</p>",
-      "updated": 1785586571,
+      "updated": 1790875617,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76967"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687486",
-            "name": "Episode 176"
+            "href": "https://api.tvmaze.com/episodes/3778216",
+            "name": "Episode 197"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778217",
+            "name": "Episode 198"
          }
       }
    },
@@ -12318,12 +12351,12 @@
             "href": "https://api.tvmaze.com/shows/76968"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3772340",
-            "name": "Episode 195"
+            "href": "https://api.tvmaze.com/episodes/3772342",
+            "name": "Episode 197"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3772341",
-            "name": "Episode 196"
+            "href": "https://api.tvmaze.com/episodes/3774156",
+            "name": "Episode 198"
          }
       }
    },
@@ -12349,7 +12382,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 33,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12378,10 +12411,6 @@
             "href": "https://api.tvmaze.com/shows/76969"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3771707",
-            "name": "Episode 39"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3771708",
             "name": "Episode 40"
          }
@@ -12409,7 +12438,7 @@
       "rating": {
          "average": null
       },
-      "weight": 13,
+      "weight": 33,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12463,7 +12492,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 29,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12516,7 +12545,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 42,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12572,7 +12601,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 5,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12621,7 +12650,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12677,7 +12706,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 42,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12729,7 +12758,7 @@
       "rating": {
          "average": null
       },
-      "weight": 30,
+      "weight": 13,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -12844,7 +12873,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -13086,7 +13115,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": {
          "id": 438,
          "name": "Colors",
@@ -13146,7 +13175,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 25,
       "network": {
          "id": 40,
          "name": "CNN",
@@ -13202,7 +13231,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 49,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -13258,7 +13287,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 5,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -13364,7 +13393,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 29,
       "network": {
          "id": 1982,
          "name": "Newsmax",
@@ -13477,7 +13506,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 53,
       "network": {
          "id": 28,
          "name": "NewsNation",
@@ -13500,14 +13529,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1297804.jpg"
       },
       "summary": "<p>In-depth coverage of the biggest news stories of the day; NewsNation's home for exclusive and enterprise reporting; hosted live by Elizabeth Vargas.</p>",
-      "updated": 1785584674,
+      "updated": 1790956226,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76989"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687302",
-            "name": "Episode 176"
+            "href": "https://api.tvmaze.com/episodes/3779407",
+            "name": "Episode 197"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3779408",
+            "name": "Episode 198"
          }
       }
    },
@@ -13537,7 +13570,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 54,
       "network": {
          "id": 28,
          "name": "NewsNation",
@@ -13560,14 +13593,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/519/1297791.jpg"
       },
       "summary": "<p>The day's hottest subjects.</p>",
-      "updated": 1785585255,
+      "updated": 1790960029,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/76990"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3687348",
-            "name": "Episode 175"
+            "href": "https://api.tvmaze.com/episodes/3779505",
+            "name": "Episode 196"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3779506",
+            "name": "Episode 197"
          }
       }
    },
@@ -13649,7 +13686,7 @@
       "rating": {
          "average": null
       },
-      "weight": 66,
+      "weight": 70,
       "network": {
          "id": 53,
          "name": "History",
@@ -13709,7 +13746,7 @@
       "rating": {
          "average": null
       },
-      "weight": 45,
+      "weight": 83,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -13767,7 +13804,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 9,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -13830,7 +13867,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": {
          "id": 495,
          "name": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439",
@@ -13886,7 +13923,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 0,
       "network": {
          "id": 1500,
          "name": "\u0420\u043e\u0441\u0441\u0438\u044f 2",
@@ -14010,7 +14047,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 29,
       "network": {
          "id": 269,
          "name": "StarPlus",
@@ -14070,7 +14107,7 @@
       "rating": {
          "average": null
       },
-      "weight": 5,
+      "weight": 25,
       "network": {
          "id": 438,
          "name": "Colors",

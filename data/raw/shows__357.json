@@ -24,7 +24,7 @@
       "rating": {
          "average": null
       },
-      "weight": 85,
+      "weight": 86,
       "network": {
          "id": 499,
          "name": "NOW",
@@ -81,7 +81,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 381,
@@ -135,7 +135,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -199,7 +199,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": null,
       "webChannel": {
          "id": 366,
@@ -312,7 +312,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 201,
          "name": "MS NOW",
@@ -366,7 +366,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 396,
@@ -650,7 +650,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 169,
@@ -709,7 +709,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 169,
@@ -765,7 +765,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": {
          "id": 1251,
          "name": "TV8",
@@ -827,7 +827,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 93,
          "name": "CNBC",
@@ -891,7 +891,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 12,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -947,7 +947,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 732,
@@ -1574,7 +1574,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": {
          "id": 2018,
          "name": "Dangal",
@@ -1867,7 +1867,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 62,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -1896,12 +1896,12 @@
             "href": "https://api.tvmaze.com/shows/89284"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3656346",
-            "name": "Episode 41"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3656347",
             "name": "Episode 42"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3656348",
+            "name": "Episode 43"
          }
       }
    },
@@ -2083,7 +2083,7 @@
       "rating": {
          "average": null
       },
-      "weight": 16,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -2136,7 +2136,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -2188,7 +2188,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 275,
          "name": "TG4",
@@ -2359,7 +2359,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 201,
          "name": "MS NOW",
@@ -2421,7 +2421,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -2484,7 +2484,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -2547,7 +2547,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -2786,7 +2786,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 201,
          "name": "MS NOW",
@@ -2960,7 +2960,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": {
          "id": 1254,
          "name": "KTV",
@@ -3080,7 +3080,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -3199,7 +3199,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -3443,7 +3443,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -3562,7 +3562,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -3622,7 +3622,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -3758,7 +3758,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -3884,7 +3884,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -3946,7 +3946,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -4008,7 +4008,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 43,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -4071,7 +4071,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -4187,7 +4187,7 @@
       "rating": {
          "average": null
       },
-      "weight": 73,
+      "weight": 84,
       "network": null,
       "webChannel": {
          "id": 310,
@@ -4300,7 +4300,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 281,
@@ -4360,7 +4360,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -4423,7 +4423,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -4483,7 +4483,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 25,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -4546,7 +4546,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 33,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -4609,7 +4609,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 25,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -4672,7 +4672,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 1023,
          "name": "Gala TV",
@@ -4982,7 +4982,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 30,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -5045,7 +5045,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 25,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -5108,7 +5108,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -5170,7 +5170,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -5288,7 +5288,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -5344,7 +5344,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 65,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -5407,7 +5407,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -5470,7 +5470,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -5532,7 +5532,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 25,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -5590,7 +5590,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 46,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -5646,7 +5646,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -5889,7 +5889,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -6008,7 +6008,7 @@
       "rating": {
          "average": null
       },
-      "weight": 16,
+      "weight": 15,
       "network": {
          "id": 135,
          "name": "5",
@@ -6131,7 +6131,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 89,
       "network": {
          "id": 167,
          "name": "AT-X",
@@ -6193,7 +6193,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -6310,7 +6310,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -6562,7 +6562,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -6625,7 +6625,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -6751,7 +6751,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 3,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -6877,7 +6877,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 25,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -7003,7 +7003,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -7062,7 +7062,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 44,
       "network": {
          "id": 1035,
          "name": "Playboy TV",
@@ -7188,7 +7188,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -7314,7 +7314,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 25,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -7502,7 +7502,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 7,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -7565,7 +7565,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -7627,7 +7627,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -7690,7 +7690,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -7815,7 +7815,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -7940,7 +7940,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -8176,7 +8176,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -8281,7 +8281,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -8300,14 +8300,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/605/1514530.jpg"
       },
       "summary": "<p>Courtney Miller interviews famous internet people in order to find out just how Internet-savvy they truly are.</p><p><br />\u00a0</p>",
-      "updated": 1778918457,
+      "updated": 1790944107,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/89391"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3618201",
-            "name": "Anthony Got Mon\u00e9t X Change Eliminated"
+            "href": "https://api.tvmaze.com/episodes/3778968",
+            "name": "I Surprise Chanse With His Favorite Childhood Toy"
          }
       }
    },
@@ -8333,7 +8333,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -8509,7 +8509,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -8573,7 +8573,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -8636,7 +8636,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -8699,7 +8699,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 6,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -8762,7 +8762,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 25,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -8888,7 +8888,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -9013,7 +9013,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -9069,7 +9069,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 7,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -9194,7 +9194,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -9257,7 +9257,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -9320,7 +9320,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -9445,7 +9445,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 25,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -9571,7 +9571,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -9634,7 +9634,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -9697,7 +9697,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -9760,7 +9760,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -9823,7 +9823,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -9886,7 +9886,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -10012,7 +10012,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -10139,7 +10139,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -10198,7 +10198,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -10252,7 +10252,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 106,
          "name": "France 2",
@@ -10315,7 +10315,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -10378,7 +10378,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -10497,7 +10497,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 1484,
          "name": "Prima televize",
@@ -10617,7 +10617,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -10680,7 +10680,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -10743,7 +10743,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -10869,7 +10869,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -10995,7 +10995,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -11117,7 +11117,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -11180,7 +11180,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -11240,7 +11240,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -11300,7 +11300,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 7,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -11533,7 +11533,7 @@
       "rating": {
          "average": null
       },
-      "weight": 80,
+      "weight": 69,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -11754,7 +11754,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 16,
       "network": {
          "id": 102,
          "name": "RTP1",
@@ -11810,7 +11810,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 48,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -11926,7 +11926,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 2,
       "network": {
          "id": 1294,
          "name": "TVI",
@@ -11980,7 +11980,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 9,
       "network": {
          "id": 155,
          "name": "SVT1",
@@ -12091,7 +12091,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 109,
@@ -12375,7 +12375,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 3,
       "network": {
          "id": 251,
          "name": "Seven Network",
@@ -12431,7 +12431,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 3,
       "network": {
          "id": 114,
          "name": "ABC",
@@ -12488,7 +12488,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -12653,7 +12653,7 @@
       "rating": {
          "average": null
       },
-      "weight": 15,
+      "weight": 16,
       "network": null,
       "webChannel": {
          "id": 471,
@@ -12948,7 +12948,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -13014,7 +13014,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 38,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -13070,7 +13070,7 @@
       "rating": {
          "average": null
       },
-      "weight": 16,
+      "weight": 15,
       "network": {
          "id": 139,
          "name": "SBS 6",
@@ -13136,7 +13136,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 25,
       "network": {
          "id": 276,
          "name": "Hunan TV",
@@ -13197,7 +13197,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 46,
       "network": null,
       "webChannel": {
          "id": 12,
@@ -13488,7 +13488,7 @@
       "rating": {
          "average": null
       },
-      "weight": 34,
+      "weight": 38,
       "network": {
          "id": 165,
          "name": "RT\u00c9 ONE",
@@ -13548,7 +13548,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 80,
       "network": {
          "id": 538,
          "name": "Channel A",
@@ -13602,7 +13602,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": {
          "id": 152,
          "name": "TV3",
@@ -13658,7 +13658,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 7,
       "network": {
          "id": 1262,
          "name": "One31",
@@ -13718,7 +13718,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": {
          "id": 139,
          "name": "SBS 6",
@@ -13778,7 +13778,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 37,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -13891,7 +13891,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -14121,7 +14121,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 71,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -14229,7 +14229,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 35,
       "network": null,
       "webChannel": {
          "id": 535,
@@ -14285,7 +14285,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 1944,
          "name": "TV2 Echo",
@@ -14396,7 +14396,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 92,
+      "weight": 67,
       "network": null,
       "webChannel": {
          "id": 522,
@@ -14452,7 +14452,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 733,
@@ -14508,7 +14508,7 @@
       "rating": {
          "average": null
       },
-      "weight": 16,
+      "weight": 38,
       "network": null,
       "webChannel": {
          "id": 733,
@@ -14618,7 +14618,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 25,
       "network": {
          "id": 991,
          "name": "\u0420\u043e\u0441\u0441\u0438\u044f \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",

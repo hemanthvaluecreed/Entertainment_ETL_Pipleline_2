@@ -23,7 +23,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 45,
       "network": {
          "id": 120,
          "name": "Nine Network",
@@ -139,7 +139,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -250,7 +250,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -313,7 +313,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 264,
          "name": "TVN",
@@ -500,7 +500,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 264,
          "name": "TVN",
@@ -558,7 +558,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 39,
       "network": {
          "id": 1071,
          "name": "MEGA Channel",
@@ -686,7 +686,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 3,
       "network": {
          "id": 264,
          "name": "TVN",
@@ -806,7 +806,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 203,
          "name": "MyNetworkTV",
@@ -941,7 +941,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -1127,7 +1127,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 39,
       "network": {
          "id": 219,
          "name": "Telemundo",
@@ -1184,7 +1184,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 374,
          "name": "TV Globo",
@@ -1368,7 +1368,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 26,
       "network": {
          "id": 403,
          "name": "TV2",
@@ -1421,7 +1421,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 399,
@@ -1470,7 +1470,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 49,
       "network": {
          "id": 790,
          "name": "\u041f\u044f\u0442\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -1508,12 +1508,8 @@
             "href": "https://api.tvmaze.com/shows/94024"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3731469",
-            "name": "\u0421\u0435\u0440\u0438\u044f 24"
-         },
-         "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3731470",
-            "name": "\u0421\u0435\u0440\u0438\u044f 25"
+            "href": "https://api.tvmaze.com/episodes/3731477",
+            "name": "\u0421\u0435\u0440\u0438\u044f 32"
          }
       }
    },
@@ -1781,7 +1777,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 422,
          "name": "Telefe",
@@ -2189,7 +2185,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 15,
       "network": {
          "id": 638,
          "name": "National Geographic Wild",
@@ -2299,7 +2295,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 509,
@@ -2357,7 +2353,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 374,
          "name": "TV Globo",
@@ -2415,7 +2411,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 45,
       "network": {
          "id": 374,
          "name": "TV Globo",
@@ -2529,7 +2525,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 39,
       "network": {
          "id": 374,
          "name": "TV Globo",
@@ -2643,7 +2639,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 374,
          "name": "TV Globo",
@@ -2701,7 +2697,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 45,
       "network": {
          "id": 374,
          "name": "TV Globo",
@@ -2764,7 +2760,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 998,
          "name": "Azteca",
@@ -2880,7 +2876,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 46,
       "network": null,
       "webChannel": {
          "id": 347,
@@ -2992,7 +2988,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 50,
       "network": {
          "id": 409,
          "name": "Star TV",
@@ -3015,7 +3011,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/640/1600154.jpg"
       },
       "summary": "<p>Relationships of neighbours living in an apartment in Istanbul.</p>",
-      "updated": 1788651598,
+      "updated": 1790891746,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94050"
@@ -3050,7 +3046,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 39,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -3165,7 +3161,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 3,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -3228,7 +3224,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 45,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -3288,7 +3284,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 45,
       "network": {
          "id": 112,
          "name": "RTL4",
@@ -3320,14 +3316,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/640/1600174.jpg"
       },
       "summary": "<p>Every weekday, Renze Klamer discusses the day's news from the Netherlands and abroad with relevant guests. The show combines current topics, thought-provoking conversations, and a friendly, relaxed atmosphere.</p>",
-      "updated": 1790488364,
+      "updated": 1791083170,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94055"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3772709",
-            "name": "Aflevering 20"
+            "href": "https://api.tvmaze.com/episodes/3780646",
+            "name": "Aflevering 25"
          }
       }
    },
@@ -3510,7 +3506,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 3,
       "network": {
          "id": 239,
          "name": "\u0420\u043e\u0441\u0441\u0438\u044f 1",
@@ -3868,7 +3864,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 45,
       "network": {
          "id": 1447,
          "name": "\u0391\u039d\u03a41",
@@ -3988,7 +3984,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 1071,
          "name": "MEGA Channel",
@@ -4111,7 +4107,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 1071,
          "name": "MEGA Channel",
@@ -4168,7 +4164,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -4286,7 +4282,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 53,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -4342,7 +4338,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 39,
       "network": {
          "id": 1447,
          "name": "\u0391\u039d\u03a41",
@@ -4404,7 +4400,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 39,
       "network": {
          "id": 1236,
          "name": "Alpha",
@@ -4714,7 +4710,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 1587,
          "name": "Mega",
@@ -4836,7 +4832,7 @@
       "rating": {
          "average": null
       },
-      "weight": 83,
+      "weight": 81,
       "network": null,
       "webChannel": {
          "id": 135,
@@ -5003,7 +4999,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 39,
       "network": {
          "id": 1733,
          "name": "Televisa",
@@ -5280,7 +5276,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 460,
          "name": "El Trece",
@@ -5340,7 +5336,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 26,
       "network": {
          "id": 1456,
          "name": "Star",
@@ -5398,7 +5394,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 765,
@@ -5454,7 +5450,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 39,
       "network": {
          "id": 499,
          "name": "NOW",
@@ -5504,7 +5500,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 7,
       "network": {
          "id": 417,
          "name": "Kanal D",
@@ -5560,7 +5556,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 755,
          "name": "Show TV",
@@ -5616,7 +5612,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 78,
       "network": {
          "id": 1262,
          "name": "One31",
@@ -5645,12 +5641,12 @@
             "href": "https://api.tvmaze.com/shows/94095"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3738330",
-            "name": "Episode 4"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3762510",
             "name": "Episode 5"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3762511",
+            "name": "Episode 6"
          }
       }
    },
@@ -5858,7 +5854,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 99,
          "name": "TVE",
@@ -5918,7 +5914,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 409,
          "name": "Star TV",
@@ -6085,7 +6081,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 1071,
          "name": "MEGA Channel",
@@ -6144,7 +6140,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 39,
       "network": {
          "id": 1447,
          "name": "\u0391\u039d\u03a41",
@@ -6262,7 +6258,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 513,
          "name": "Canal 9",
@@ -6321,7 +6317,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 417,
          "name": "Kanal D",
@@ -6381,7 +6377,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 1587,
          "name": "Mega",
@@ -6496,7 +6492,7 @@
       "rating": {
          "average": null
       },
-      "weight": 85,
+      "weight": 84,
       "network": null,
       "webChannel": {
          "id": 522,
@@ -6617,7 +6613,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 45,
       "network": {
          "id": 460,
          "name": "El Trece",
@@ -6911,7 +6907,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 390,
@@ -6975,7 +6971,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 3,
       "network": {
          "id": 1528,
          "name": "Latina Televisi\u00f3n",
@@ -7211,7 +7207,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 39,
       "network": {
          "id": 1002,
          "name": "Caracol Televisi\u00f3n",
@@ -7268,7 +7264,7 @@
       "rating": {
          "average": null
       },
-      "weight": 83,
+      "weight": 82,
       "network": {
          "id": 280,
          "name": "tvN",
@@ -7569,7 +7565,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 737,
          "name": "\u0422\u0412 \u0426\u0435\u043d\u0442\u0440",
@@ -7622,7 +7618,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 3,
       "network": {
          "id": 737,
          "name": "\u0422\u0412 \u0426\u0435\u043d\u0442\u0440",
@@ -7728,7 +7724,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 504,
          "name": "ATV",
@@ -7845,7 +7841,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 61,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -7909,7 +7905,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 3,
       "network": {
          "id": 1725,
          "name": "Sony SAB",
@@ -7972,7 +7968,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 2092,
          "name": "Azteca Uno",
@@ -8035,7 +8031,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 39,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -8157,7 +8153,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 3,
       "network": {
          "id": 264,
          "name": "TVN",
@@ -8215,7 +8211,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 1071,
          "name": "MEGA Channel",
@@ -8698,7 +8694,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1603987.jpg"
       },
       "summary": "<p>One of the world's most iconic harbours is also the scene of some of its most unpredictable police work.</p><p><b>Sydney Harbour Cops</b> takes viewers beyond the postcard views and onto the water with the NSW Police Force Marine Area Command, offering unprecedented access to the officers charged with keeping Sydney Harbour and the NSW coastline safe.</p>",
-      "updated": 1790526225,
+      "updated": 1791127809,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94148"
@@ -8733,7 +8729,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 11,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -8958,7 +8954,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 53,
       "network": {
          "id": 1236,
          "name": "Alpha",
@@ -9187,7 +9183,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 53,
       "network": {
          "id": 295,
          "name": "U&W",
@@ -9250,7 +9246,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 998,
          "name": "Azteca",
@@ -9476,7 +9472,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 26,
       "network": {
          "id": 976,
          "name": "TRT1",
@@ -9600,7 +9596,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 460,
          "name": "El Trece",
@@ -9715,7 +9711,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -9772,7 +9768,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 765,
@@ -9836,7 +9832,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 39,
       "network": {
          "id": 274,
          "name": "Abu Dhabi TV",
@@ -9961,7 +9957,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 39,
       "network": {
          "id": 1312,
          "name": "SIC",
@@ -10212,7 +10208,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 1910,
          "name": "Qazaqstan",
@@ -10266,7 +10262,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 366,
@@ -10326,7 +10322,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 384,
@@ -10382,7 +10378,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 1700,
          "name": "STVR",
@@ -10508,7 +10504,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 39,
       "network": {
          "id": 96,
          "name": "Telecinco",
@@ -10571,7 +10567,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 1481,
          "name": "Canal 13",
@@ -10626,7 +10622,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 1481,
          "name": "Canal 13",
@@ -10683,7 +10679,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 1447,
          "name": "\u0391\u039d\u03a41",
@@ -10741,7 +10737,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 1438,
          "name": "\u0395\u03a1\u03a4",
@@ -10798,7 +10794,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 1236,
          "name": "Alpha",
@@ -10957,7 +10953,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 1071,
          "name": "MEGA Channel",
@@ -11006,7 +11002,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -11168,7 +11164,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 37,
       "network": {
          "id": 89,
          "name": "Investigation Discovery",
@@ -11224,7 +11220,7 @@
       "rating": {
          "average": null
       },
-      "weight": 75,
+      "weight": 73,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -11274,7 +11270,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 764,
@@ -11330,7 +11326,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 53,
       "network": null,
       "webChannel": {
          "id": 208,
@@ -11386,7 +11382,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": {
          "id": 83,
          "name": "National Geographic Wild",
@@ -11444,7 +11440,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 1290,
          "name": "2+2",
@@ -11464,7 +11460,7 @@
       },
       "image": null,
       "summary": "<p>A police department eagerly awaits the arrival of a legendary, highly decorated detective named Oleg Korbut. Due to a clerical mix-up, a different man with the exact same name\u2014Olezhka Korbut, a short, chubby, unluckily clumsy guy\u2014arrives instead. When the real legendary cop arrives, both men are forced to team up as partners to solve dangerous and bizarre crimes together. Since there is only one open permanent slot at the station, the two must compete to prove who truly is the \"best cop\".</p>",
-      "updated": 1789065829,
+      "updated": 1791118937,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94197"
@@ -11505,7 +11501,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -11567,7 +11563,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 45,
       "network": {
          "id": 2096,
          "name": "Teleamazonas",
@@ -11620,7 +11616,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 32,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -11679,7 +11675,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 39,
       "network": {
          "id": 438,
          "name": "Colors",
@@ -11842,7 +11838,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 1055,
          "name": "Sony Entertainment Television",
@@ -11905,7 +11901,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 1055,
          "name": "Sony Entertainment Television",
@@ -12022,7 +12018,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 7,
       "network": {
          "id": 2097,
          "name": "Cartoon Network",
@@ -12086,7 +12082,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 1055,
          "name": "Sony Entertainment Television",
@@ -12142,7 +12138,7 @@
       "rating": {
          "average": null
       },
-      "weight": 87,
+      "weight": 39,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -12189,7 +12185,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 88,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -12237,7 +12233,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 3,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -12301,7 +12297,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 39,
       "network": {
          "id": 1842,
          "name": "Zee Marathi",
@@ -12358,7 +12354,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 12,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -12656,7 +12652,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 47,
       "network": {
          "id": 438,
          "name": "Colors",
@@ -12716,7 +12712,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 1842,
          "name": "Zee Marathi",
@@ -12830,7 +12826,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 358,
@@ -12884,7 +12880,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 39,
       "network": {
          "id": 1842,
          "name": "Zee Marathi",
@@ -12938,7 +12934,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 34,
       "network": null,
       "webChannel": {
          "id": 377,
@@ -12967,12 +12963,12 @@
             "href": "https://api.tvmaze.com/shows/94223"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3769577",
-            "name": "Capitulo 2"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3769585",
             "name": "Capitulo 3"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3769578",
+            "name": "Capitulo 4"
          }
       }
    },
@@ -12996,7 +12992,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 358,
@@ -13050,7 +13046,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": {
          "id": 2099,
          "name": "Star Pravah",
@@ -13268,7 +13264,7 @@
       "rating": {
          "average": null
       },
-      "weight": 37,
+      "weight": 3,
       "network": {
          "id": 1842,
          "name": "Zee Marathi",
@@ -13425,7 +13421,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 1842,
          "name": "Zee Marathi",
@@ -13531,7 +13527,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 59,
       "network": null,
       "webChannel": {
          "id": 636,
@@ -13576,11 +13572,11 @@
       "type": "Scripted",
       "language": "Norwegian",
       "genres": [],
-      "status": "Running",
+      "status": "Ended",
       "runtime": null,
-      "averageRuntime": null,
+      "averageRuntime": 43,
       "premiered": "2026-09-30",
-      "ended": null,
+      "ended": "2026-09-30",
       "officialSite": "https://play.tv2.no/serier/prosjekt-dommedag-gaaten-i-vanvikan-qfw0ng9k",
       "schedule": {
          "time": "",
@@ -13589,7 +13585,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 69,
       "network": null,
       "webChannel": {
          "id": 327,
@@ -13612,7 +13608,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606278.jpg"
       },
       "summary": "<p>One autumn day in 2013, a 15-month-old boy is found dead in Vanvikan. The parents' explanation of a comet and an imminent doomsday quickly arouses the police's suspicions: Could they have killed their own child? In this documentary series, TV 2's investigative journalists delve into the still unsolved case. The search for the truth uncovers new clues, and suggests that the answer to what really happened to the boy may have been there all along.</p>",
-      "updated": 1790050630,
+      "updated": 1790948781,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94235"
@@ -14001,7 +13997,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 49,
       "network": {
          "id": 269,
          "name": "StarPlus",
@@ -14167,7 +14163,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 26,
       "network": {
          "id": 2018,
          "name": "Dangal",

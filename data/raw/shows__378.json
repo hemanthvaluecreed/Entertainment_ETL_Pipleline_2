@@ -25,7 +25,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 84,
       "network": {
          "id": 476,
          "name": "YTV",
@@ -82,7 +82,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 337,
@@ -195,7 +195,7 @@
       "rating": {
          "average": null
       },
-      "weight": 73,
+      "weight": 76,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -252,7 +252,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 281,
@@ -297,7 +297,7 @@
          "Anime",
          "Science-Fiction"
       ],
-      "status": "In Development",
+      "status": "Running",
       "runtime": 30,
       "averageRuntime": 30,
       "premiered": "2026-10-03",
@@ -312,7 +312,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 79,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -331,18 +331,22 @@
          "imdb": "tt42487863"
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/641/1604303.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604303.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610500.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610500.jpg"
       },
       "summary": "<p>Akira lives a peaceful life with his older sister Haruka and his mother, who runs a cafe. The family, however, harbors a secret \u2014 Haruka has inherited a power from her father called \"Engine,\" and she hides that power from others. Akira, on the other hand, has not inherited his father's power, and he has an inferiority complex about it. Amidst this, strange events begin to occur around the world.</p>",
-      "updated": 1789764441,
+      "updated": 1791099035,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94505"
          },
-         "nextepisode": {
+         "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3765706",
-            "name": "TBA"
+            "name": "Engine, Ignition"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3780582",
+            "name": "Episode 2"
          }
       }
    },
@@ -357,7 +361,7 @@
          "Adventure",
          "Anime"
       ],
-      "status": "In Development",
+      "status": "Running",
       "runtime": 30,
       "averageRuntime": 30,
       "premiered": "2026-10-03",
@@ -391,18 +395,22 @@
          "imdb": "tt43691424"
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/641/1604304.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604304.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610433.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610433.jpg"
       },
       "summary": "<p>Set in a world where 90 percent of humans on Earth have contracted and died from a deadly, virulent disease, only to then rise again as zombies who attack people. 13 years after that \"Red Day\" of societal and civilizational collapse, the surviving humans live outside the big cities, still hoping to retake them someday. An entirely new generation of people who know nothing of the pre-Red Day world is now coming into its own. The story begins when Aki and her close friends, Haru and Natsuki, set out to find Aki's missing father.</p>",
-      "updated": 1789765424,
+      "updated": 1791075634,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94506"
          },
-         "nextepisode": {
+         "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3765707",
-            "name": "TBA"
+            "name": "I'm Looking for My Dad"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3780302",
+            "name": "Episode 2"
          }
       }
    },
@@ -549,7 +557,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 81,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -605,7 +613,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -767,7 +775,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 54,
       "network": {
          "id": 1442,
          "name": "\u0395\u03a41",
@@ -825,7 +833,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -947,7 +955,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 26,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -1126,7 +1134,7 @@
       "rating": {
          "average": null
       },
-      "weight": 72,
+      "weight": 79,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -1184,7 +1192,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 51,
       "network": {
          "id": 1447,
          "name": "\u0391\u039d\u03a41",
@@ -1240,7 +1248,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 45,
       "network": {
          "id": 1738,
          "name": "APTN",
@@ -1302,7 +1310,7 @@
       "rating": {
          "average": null
       },
-      "weight": 60,
+      "weight": 64,
       "network": null,
       "webChannel": {
          "id": 390,
@@ -1358,7 +1366,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 399,
@@ -1383,12 +1391,12 @@
             "href": "https://api.tvmaze.com/shows/94523"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3766233",
-            "name": "\u7b2c 4 \u96c6"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3766234",
             "name": "\u7b2c 5 \u96c6"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3766235",
+            "name": "\u7b2c 6 \u96c6"
          }
       }
    },
@@ -1417,7 +1425,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 43,
       "network": {
          "id": 1071,
          "name": "MEGA Channel",
@@ -1580,7 +1588,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 39,
       "network": {
          "id": 402,
          "name": "\u041d\u043e\u0432\u0438\u0439 \u041a\u0430\u043d\u0430\u043b",
@@ -1635,7 +1643,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 51,
       "network": {
          "id": 205,
          "name": "NFL Network",
@@ -1745,7 +1753,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -1799,7 +1807,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 208,
@@ -1854,7 +1862,7 @@
       "rating": {
          "average": null
       },
-      "weight": 83,
+      "weight": 86,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -1906,7 +1914,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -2012,7 +2020,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 85,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -2059,7 +2067,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 83,
       "network": null,
       "webChannel": {
          "id": 2,
@@ -2109,7 +2117,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 87,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -2160,7 +2168,7 @@
       "rating": {
          "average": null
       },
-      "weight": 82,
+      "weight": 83,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -2330,7 +2338,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -2383,7 +2391,7 @@
       "rating": {
          "average": null
       },
-      "weight": 73,
+      "weight": 79,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -2434,7 +2442,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -2469,15 +2477,15 @@
       "url": "https://www.tvmaze.com/shows/94544/love",
       "name": "#Love",
       "type": "Scripted",
-      "language": "Hindi",
+      "language": "Tamil",
       "genres": [
          "Drama",
          "Comedy",
          "Romance"
       ],
-      "status": "In Development",
+      "status": "To Be Determined",
       "runtime": null,
-      "averageRuntime": null,
+      "averageRuntime": 33,
       "premiered": "2026-10-02",
       "ended": null,
       "officialSite": "https://www.netflix.com/title/81680908",
@@ -2488,7 +2496,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 60,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -2506,15 +2514,15 @@
          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609596.jpg",
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609596.jpg"
       },
-      "summary": "<p>A practical dating app founder and her adventurous competitor test their opposing theories about love through a 60-day challenge to find the right match.\u00a0</p>",
-      "updated": 1790855582,
+      "summary": "<p>Arjun Das and Aishwarya Lekshmi star as rival dating app founders who put their theories about love to the test in a 60-day journey to find love.</p>",
+      "updated": 1791067354,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94544"
          },
-         "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3767553",
-            "name": "Episode 1"
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778939",
+            "name": "Episode 6"
          }
       }
    },
@@ -2603,7 +2611,7 @@
       "rating": {
          "average": null
       },
-      "weight": 91,
+      "weight": 92,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -2652,7 +2660,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 26,
       "network": {
          "id": 85,
          "name": "PBS",
@@ -2768,7 +2776,7 @@
       "rating": {
          "average": null
       },
-      "weight": 90,
+      "weight": 87,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -2816,7 +2824,7 @@
       "rating": {
          "average": null
       },
-      "weight": 85,
+      "weight": 87,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -2982,7 +2990,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 728,
@@ -3102,7 +3110,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -3273,7 +3281,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 491,
@@ -3395,7 +3403,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 39,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -3453,7 +3461,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 53,
       "network": {
          "id": 309,
          "name": "Comedy Central",
@@ -3511,7 +3519,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 45,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -3569,7 +3577,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 118,
@@ -3627,7 +3635,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 30,
       "network": {
          "id": 322,
          "name": "TV2",
@@ -3745,7 +3753,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 769,
@@ -3795,7 +3803,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 769,
@@ -3895,7 +3903,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 769,
@@ -3947,7 +3955,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 769,
@@ -4050,7 +4058,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 39,
       "network": {
          "id": 189,
          "name": "Game Show Network",
@@ -4111,7 +4119,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 52,
       "network": null,
       "webChannel": {
          "id": 226,
@@ -4174,7 +4182,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 39,
       "network": {
          "id": 1528,
          "name": "Latina Televisi\u00f3n",
@@ -4228,7 +4236,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 26,
       "network": {
          "id": 276,
          "name": "Hunan TV",
@@ -4354,7 +4362,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 54,
       "network": null,
       "webChannel": {
          "id": 715,
@@ -4408,7 +4416,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 484,
@@ -4462,7 +4470,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 53,
       "network": {
          "id": 78,
          "name": "Disney Channel",
@@ -4518,7 +4526,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 85,
@@ -4728,7 +4736,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 769,
@@ -4832,7 +4840,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 769,
@@ -4887,7 +4895,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 39,
       "network": {
          "id": 1730,
          "name": "Kan 11",
@@ -4943,7 +4951,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 3,
       "network": {
          "id": 285,
          "name": "TV Chosun",
@@ -5001,7 +5009,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 52,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -5058,7 +5066,7 @@
       "rating": {
          "average": null
       },
-      "weight": 57,
+      "weight": 53,
       "network": null,
       "webChannel": {
          "id": 749,
@@ -5120,7 +5128,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 26,
       "network": {
          "id": 1380,
          "name": "Soapnet",
@@ -5176,7 +5184,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 39,
       "network": {
          "id": 398,
          "name": "NDR",
@@ -5228,7 +5236,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 55,
       "network": {
          "id": 1755,
          "name": "RTVSLO",
@@ -5288,7 +5296,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 45,
       "network": {
          "id": 300,
          "name": "\u041d\u0422\u0412",
@@ -5317,12 +5325,12 @@
             "href": "https://api.tvmaze.com/shows/94595"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3769049",
-            "name": "\u0412\u044b\u043f\u0443\u0441\u043a 2"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3769050",
             "name": "\u0412\u044b\u043f\u0443\u0441\u043a 3"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3769051",
+            "name": "\u0412\u044b\u043f\u0443\u0441\u043a 4"
          }
       }
    },
@@ -5405,7 +5413,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 510,
@@ -5459,7 +5467,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 3,
       "network": {
          "id": 718,
          "name": "Channel 3",
@@ -5806,7 +5814,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 347,
@@ -5863,7 +5871,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 381,
@@ -5920,7 +5928,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 484,
@@ -6006,9 +6014,9 @@
       "type": "Reality",
       "language": "English",
       "genres": [],
-      "status": "In Development",
+      "status": "Running",
       "runtime": null,
-      "averageRuntime": null,
+      "averageRuntime": 10,
       "premiered": "2026-10-04",
       "ended": null,
       "officialSite": null,
@@ -6044,7 +6052,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609047.jpg"
       },
       "summary": "<p>Hosted by comedian Abi Clarke and presenter and Strictly alum Tyler West, <b>Strictly: Lights Up</b> will be available immediately after the results show has finished. Abi and Tyler will take viewers straight on to the Strictly dance floor for immediate reactions from the night's eliminated couple, their dance off opponents - plus the judges, hosts, other Strictly stars and studio guests.</p>",
-      "updated": 1790796168,
+      "updated": 1791029191,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94608"
@@ -6137,7 +6145,7 @@
       "rating": {
          "average": null
       },
-      "weight": 28,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 470,
@@ -6250,7 +6258,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 26,
       "network": {
          "id": 112,
          "name": "RTL4",
@@ -6310,7 +6318,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 147,
@@ -6365,7 +6373,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 51,
       "network": {
          "id": 140,
          "name": "SBS",
@@ -6423,7 +6431,7 @@
       "rating": {
          "average": null
       },
-      "weight": 69,
+      "weight": 73,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -6452,12 +6460,12 @@
             "href": "https://api.tvmaze.com/shows/94615"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3769861",
-            "name": "Episode 2"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3769862",
             "name": "Episode 3"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3769863",
+            "name": "Episode 4"
          }
       }
    },
@@ -6487,7 +6495,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 43,
       "network": {
          "id": 1438,
          "name": "\u0395\u03a1\u03a4",
@@ -6546,7 +6554,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6595,7 +6603,7 @@
       "rating": {
          "average": null
       },
-      "weight": 73,
+      "weight": 79,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6871,7 +6879,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 26,
       "network": null,
       "webChannel": {
          "id": 131,
@@ -6930,7 +6938,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 45,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -6984,7 +6992,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 83,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -7019,20 +7027,22 @@
       "genres": [
          "Drama"
       ],
-      "status": "In Development",
+      "status": "Ended",
       "runtime": null,
-      "averageRuntime": null,
-      "premiered": null,
-      "ended": null,
+      "averageRuntime": 2,
+      "premiered": "2026-10-01",
+      "ended": "2026-10-01",
       "officialSite": "https://www.iqiyi.com/a_2cj0w0p3rxx.html",
       "schedule": {
          "time": "",
-         "days": []
+         "days": [
+            "Thursday"
+         ]
       },
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -7051,10 +7061,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606476.jpg"
       },
       "summary": null,
-      "updated": 1790105008,
+      "updated": 1791059541,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94626"
+         },
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3780385",
+            "name": "Episode 57"
          }
       }
    },
@@ -7105,8 +7119,8 @@
          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1607810.jpg",
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1607810.jpg"
       },
-      "summary": null,
-      "updated": 1790451141,
+      "summary": "<p>Four years after the Jianzhou Tunnel collapse, a contractor livestreams his suicide and blows the whistle under his real name on corruption in public bidding. The disciplinary inspection commission sets up a special task force headed by Ren Gengqing. His target is his former classmate Du Qingbo, allegedly involved in bid rigging and collusive bidding. Against resistance from many sides, the task force takes down the whole corruption network in the bidding sector, protecting fairness and justice in the business environment.</p>",
+      "updated": 1791049846,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94627"
@@ -7188,7 +7202,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -7341,7 +7355,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 3,
       "network": {
          "id": 304,
          "name": "\u0421\u0422\u0421",
@@ -7388,7 +7402,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 51,
       "network": {
          "id": 423,
          "name": "1+1",
@@ -7491,7 +7505,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 54,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -7544,7 +7558,7 @@
       "rating": {
          "average": null
       },
-      "weight": 89,
+      "weight": 90,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -7593,7 +7607,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 74,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -7647,7 +7661,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 55,
       "network": {
          "id": 1730,
          "name": "Kan 11",
@@ -7670,14 +7684,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606520.jpg"
       },
       "summary": "<p>An original Be'er Sheva comedy set in the \"Simi Center\" neighborhood shopping mall, bringing to the screen the stories and dreams of the wild, colorful characters who hang out there. Meet Dalila, from the shop that stocks everything except customers; Popeye, the exterminator ranked only 50th in the South (ever since he accidentally exterminated a Schnauzer); Haviv and Naor, two teens dreaming of getting into the Forum club and escaping the neighborhood; Linoy and Avichai, who run a pizzeria with sesame seeds on the crust; Nadir the greengrocer, looking for love; Hezi, trying to find a tenth man for the prayer quorum; Menachem, searching for his donkey; and many others we've met\u2014and want you to meet, too.</p>",
-      "updated": 1790612071,
+      "updated": 1790976188,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94638"
          },
          "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3774351",
-            "name": "\u05d1\u05ea - \u05e0\u05e9\u05d9\u05e7\u05d4 \u05d0\u05d7\u05ea. \u05d3\u05d5\u05d3\u05d4 - \u05e9\u05ea\u05d9\u05d9\u05dd. \u05e7\u05d5\u05d5\u05e7\u05d6\u05d9\u05dd - \u05e9\u05dc\u05d5\u05e9"
+            "name": "Daughter - One Kiss. Aunt - Two. Caucasians - Three."
          },
          "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3774352",
@@ -7734,14 +7748,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606522.jpg"
       },
       "summary": "<p>A detective transferred to Jerusalem's Central Investigations Unit is drawn into rumors of abuse spreading through an ultra-Orthodox neighborhood \u2014 and into the buried story of his own childhood.</p>",
-      "updated": 1790111344,
+      "updated": 1790975779,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94639"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3770096",
-            "name": "Episode 4"
+            "href": "https://api.tvmaze.com/episodes/3779649",
+            "name": "Equal Decree"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3779650",
+            "name": "Episode 6"
          }
       }
    },
@@ -7821,7 +7839,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 69,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -7875,7 +7893,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 82,
       "network": null,
       "webChannel": {
          "id": 387,
@@ -8048,7 +8066,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 337,
@@ -8220,7 +8238,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 281,
@@ -8281,7 +8299,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 52,
       "network": {
          "id": 304,
          "name": "\u0421\u0422\u0421",
@@ -8400,7 +8418,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 86,
       "network": {
          "id": 56,
          "name": "BET",
@@ -8451,7 +8469,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 56,
       "network": {
          "id": 90,
          "name": "Magnolia Network",
@@ -8553,12 +8571,12 @@
             "href": "https://api.tvmaze.com/shows/94653"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3772357",
-            "name": "Episode 14"
+            "href": "https://api.tvmaze.com/episodes/3772361",
+            "name": "Episode 18"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3772358",
-            "name": "Episode 15"
+            "href": "https://api.tvmaze.com/episodes/3772362",
+            "name": "Episode 19"
          }
       }
    },
@@ -8585,7 +8603,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 51,
       "network": null,
       "webChannel": {
          "id": 484,
@@ -8638,7 +8656,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 55,
       "network": null,
       "webChannel": {
          "id": 484,
@@ -8677,10 +8695,10 @@
       "genres": [],
       "status": "Running",
       "runtime": null,
-      "averageRuntime": 60,
+      "averageRuntime": 63,
       "premiered": "2026-10-01",
       "ended": null,
-      "officialSite": "https://v2.videoland.com/andre-hazes-crossroads-p_2956",
+      "officialSite": "https://v2.videoland.com/andre-hazes-en-nu-p_5798",
       "schedule": {
          "time": "20:30",
          "days": [
@@ -8690,7 +8708,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 12,
@@ -8705,15 +8723,15 @@
       "dvdCountry": null,
       "externals": {
          "tvrage": null,
-         "thetvdb": null,
-         "imdb": null
+         "thetvdb": 483289,
+         "imdb": "tt47754842"
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/642/1606929.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606929.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610017.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610017.jpg"
       },
       "summary": "<p>In the reality series, we see a new phase begin following the final concert of his successful theater tour. He dives right in with his signature positive energy and humor\u2014he isn't one to sit still, and that is exactly what we will see.</p>",
-      "updated": 1790921581,
+      "updated": 1790957211,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94656"
@@ -8752,7 +8770,7 @@
       "rating": {
          "average": null
       },
-      "weight": 50,
+      "weight": 26,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -8795,12 +8813,12 @@
       "genres": [
          "Horror"
       ],
-      "status": "In Development",
+      "status": "Ended",
       "runtime": null,
-      "averageRuntime": null,
+      "averageRuntime": 11,
       "premiered": "2026-10-02",
-      "ended": null,
-      "officialSite": null,
+      "ended": "2026-10-02",
+      "officialSite": "https://tubitv.com/series/300022645/bite-size-terror",
       "schedule": {
          "time": "",
          "days": []
@@ -8826,15 +8844,15 @@
          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/642/1607012.jpg",
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1607012.jpg"
       },
-      "summary": "<p><b>Bite Size Terror</b> is an anthology of short-form horror stories that explores every corner of the genre, from the supernatural and occult to body horror, dark comedy, monsters, and the macabre. From executive producer Peter Rice and GJMD Studio, the series brings a fresh take on the short-form horror format to Tubi previously explored in Hulu's <i>Bite Size Halloween</i>. Across the season, grief, ambition, intimacy, and vulnerability become entry points for something darker, as characters searching for connection, control, or a way forward find themselves confronting forces they do not understand. With a new story and a new nightmare in every episode, <i>Bite Size Terror</i> delivers a sharp, unpredictable collection of horror built to unsettle, surprise, and linger long after each story ends.</p>",
-      "updated": 1790232885,
+      "summary": "<p>A bite-sized horror anthology where seemingly harmless encounters, desires, and decisions take terrifying turns.</p>",
+      "updated": 1790982533,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94658"
          },
-         "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3770638",
-            "name": "The Deep End"
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3770647",
+            "name": "Floral Remains"
          }
       }
    },
@@ -8862,7 +8880,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 57,
       "network": {
          "id": 377,
          "name": "\u041f\u044f\u0442\u043d\u0438\u0446\u0430",
@@ -8885,7 +8903,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1607016.jpg"
       },
       "summary": "<p>16 reality legends competing for 10 million rubles.</p>",
-      "updated": 1790919657,
+      "updated": 1790955450,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94659"
@@ -8922,7 +8940,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 541,
@@ -8980,7 +8998,7 @@
       "rating": {
          "average": null
       },
-      "weight": 60,
+      "weight": 58,
       "network": null,
       "webChannel": {
          "id": 220,
@@ -9041,7 +9059,7 @@
       "rating": {
          "average": null
       },
-      "weight": 69,
+      "weight": 67,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -9154,7 +9172,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 48,
       "network": {
          "id": 1024,
          "name": "RCTV",
@@ -9266,7 +9284,7 @@
       "rating": {
          "average": null
       },
-      "weight": 24,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 470,
@@ -9377,7 +9395,7 @@
       "rating": {
          "average": null
       },
-      "weight": 48,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 238,
@@ -9634,7 +9652,7 @@
       "rating": {
          "average": null
       },
-      "weight": 76,
+      "weight": 79,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -9688,7 +9706,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 69,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -9740,7 +9758,7 @@
       "rating": {
          "average": null
       },
-      "weight": 69,
+      "weight": 73,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -9843,7 +9861,7 @@
       "rating": {
          "average": null
       },
-      "weight": 74,
+      "weight": 77,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -9903,7 +9921,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 81,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -10021,7 +10039,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 49,
       "network": {
          "id": 1071,
          "name": "MEGA Channel",
@@ -10082,7 +10100,7 @@
       "rating": {
          "average": null
       },
-      "weight": 76,
+      "weight": 78,
       "network": {
          "id": 166,
          "name": "MBC",
@@ -10138,7 +10156,7 @@
       "rating": {
          "average": null
       },
-      "weight": 38,
+      "weight": 3,
       "network": {
          "id": 300,
          "name": "\u041d\u0422\u0412",
@@ -10194,7 +10212,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 60,
       "network": {
          "id": 135,
          "name": "5",
@@ -10223,12 +10241,12 @@
             "href": "https://api.tvmaze.com/shows/94684"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3771317",
-            "name": "Winter"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3771318",
             "name": "Spring"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778681",
+            "name": "Autumn"
          }
       }
    },
@@ -10310,7 +10328,7 @@
       "rating": {
          "average": null
       },
-      "weight": 81,
+      "weight": 80,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -10366,7 +10384,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 541,
@@ -10415,7 +10433,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 491,
@@ -10464,7 +10482,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 51,
       "network": {
          "id": 40,
          "name": "CNN",
@@ -10493,10 +10511,6 @@
             "href": "https://api.tvmaze.com/shows/94689"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3771534",
-            "name": "Episode 39"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3771535",
             "name": "Episode 40"
          }
@@ -10524,7 +10538,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 49,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -10574,7 +10588,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 39,
       "network": {
          "id": 737,
          "name": "\u0422\u0412 \u0426\u0435\u043d\u0442\u0440",
@@ -10602,56 +10616,6 @@
          "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3771567",
             "name": "\u0421\u0435\u0440\u0438\u044f 2"
-         }
-      }
-   },
-   {
-      "id": 94692,
-      "url": "https://www.tvmaze.com/shows/94692/tazelyj-luks",
-      "name": "\u0422\u044f\u0436\u0435\u043b\u044b\u0439 \u043b\u044e\u043a\u0441",
-      "type": "Scripted",
-      "language": null,
-      "genres": [
-         "Drama",
-         "Crime"
-      ],
-      "status": "In Development",
-      "runtime": null,
-      "averageRuntime": null,
-      "premiered": null,
-      "ended": null,
-      "officialSite": "https://wink.ru/series/tyazhelyy-lyuks-year-2026?ysclid=mugvlom3yz878314082",
-      "schedule": {
-         "time": "",
-         "days": []
-      },
-      "rating": {
-         "average": null
-      },
-      "weight": 51,
-      "network": null,
-      "webChannel": {
-         "id": 541,
-         "name": "Wink",
-         "country": {
-            "name": "Russian Federation",
-            "code": "RU",
-            "timezone": "Asia/Kamchatka"
-         },
-         "officialSite": null
-      },
-      "dvdCountry": null,
-      "externals": {
-         "tvrage": null,
-         "thetvdb": null,
-         "imdb": null
-      },
-      "image": null,
-      "summary": "<p><b>Duplicate of https://www.tvmaze.com/shows/92909/tazelyj-luks</b></p>",
-      "updated": 1790349618,
-      "_links": {
-         "self": {
-            "href": "https://api.tvmaze.com/shows/94692"
          }
       }
    },
@@ -10734,7 +10698,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 51,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -10763,66 +10727,12 @@
             "href": "https://api.tvmaze.com/shows/94694"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3771734",
-            "name": "Cap\u00edtulo 9"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3771735",
             "name": "Cap\u00edtulo 10"
-         }
-      }
-   },
-   {
-      "id": 94695,
-      "url": "https://www.tvmaze.com/shows/94695/skavlan-sverige",
-      "name": "Skavlan & Sverige",
-      "type": "Talk Show",
-      "language": "Swedish",
-      "genres": [],
-      "status": "Running",
-      "runtime": null,
-      "averageRuntime": null,
-      "premiered": "2025-09-04",
-      "ended": null,
-      "officialSite": "https://www.svtplay.se/skavlan-och-sverige-1",
-      "schedule": {
-         "time": "",
-         "days": []
-      },
-      "rating": {
-         "average": null
-      },
-      "weight": 53,
-      "network": {
-         "id": 155,
-         "name": "SVT1",
-         "country": {
-            "name": "Sweden",
-            "code": "SE",
-            "timezone": "Europe/Stockholm"
          },
-         "officialSite": "https://www.svtplay.se/kanaler/svt1"
-      },
-      "webChannel": null,
-      "dvdCountry": null,
-      "externals": {
-         "tvrage": null,
-         "thetvdb": null,
-         "imdb": null
-      },
-      "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1607550.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1607550.jpg"
-      },
-      "summary": "<p>Duplicate - See: https://www.tvmaze.com/shows/87994/skavlan-sverige</p>",
-      "updated": 1790466226,
-      "_links": {
-         "self": {
-            "href": "https://api.tvmaze.com/shows/94695"
-         },
-         "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3771830",
-            "name": "Segt om ens land blir attackerat"
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3771736",
+            "name": "Cap\u00edtulo 11"
          }
       }
    },
@@ -10846,7 +10756,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 39,
       "network": {
          "id": 123,
          "name": "TV4",
@@ -10909,7 +10819,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 50,
       "network": {
          "id": 1481,
          "name": "Canal 13",
@@ -11015,7 +10925,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 49,
       "network": {
          "id": 1071,
          "name": "MEGA Channel",
@@ -11071,7 +10981,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 53,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -11102,52 +11012,6 @@
       }
    },
    {
-      "id": 94701,
-      "url": "https://www.tvmaze.com/shows/94701/narnia",
-      "name": "Narnia",
-      "type": "Scripted",
-      "language": "English",
-      "genres": [],
-      "status": "In Development",
-      "runtime": null,
-      "averageRuntime": null,
-      "premiered": null,
-      "ended": null,
-      "officialSite": "https://www.netflix.com/title/81030669",
-      "schedule": {
-         "time": "",
-         "days": []
-      },
-      "rating": {
-         "average": null
-      },
-      "weight": 87,
-      "network": null,
-      "webChannel": {
-         "id": 1,
-         "name": "Netflix",
-         "country": null,
-         "officialSite": "https://www.netflix.com/"
-      },
-      "dvdCountry": null,
-      "externals": {
-         "tvrage": null,
-         "thetvdb": null,
-         "imdb": null
-      },
-      "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1607556.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1607556.jpg"
-      },
-      "summary": "<p><b>Netflix is releasing as a movie adaptation</b></p><p>Step through the wardrobe into Narnia, where courage, friendship, and epic battles between good and evil await.</p>",
-      "updated": 1790381437,
-      "_links": {
-         "self": {
-            "href": "https://api.tvmaze.com/shows/94701"
-         }
-      }
-   },
-   {
       "id": 94702,
       "url": "https://www.tvmaze.com/shows/94702/guyu-jie-hou-xiang",
       "name": "Guyu Jie Hou Xiang",
@@ -11171,7 +11035,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -11215,7 +11079,7 @@
          "Comedy",
          "Supernatural"
       ],
-      "status": "In Development",
+      "status": "Running",
       "runtime": null,
       "averageRuntime": 29,
       "premiered": "2026-10-04",
@@ -11228,7 +11092,7 @@
       "rating": {
          "average": null
       },
-      "weight": 93,
+      "weight": 94,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -11251,14 +11115,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609046.jpg"
       },
       "summary": "<p>Set in a timeless English village, where everything is picturesque, everything, that is, except for the vampires living in the castle on the hill who come out at night for a little drink of the locals.</p><p>Val has been raised in a very typical vampire family but has always felt a bit different and hopelessly inept at rising to meet his Dad's high standards. Following a surprise encounter with his reflection, he realises he is not undead, not in the least bit.</p><p>Now with a big secret to hide, Val must navigate finding out who he truly is, by mingling with the locals to learn the intricacies of their behaviour and what it means to be human. Caught between two worlds as he loves his Mum and Dad (not so much his jealous brother) and has full vampire duties expected of him by his father, whose obsession with the traditional way of life is tricky when they're undead and the villagers despise them.</p>",
-      "updated": 1790754293,
+      "updated": 1791091269,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94703"
          },
-         "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3772195",
-            "name": "Episode 1"
+         "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/3772200",
+            "name": "Episode 6"
          }
       }
    },
@@ -11285,7 +11149,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 39,
       "network": {
          "id": 1315,
          "name": "RTS1",
@@ -11343,7 +11207,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 50,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -11401,7 +11265,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 51,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -11455,7 +11319,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 58,
       "network": null,
       "webChannel": {
          "id": 651,
@@ -11507,7 +11371,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 54,
       "network": {
          "id": 314,
          "name": "TVNorge",
@@ -11569,7 +11433,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 51,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -11623,7 +11487,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 53,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -11714,8 +11578,8 @@
    },
    {
       "id": 94712,
-      "url": "https://www.tvmaze.com/shows/94712/class-clown",
-      "name": "Class Clown",
+      "url": "https://www.tvmaze.com/shows/94712/class-clowns",
+      "name": "Class Clowns",
       "type": "Reality",
       "language": "English",
       "genres": [
@@ -11736,7 +11600,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 79,
       "network": null,
       "webChannel": {
          "id": 149,
@@ -11759,7 +11623,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1607835.jpg"
       },
       "summary": "<p>A misfit crew of comedians head back to school in the all-new series <b>Class Clowns</b>.</p><p>Under the watchful eye of Principal Julia Morris, comedians Bron Lewis and Luke McGregor, Becky Lucas, Matt Okine, Nina Oyama\u00a0and Dave Hughes,\u00a0are divided into three houses, Redbacks, Cane Toads and Bin Chickens, to battle it out for house points and the coveted <i>Class Clowns</i> Cup.</p><p>From Biology and Drama to Mathematics, Geography, Gymnastics, Physics and more, every assignment offers the chance to earn praise and points. But impressing Principal Morris won't come easy. As she reminds her students, house points are a privilege, not a right.</p><p>Packed with outrageous challenges, fierce competition and plenty of laughs, Class Clowns proves that even professional comedians will do almost anything for bragging rights and a trophy.</p>",
-      "updated": 1790727526,
+      "updated": 1791057690,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94712"
@@ -11795,7 +11659,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 49,
       "network": {
          "id": 1447,
          "name": "\u0391\u039d\u03a41",
@@ -11897,12 +11761,12 @@
             "href": "https://api.tvmaze.com/shows/94714"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3774714",
-            "name": "Episode 8"
+            "href": "https://api.tvmaze.com/episodes/3774718",
+            "name": "Episode 12"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3774715",
-            "name": "Episode 9"
+            "href": "https://api.tvmaze.com/episodes/3774719",
+            "name": "Episode 13"
          }
       }
    },
@@ -11930,7 +11794,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 49,
       "network": {
          "id": 1444,
          "name": "\u039d\u0395\u03a4",
@@ -12045,7 +11909,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 26,
       "network": {
          "id": 1447,
          "name": "\u0391\u039d\u03a41",
@@ -12104,7 +11968,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 50,
       "network": {
          "id": 72,
          "name": "Syndication",
@@ -12162,7 +12026,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 52,
       "network": {
          "id": 67,
          "name": "Global",
@@ -12216,7 +12080,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 337,
@@ -12274,7 +12138,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 50,
       "network": null,
       "webChannel": {
          "id": 281,
@@ -12334,7 +12198,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 60,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -12384,7 +12248,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 50,
       "network": {
          "id": 1044,
          "name": "\u042e",
@@ -12413,12 +12277,12 @@
             "href": "https://api.tvmaze.com/shows/94723"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3772755",
-            "name": "\u0412\u044b\u043f\u0443\u0441\u043a 3"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3772756",
             "name": "\u0412\u044b\u043f\u0443\u0441\u043a 4"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3772757",
+            "name": "\u0412\u044b\u043f\u0443\u0441\u043a 5"
          }
       }
    },
@@ -12499,7 +12363,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 337,
@@ -12553,7 +12417,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 55,
       "network": {
          "id": 334,
          "name": "TVN",
@@ -12647,12 +12511,12 @@
             "href": "https://api.tvmaze.com/shows/94727"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3772821",
-            "name": "Episode 16"
+            "href": "https://api.tvmaze.com/episodes/3772825",
+            "name": "Episode 20"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3772822",
-            "name": "Episode 17"
+            "href": "https://api.tvmaze.com/episodes/3772826",
+            "name": "Episode 21"
          }
       }
    },
@@ -12676,7 +12540,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 56,
       "network": null,
       "webChannel": {
          "id": 94,
@@ -12793,7 +12657,7 @@
       "rating": {
          "average": null
       },
-      "weight": 53,
+      "weight": 52,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -12884,12 +12748,12 @@
             "href": "https://api.tvmaze.com/shows/94731"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3772998",
-            "name": "Episode 14"
+            "href": "https://api.tvmaze.com/episodes/3773000",
+            "name": "Episode 16"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3772999",
-            "name": "Episode 15"
+            "href": "https://api.tvmaze.com/episodes/3773001",
+            "name": "Episode 17"
          }
       }
    },
@@ -13101,9 +12965,13 @@
          "self": {
             "href": "https://api.tvmaze.com/shows/94735"
          },
-         "nextepisode": {
+         "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3773310",
             "name": "Episode 1"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3773311",
+            "name": "Episode 2"
          }
       }
    },
@@ -13349,7 +13217,7 @@
       "rating": {
          "average": null
       },
-      "weight": 59,
+      "weight": 61,
       "network": {
          "id": 76,
          "name": "TV Tokyo",
@@ -13408,7 +13276,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 59,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -13571,7 +13439,7 @@
          "Anime",
          "Fantasy"
       ],
-      "status": "In Development",
+      "status": "Running",
       "runtime": 30,
       "averageRuntime": 30,
       "premiered": "2026-10-02",
@@ -13586,7 +13454,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 65,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -13609,14 +13477,18 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1608446.jpg"
       },
       "summary": "<p>The story of Aoki Denshou Welsh &amp; Shedar follows Welsh, a teenage boy from the country who loves to cook, and Shedar, a young prince who is destined to become king one day. When the two young men with very different lives are thrown together by a chance encounter, the wheels of fate begin to turn, and soon they must work together to bring about a peaceful future by stopping a cruel despot from conquering the world.</p>",
-      "updated": 1790679962,
+      "updated": 1791016948,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/94744"
          },
-         "nextepisode": {
+         "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3774364",
-            "name": "TBA"
+            "name": "Mushroom pie"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3779741",
+            "name": "Episode 2"
          }
       }
    },
@@ -13700,7 +13572,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 53,
       "network": {
          "id": 308,
          "name": "\u0422\u041d\u0422",
@@ -13728,7 +13600,7 @@
          "self": {
             "href": "https://api.tvmaze.com/shows/94746"
          },
-         "nextepisode": {
+         "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3774440",
             "name": "\u0412\u044b\u043f\u0443\u0441\u043a 1"
          }
@@ -13817,7 +13689,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 74,
       "network": null,
       "webChannel": {
          "id": 287,

@@ -25,7 +25,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 91,
+      "weight": 92,
       "network": {
          "id": 72,
          "name": "Syndication",
@@ -84,7 +84,7 @@
       "rating": {
          "average": 8.2
       },
-      "weight": 91,
+      "weight": 87,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -144,7 +144,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 93,
+      "weight": 92,
       "network": {
          "id": 72,
          "name": "Syndication",
@@ -202,7 +202,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 86,
+      "weight": 78,
       "network": {
          "id": 16,
          "name": "Syfy",
@@ -262,7 +262,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 95,
+      "weight": 87,
       "network": {
          "id": 71,
          "name": "The WB",
@@ -322,7 +322,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 97,
+      "weight": 87,
       "network": {
          "id": 11,
          "name": "Cartoon Network",
@@ -441,7 +441,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 95,
+      "weight": 87,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -500,7 +500,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 88,
+      "weight": 89,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -559,7 +559,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 94,
+      "weight": 91,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -619,7 +619,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 93,
+      "weight": 95,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -677,7 +677,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 94,
+      "weight": 95,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -735,7 +735,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 93,
+      "weight": 94,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -795,7 +795,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 93,
+      "weight": 92,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -853,7 +853,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 58,
+      "weight": 59,
       "network": {
          "id": 78,
          "name": "Disney Channel",
@@ -913,7 +913,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 96,
+      "weight": 78,
       "network": {
          "id": 9,
          "name": "Paramount+ with Showtime",
@@ -973,7 +973,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -1089,7 +1089,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 46,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -1145,7 +1145,7 @@
       "rating": {
          "average": null
       },
-      "weight": 70,
+      "weight": 62,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -1205,7 +1205,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -1261,7 +1261,7 @@
       "rating": {
          "average": 5.6
       },
-      "weight": 90,
+      "weight": 96,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -1317,7 +1317,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -1670,7 +1670,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 94,
+      "weight": 97,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -1728,7 +1728,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 56,
       "network": {
          "id": 174,
          "name": "Cooking Channel",
@@ -1786,7 +1786,7 @@
       "rating": {
          "average": 8.3
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -1842,7 +1842,7 @@
       "rating": {
          "average": null
       },
-      "weight": 81,
+      "weight": 88,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -1961,7 +1961,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 93,
+      "weight": 84,
       "network": {
          "id": 57,
          "name": "TV Land",
@@ -2017,7 +2017,7 @@
          ]
       },
       "rating": {
-         "average": 6.9
+         "average": 6.8
       },
       "weight": 98,
       "network": {
@@ -2082,7 +2082,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 94,
+      "weight": 92,
       "network": {
          "id": 82,
          "name": "Travel Channel",
@@ -2375,7 +2375,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -2495,7 +2495,7 @@
       "rating": {
          "average": 8.5
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 16,
          "name": "Syfy",
@@ -2555,7 +2555,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 98,
+      "weight": 99,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -2614,7 +2614,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 93,
+      "weight": 97,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -2637,7 +2637,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11457.jpg"
       },
       "summary": "<p>The universal themes of family, parenting, the battle of the sexes -- and of course, man's need for \"more power\" -- come to play each and every weekday on <b>Home Improvement</b>. Every episode finds Tim the \"Tool Man\" Taylor causing his share of goof-ups and mishaps and leaving his long-suffering wife, Jill, family and friends to mop up the mess.</p>",
-      "updated": 1777563126,
+      "updated": 1790946915,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/544"
@@ -2674,7 +2674,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 73,
+      "weight": 59,
       "network": null,
       "webChannel": {
          "id": 10,
@@ -2730,7 +2730,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 57,
+      "weight": 76,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -2848,7 +2848,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 74,
+      "weight": 77,
       "network": {
          "id": 41,
          "name": "E4",
@@ -2906,7 +2906,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 92,
+      "weight": 77,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -2966,7 +2966,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -3024,7 +3024,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -3047,7 +3047,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/500/1250735.jpg"
       },
       "summary": "<p><b>Curb Your Enthusiasm</b> stars <i>Seinfeld</i> co-creator Larry David as himself in an unsparing but tongue-in-cheek depiction of his life. Shot in a verite style and featuring celebrities playing themselves, the episodes are improvised by the actors from an outline created by David.</p>",
-      "updated": 1790882001,
+      "updated": 1790974385,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/551"
@@ -3139,7 +3139,7 @@
          ]
       },
       "rating": {
-         "average": 8
+         "average": 8.1
       },
       "weight": 98,
       "network": {
@@ -3320,7 +3320,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 91,
+      "weight": 92,
       "network": {
          "id": 47,
          "name": "FXX",
@@ -3440,7 +3440,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 49,
+      "weight": 95,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -3499,7 +3499,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 91,
+      "weight": 96,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -3559,7 +3559,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 98,
+      "weight": 96,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -3619,7 +3619,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 95,
+      "weight": 96,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -3702,7 +3702,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/641/1602766.jpg"
       },
       "summary": "<p>In the criminal justice system, the people are represented by two separate, yet equally important, groups: the police, who investigate crime; and the district attorneys, who prosecute the offenders. These are their stories.</p>",
-      "updated": 1790834030,
+      "updated": 1791100900,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/562"
@@ -3743,7 +3743,7 @@
       "rating": {
          "average": 8.4
       },
-      "weight": 99,
+      "weight": 98,
       "network": null,
       "webChannel": {
          "id": 287,
@@ -3798,7 +3798,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 96,
+      "weight": 77,
       "network": {
          "id": 13,
          "name": "FX",
@@ -3858,7 +3858,7 @@
       "rating": {
          "average": 8.7
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -3918,7 +3918,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -3977,7 +3977,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 96,
+      "weight": 95,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -4093,7 +4093,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 90,
+      "weight": 76,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -4150,7 +4150,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 96,
+      "weight": 94,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -4210,7 +4210,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 96,
+      "weight": 94,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -4269,7 +4269,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 53,
          "name": "History",
@@ -4329,7 +4329,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -4387,7 +4387,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 74,
+      "weight": 95,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -4445,7 +4445,7 @@
       "rating": {
          "average": 3.2
       },
-      "weight": 93,
+      "weight": 92,
       "network": {
          "id": 43,
          "name": "E!",
@@ -4503,7 +4503,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 98,
+      "weight": 95,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -4561,7 +4561,7 @@
       "rating": {
          "average": 8.5
       },
-      "weight": 97,
+      "weight": 94,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -4679,7 +4679,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 57,
+      "weight": 86,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -4857,7 +4857,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 97,
+      "weight": 94,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -4974,7 +4974,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 73,
+      "weight": 94,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -5092,7 +5092,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 85,
+      "weight": 59,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -5150,7 +5150,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 98,
+      "weight": 96,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -5207,7 +5207,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 72,
+      "weight": 75,
       "network": {
          "id": 10,
          "name": "Adult Swim",
@@ -5265,7 +5265,7 @@
       "rating": {
          "average": 5.9
       },
-      "weight": 92,
+      "weight": 86,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -5383,7 +5383,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 78,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -5439,7 +5439,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 88,
+      "weight": 89,
       "network": {
          "id": 83,
          "name": "National Geographic Wild",
@@ -5499,7 +5499,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 99,
+      "weight": 100,
       "network": null,
       "webChannel": {
          "id": 108,
@@ -5518,11 +5518,11 @@
          "imdb": "tt1091909"
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/586/1466282.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/586/1466282.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610487.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610487.jpg"
       },
       "summary": "<p>Set in Toronto at the dawn of the 20th century, <b>Murdoch Mysteries </b>is a one-hour drama series that explores the intriguing world of William Murdoch, a methodical and dashing detective who pioneers innovative forensic techniques to solve some of the city's most gruesome murders. Murdoch's colleagues include the love of his life, coroner and psychiatrist Dr. Julia Ogden, a staunch ally who shares the detective's fascination for science; Constable George Crabtree, Murdoch's eager but sometimes na\u00efve right-hand man; Inspector Brackenreid, Murdoch's skeptical yet reluctantly supportive boss; and coroner Dr. Emily Grace, Dr. Ogden's prot\u00e9g\u00e9.</p>",
-      "updated": 1788720035,
+      "updated": 1791070312,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/593"
@@ -5530,6 +5530,10 @@
          "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3533136",
             "name": "Hell of a Woman"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3780012",
+            "name": "The Maltese Falconer"
          }
       }
    },
@@ -5675,7 +5679,7 @@
       "rating": {
          "average": 4.4
       },
-      "weight": 96,
+      "weight": 97,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -5792,7 +5796,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 33,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -5846,7 +5850,7 @@
       "rating": {
          "average": null
       },
-      "weight": 58,
+      "weight": 72,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -5900,7 +5904,7 @@
       "rating": {
          "average": null
       },
-      "weight": 69,
+      "weight": 42,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -5956,7 +5960,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 63,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -6071,7 +6075,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 82,
       "network": {
          "id": 82,
          "name": "Travel Channel",
@@ -6130,7 +6134,7 @@
       "rating": {
          "average": null
       },
-      "weight": 65,
+      "weight": 72,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -6190,7 +6194,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 70,
+      "weight": 85,
       "network": {
          "id": 86,
          "name": "Smithsonian Channel",
@@ -6249,7 +6253,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 56,
+      "weight": 57,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -6367,7 +6371,7 @@
       "rating": {
          "average": null
       },
-      "weight": 84,
+      "weight": 69,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -6487,7 +6491,7 @@
       "rating": {
          "average": 6.6
       },
-      "weight": 85,
+      "weight": 76,
       "network": {
          "id": 22,
          "name": "MTV",
@@ -6665,7 +6669,7 @@
       "rating": {
          "average": null
       },
-      "weight": 69,
+      "weight": 33,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -6725,7 +6729,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 96,
+      "weight": 87,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -6844,7 +6848,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 63,
       "network": {
          "id": 28,
          "name": "NewsNation",
@@ -6963,7 +6967,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 85,
+      "weight": 76,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -7019,7 +7023,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 32,
       "network": {
          "id": 28,
          "name": "NewsNation",
@@ -7078,7 +7082,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 91,
+      "weight": 95,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -7134,7 +7138,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 92,
+      "weight": 86,
       "network": {
          "id": 55,
          "name": "VH1",
@@ -7190,7 +7194,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 32,
       "network": {
          "id": 75,
          "name": "REELZ",
@@ -7249,7 +7253,7 @@
       "rating": {
          "average": 6.1
       },
-      "weight": 89,
+      "weight": 94,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -7309,7 +7313,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 95,
+      "weight": 96,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -7365,7 +7369,7 @@
       "rating": {
          "average": null
       },
-      "weight": 67,
+      "weight": 39,
       "network": {
          "id": 88,
          "name": "Pop",
@@ -7423,7 +7427,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 31,
       "network": {
          "id": 81,
          "name": "Food Network",
@@ -7595,7 +7599,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 49,
       "network": {
          "id": 89,
          "name": "Investigation Discovery",
@@ -7651,7 +7655,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 38,
       "network": {
          "id": 81,
          "name": "Food Network",
@@ -7827,7 +7831,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 37,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -7887,7 +7891,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 72,
+      "weight": 57,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -8002,7 +8006,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 39,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -8120,7 +8124,7 @@
       "rating": {
          "average": null
       },
-      "weight": 33,
+      "weight": 40,
       "network": {
          "id": 90,
          "name": "Magnolia Network",
@@ -8178,7 +8182,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 89,
+      "weight": 47,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -8234,7 +8238,7 @@
       "rating": {
          "average": null
       },
-      "weight": 52,
+      "weight": 37,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -8292,7 +8296,7 @@
       "rating": {
          "average": null
       },
-      "weight": 67,
+      "weight": 58,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -8350,7 +8354,7 @@
       "rating": {
          "average": null
       },
-      "weight": 73,
+      "weight": 58,
       "network": {
          "id": 84,
          "name": "truTV",
@@ -8406,7 +8410,7 @@
       "rating": {
          "average": null
       },
-      "weight": 31,
+      "weight": 24,
       "network": {
          "id": 55,
          "name": "VH1",
@@ -8462,7 +8466,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 45,
       "network": {
          "id": 79,
          "name": "Oxygen True Crime",
@@ -8521,7 +8525,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 53,
+      "weight": 46,
       "network": {
          "id": 18,
          "name": "Lifetime",
@@ -8577,7 +8581,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 31,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -8633,7 +8637,7 @@
       "rating": {
          "average": null
       },
-      "weight": 68,
+      "weight": 53,
       "network": {
          "id": 18,
          "name": "Lifetime",
@@ -8689,7 +8693,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 88,
+      "weight": 54,
       "network": {
          "id": 21,
          "name": "El Rey Network",
@@ -8745,7 +8749,7 @@
       "rating": {
          "average": null
       },
-      "weight": 61,
+      "weight": 38,
       "network": {
          "id": 29,
          "name": "A&E",
@@ -8805,7 +8809,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 97,
+      "weight": 95,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -8863,7 +8867,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 90,
+      "weight": 91,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -8983,7 +8987,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 85,
+      "weight": 94,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -9042,7 +9046,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 17,
          "name": "STARZ",
@@ -9157,7 +9161,7 @@
       "rating": {
          "average": 7.2
       },
-      "weight": 93,
+      "weight": 94,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -9217,7 +9221,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -9396,7 +9400,7 @@
       "rating": {
          "average": 8.5
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -9456,7 +9460,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 97,
+      "weight": 91,
       "network": {
          "id": 18,
          "name": "Lifetime",
@@ -9516,7 +9520,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 98,
+      "weight": 96,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -9576,7 +9580,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 96,
+      "weight": 86,
       "network": {
          "id": 73,
          "name": "Nicktoons",
@@ -9699,7 +9703,7 @@
       "rating": {
          "average": 8.4
       },
-      "weight": 99,
+      "weight": 98,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -9818,7 +9822,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 96,
+      "weight": 98,
       "network": {
          "id": 78,
          "name": "Disney Channel",
@@ -9841,7 +9845,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/595/1489325.jpg"
       },
       "summary": "<p><b>Phineas and Ferb</b> are Phineas Flynn and his stepbrother, Ferb Fletcher who are determined to make every day of their summer vacation fun. They try building a full-scale roller coaster, becoming musicians, building a backyard beach, and traveling back in time to meet dinosaurs. Their family pet, Perry the Platypus, doubles as a secret agent and battles evil. Meanwhile, older sister Candace is tattling on them to Mom and Dad, though she can never seem to catch them in the act.</p>",
-      "updated": 1782416821,
+      "updated": 1790914178,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/672"
@@ -9849,6 +9853,10 @@
          "previousepisode": {
             "href": "https://api.tvmaze.com/episodes/3510110",
             "name": "VENDPOCALYPSE THE MUSICAL"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3778651",
+            "name": "Night of the Living Candace Suits"
          }
       }
    },
@@ -9878,7 +9886,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 70,
          "name": "UPN",
@@ -9938,7 +9946,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 97,
+      "weight": 95,
       "network": {
          "id": 14,
          "name": "TNT",
@@ -10054,7 +10062,7 @@
       "rating": {
          "average": 7
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -10114,7 +10122,7 @@
       "rating": {
          "average": 8.4
       },
-      "weight": 97,
+      "weight": 92,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -10172,7 +10180,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 98,
+      "weight": 96,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -10231,7 +10239,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 97,
+      "weight": 87,
       "network": {
          "id": 31,
          "name": "Audience Network",
@@ -10291,7 +10299,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 71,
+      "weight": 86,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -10351,7 +10359,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 84,
+      "weight": 91,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -10530,7 +10538,7 @@
       "rating": {
          "average": 7.1
       },
-      "weight": 94,
+      "weight": 93,
       "network": {
          "id": 30,
          "name": "USA Network",
@@ -10590,7 +10598,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 89,
+      "weight": 90,
       "network": {
          "id": 18,
          "name": "Lifetime",
@@ -10763,7 +10771,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 95,
+      "weight": 75,
       "network": {
          "id": 28,
          "name": "NewsNation",
@@ -10823,7 +10831,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 98,
+      "weight": 97,
       "network": null,
       "webChannel": {
          "id": 329,
@@ -10878,7 +10886,7 @@
       "rating": {
          "average": 6
       },
-      "weight": 96,
+      "weight": 95,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -10942,7 +10950,7 @@
       "rating": {
          "average": 3.8
       },
-      "weight": 90,
+      "weight": 89,
       "network": {
          "id": 540,
          "name": "PBS Kids",
@@ -11000,7 +11008,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -11058,7 +11066,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 92,
+      "weight": 90,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -11116,7 +11124,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 98,
+      "weight": 97,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -11177,7 +11185,7 @@
       "rating": {
          "average": 6.5
       },
-      "weight": 83,
+      "weight": 54,
       "network": {
          "id": 24,
          "name": "MBS",
@@ -11236,7 +11244,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 84,
+      "weight": 55,
       "network": {
          "id": 35,
          "name": "ITV1",
@@ -11292,7 +11300,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 87,
+      "weight": 72,
       "network": null,
       "webChannel": {
          "id": 48,
@@ -11354,7 +11362,7 @@
       "rating": {
          "average": 6.2
       },
-      "weight": 42,
+      "weight": 73,
       "network": {
          "id": 85,
          "name": "PBS",
@@ -11412,7 +11420,7 @@
       "rating": {
          "average": null
       },
-      "weight": 86,
+      "weight": 81,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -11470,7 +11478,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 98,
+      "weight": 96,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -11524,7 +11532,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 51,
+      "weight": 83,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -11603,22 +11611,22 @@
          "imdb": "tt1800864"
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/597/1492601.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/597/1492601.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610104.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610104.jpg"
       },
       "summary": "<p><b>Gold Rush</b> follows six men who, in the face of an economic meltdown, risk everything - their families, their dignity, and in some cases, their lives - to strike it rich mining for gold in the wilds of Alaska. Inspired by his father Jack, Todd Hoffman of Sandy, Oregon, leads a group of greenhorn miners to forge a new frontier and save their families from dire straits. While leasing a gold claim in Alaska, Todd and his company of newbies face the grandeur of Alaska as well as its hardships, including an impending winter that will halt operations and the opportunity to strike gold. In an effort to keep the operation running, the team takes fate into their own hands with a make or break venture that will change their lives forever.</p>",
-      "updated": 1790874913,
+      "updated": 1790971793,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/702"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3597227",
-            "name": "Klondike Shoot-Out"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3725043",
             "name": "The Most Gold Wins"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3771319",
+            "name": "A Midas Mess"
          }
       }
    },
@@ -11646,7 +11654,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 96,
+      "weight": 97,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -11759,7 +11767,7 @@
       "rating": {
          "average": 7.8
       },
-      "weight": 96,
+      "weight": 91,
       "network": {
          "id": 66,
          "name": "Discovery",
@@ -11879,7 +11887,7 @@
       "rating": {
          "average": 6.4
       },
-      "weight": 94,
+      "weight": 95,
       "network": {
          "id": 78,
          "name": "Disney Channel",
@@ -11911,7 +11919,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15008.jpg"
       },
       "summary": "<p><b>Sofia the First</b> is a about a little girl, a commoner, until her mom marries the king and suddenly she's royalty.</p>",
-      "updated": 1788138089,
+      "updated": 1790962639,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/707"
@@ -11948,7 +11956,7 @@
       "rating": {
          "average": 7.9
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 91,
          "name": "NRK1",
@@ -12008,7 +12016,7 @@
       "rating": {
          "average": 7.6
       },
-      "weight": 71,
+      "weight": 74,
       "network": {
          "id": 63,
          "name": "Sky Showcase",
@@ -12126,7 +12134,7 @@
       "rating": {
          "average": 7.7
       },
-      "weight": 83,
+      "weight": 85,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -12423,7 +12431,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 97,
+      "weight": 98,
       "network": {
          "id": 1,
          "name": "NBC",
@@ -12508,7 +12516,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/640/1601382.jpg"
       },
       "summary": "<p>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's \"The Tonight Show\" back to its New York origins when he launched <b>The Tonight Show Starring Jimmy Fallon </b>from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</p>",
-      "updated": 1790828607,
+      "updated": 1791106881,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/718"
@@ -12545,7 +12553,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 70,
+      "weight": 48,
       "network": {
          "id": 92,
          "name": "Animal Planet",
@@ -12604,7 +12612,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 94,
+      "weight": 74,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -12660,7 +12668,7 @@
       "rating": {
          "average": null
       },
-      "weight": 76,
+      "weight": 78,
       "network": {
          "id": 53,
          "name": "History",
@@ -12778,7 +12786,7 @@
       "rating": {
          "average": 6.4
       },
-      "weight": 88,
+      "weight": 86,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -12843,7 +12851,7 @@
       "rating": {
          "average": null
       },
-      "weight": 63,
+      "weight": 42,
       "network": {
          "id": 53,
          "name": "History",
@@ -12901,7 +12909,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 85,
+      "weight": 69,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -12957,7 +12965,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 83,
+      "weight": 53,
       "network": {
          "id": 93,
          "name": "CNBC",
@@ -13016,7 +13024,7 @@
       "rating": {
          "average": 7.4
       },
-      "weight": 97,
+      "weight": 95,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -13075,7 +13083,7 @@
       "rating": {
          "average": 8
       },
-      "weight": 90,
+      "weight": 94,
       "network": {
          "id": 34,
          "name": "Paramount Network",
@@ -13133,7 +13141,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 94,
+      "weight": 96,
       "network": {
          "id": 34,
          "name": "Paramount Network",
@@ -13191,7 +13199,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 97,
+      "weight": 92,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -13251,7 +13259,7 @@
       "rating": {
          "average": 6.9
       },
-      "weight": 91,
+      "weight": 87,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -13311,7 +13319,7 @@
       "rating": {
          "average": 7.3
       },
-      "weight": 90,
+      "weight": 86,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -13371,7 +13379,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 98,
+      "weight": 96,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -13431,7 +13439,7 @@
       "rating": {
          "average": 7.5
       },
-      "weight": 82,
+      "weight": 92,
       "network": {
          "id": 5,
          "name": "The CW",
@@ -13487,7 +13495,7 @@
       "rating": {
          "average": 5.4
       },
-      "weight": 92,
+      "weight": 87,
       "network": {
          "id": 27,
          "name": "Nickelodeon",
@@ -13543,7 +13551,7 @@
       "rating": {
          "average": null
       },
-      "weight": 51,
+      "weight": 34,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -13601,7 +13609,7 @@
       "rating": {
          "average": 6.8
       },
-      "weight": 84,
+      "weight": 94,
       "network": {
          "id": 2,
          "name": "CBS",
@@ -13717,7 +13725,7 @@
       "rating": {
          "average": null
       },
-      "weight": 64,
+      "weight": 48,
       "network": {
          "id": 4,
          "name": "FOX",
@@ -13776,7 +13784,7 @@
       "rating": {
          "average": 6.3
       },
-      "weight": 94,
+      "weight": 86,
       "network": {
          "id": 26,
          "name": "Freeform",
@@ -13834,7 +13842,7 @@
       "rating": {
          "average": 3.3
       },
-      "weight": 97,
+      "weight": 96,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -13891,7 +13899,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 65,
       "network": {
          "id": 3,
          "name": "ABC",
@@ -13947,7 +13955,7 @@
       "rating": {
          "average": 6.3
       },
-      "weight": 96,
+      "weight": 97,
       "network": {
          "id": 52,
          "name": "Bravo",
@@ -14007,7 +14015,7 @@
       "rating": {
          "average": 8.1
       },
-      "weight": 96,
+      "weight": 97,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -14130,7 +14138,7 @@
       "rating": {
          "average": 8.7
       },
-      "weight": 94,
+      "weight": 97,
       "network": {
          "id": 8,
          "name": "HBO",

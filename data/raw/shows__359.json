@@ -19,7 +19,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 25,
       "network": {
          "id": 1621,
          "name": "\u0420\u0422\u0420-\u041f\u043b\u0430\u043d\u0435\u0442\u0430",
@@ -75,7 +75,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 307,
          "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -126,7 +126,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 780,
          "name": "\u0414\u043e\u043c \u043a\u0438\u043d\u043e",
@@ -182,7 +182,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 51,
       "network": {
          "id": 539,
          "name": "TVA",
@@ -238,7 +238,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 1899,
          "name": "UN3",
@@ -358,7 +358,7 @@
       "rating": {
          "average": null
       },
-      "weight": 79,
+      "weight": 91,
       "network": {
          "id": 231,
          "name": "Sky Atlantic",
@@ -412,7 +412,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -459,7 +459,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": null,
       "webChannel": {
          "id": 208,
@@ -512,7 +512,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 423,
@@ -626,7 +626,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 30,
       "network": {
          "id": 37,
          "name": "BBC Two",
@@ -687,7 +687,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 24,
       "network": {
          "id": 128,
          "name": "KBS2",
@@ -748,7 +748,7 @@
       "rating": {
          "average": null
       },
-      "weight": 62,
+      "weight": 68,
       "network": {
          "id": 128,
          "name": "KBS2",
@@ -806,7 +806,7 @@
       "rating": {
          "average": null
       },
-      "weight": 32,
+      "weight": 68,
       "network": {
          "id": 1897,
          "name": "ENA",
@@ -867,7 +867,7 @@
       "rating": {
          "average": null
       },
-      "weight": 42,
+      "weight": 43,
       "network": {
          "id": 280,
          "name": "tvN",
@@ -977,7 +977,7 @@
       "rating": {
          "average": null
       },
-      "weight": 71,
+      "weight": 69,
       "network": null,
       "webChannel": {
          "id": 26,
@@ -1031,7 +1031,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 36,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -1201,7 +1201,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -1317,7 +1317,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -1483,7 +1483,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 552,
@@ -1657,7 +1657,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 48,
       "network": {
          "id": 137,
          "name": "NTV",
@@ -1715,7 +1715,7 @@
       "rating": {
          "average": null
       },
-      "weight": 9,
+      "weight": 43,
       "network": {
          "id": 251,
          "name": "Seven Network",
@@ -1827,7 +1827,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 245,
          "name": "ABC",
@@ -1881,7 +1881,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -1937,7 +1937,7 @@
       "rating": {
          "average": 6.7
       },
-      "weight": 94,
+      "weight": 96,
       "network": {
          "id": 127,
          "name": "SBS",
@@ -2045,7 +2045,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 988,
          "name": "Here TV",
@@ -2265,7 +2265,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -2446,7 +2446,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -2554,7 +2554,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 33,
       "network": {
          "id": 248,
          "name": "G4",
@@ -2610,7 +2610,7 @@
       "rating": {
          "average": null
       },
-      "weight": 56,
+      "weight": 57,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -2633,14 +2633,14 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/608/1520483.jpg"
       },
       "summary": "<p>Anna Akechi is a 14-year-old second-year middle school student living in Makoto Mirai Town. On her birthday, guided by the fairy Pochitan and a pendant she finds in her room, she time-slips from 2027 to Makoto Mirai City in 1999. There, she meets Mikuru Kobayashi, a 14-year-old girl who dreams of becoming a detective. Suddenly, a robbery incident occurs, as someone has something precious to them stolen. Figuring that the \"Phantom Thieves\" may be responsible, and driven by the feeling that \"I can't ignore someone in trouble\", Anna and Mikuru transform into Cure Answer and Cure Mystique. Together, they become the Star Detective Precure, running the Cure It Detective Agency while solving mysteries and searching for a way for Anna to return to her original time.</p><p>\u00a0</p>",
-      "updated": 1790562053,
+      "updated": 1791105337,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/89796"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3763210",
-            "name": "Star Detective Of Love"
+            "href": "https://api.tvmaze.com/episodes/3780626",
+            "name": "The Gold Medal Of Trials"
          }
       }
    },
@@ -2736,7 +2736,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": {
          "id": 998,
          "name": "Azteca",
@@ -2793,7 +2793,7 @@
       "rating": {
          "average": null
       },
-      "weight": 65,
+      "weight": 87,
       "network": {
          "id": 8,
          "name": "HBO",
@@ -2851,7 +2851,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 97,
          "name": "Antena 3",
@@ -2908,7 +2908,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 239,
          "name": "\u0420\u043e\u0441\u0441\u0438\u044f 1",
@@ -3017,7 +3017,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 67,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -3071,7 +3071,7 @@
       "rating": {
          "average": 6.3
       },
-      "weight": 86,
+      "weight": 45,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -3125,7 +3125,7 @@
       "rating": {
          "average": null
       },
-      "weight": 34,
+      "weight": 15,
       "network": null,
       "webChannel": {
          "id": 238,
@@ -3182,7 +3182,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 238,
@@ -3348,7 +3348,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 238,
@@ -3464,7 +3464,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 7,
       "network": {
          "id": 155,
          "name": "SVT1",
@@ -3635,7 +3635,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 718,
          "name": "Channel 3",
@@ -3692,7 +3692,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 6,
       "network": {
          "id": 165,
          "name": "RT\u00c9 ONE",
@@ -3756,7 +3756,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 995,
          "name": "Venevisi\u00f3n",
@@ -3873,7 +3873,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 1795,
          "name": "ETB1",
@@ -3931,7 +3931,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": null,
       "webChannel": {
          "id": 471,
@@ -4169,7 +4169,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 238,
@@ -4335,7 +4335,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 34,
       "network": {
          "id": 66,
          "name": "Discovery",
@@ -4389,7 +4389,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 275,
          "name": "TG4",
@@ -4446,7 +4446,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 11,
       "network": {
          "id": 229,
          "name": "AHC",
@@ -4561,7 +4561,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 1567,
          "name": "TBC",
@@ -4679,7 +4679,7 @@
       "rating": {
          "average": null
       },
-      "weight": 46,
+      "weight": 39,
       "network": {
          "id": 1010,
          "name": "Czechoslovak Television",
@@ -4795,7 +4795,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 99,
          "name": "TVE",
@@ -4851,7 +4851,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 307,
          "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -4908,7 +4908,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 6,
       "network": {
          "id": 1262,
          "name": "One31",
@@ -5138,9 +5138,9 @@
          ]
       },
       "rating": {
-         "average": 6.6
+         "average": 6.7
       },
-      "weight": 98,
+      "weight": 99,
       "network": null,
       "webChannel": {
          "id": 740,
@@ -5169,12 +5169,12 @@
             "href": "https://api.tvmaze.com/shows/89844"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3544417",
-            "name": "Whispering Pines"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3777607",
             "name": "SendOff"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3777609",
+            "name": "Open Frequency"
          }
       }
    },
@@ -5207,7 +5207,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 422,
          "name": "Telefe",
@@ -5534,7 +5534,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 239,
          "name": "\u0420\u043e\u0441\u0441\u0438\u044f 1",
@@ -5602,7 +5602,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 307,
          "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -5661,7 +5661,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 307,
          "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -5717,7 +5717,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 495,
          "name": "\u0414\u043e\u043c\u0430\u0448\u043d\u0438\u0439",
@@ -5936,7 +5936,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 514,
          "name": "\u0422\u0412-3",
@@ -6042,7 +6042,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 1375,
          "name": "\u041c\u043e\u044f \u041f\u043b\u0430\u043d\u0435\u0442\u0430",
@@ -6092,7 +6092,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": {
          "id": 1375,
          "name": "\u041c\u043e\u044f \u041f\u043b\u0430\u043d\u0435\u0442\u0430",
@@ -6142,7 +6142,7 @@
       "rating": {
          "average": null
       },
-      "weight": 34,
+      "weight": 38,
       "network": null,
       "webChannel": {
          "id": 522,
@@ -6204,7 +6204,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 1000,
          "name": "RCN Televisi\u00f3n",
@@ -6260,7 +6260,7 @@
       "rating": {
          "average": null
       },
-      "weight": 65,
+      "weight": 54,
       "network": {
          "id": 80,
          "name": "TLC",
@@ -6376,7 +6376,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 374,
          "name": "TV Globo",
@@ -6490,7 +6490,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": {
          "id": 249,
          "name": "France 3",
@@ -6548,7 +6548,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 135,
          "name": "5",
@@ -6609,7 +6609,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": {
          "id": 374,
          "name": "TV Globo",
@@ -6665,7 +6665,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 36,
       "network": null,
       "webChannel": {
          "id": 109,
@@ -6833,7 +6833,7 @@
       "rating": {
          "average": null
       },
-      "weight": 78,
+      "weight": 79,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -6934,7 +6934,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 39,
       "network": {
          "id": 307,
          "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -7217,7 +7217,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 1733,
          "name": "Televisa",
@@ -7279,7 +7279,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 1075,
          "name": "\u0426\u0422 \u0421\u0421\u0421\u0420",
@@ -7388,7 +7388,7 @@
       "rating": {
          "average": null
       },
-      "weight": 7,
+      "weight": 30,
       "network": {
          "id": 42,
          "name": "National Geographic",
@@ -7446,7 +7446,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 7,
       "network": {
          "id": 635,
          "name": "Animal Planet",
@@ -7622,7 +7622,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 998,
          "name": "Azteca",
@@ -7676,7 +7676,7 @@
       "rating": {
          "average": null
       },
-      "weight": 55,
+      "weight": 57,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -7782,7 +7782,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 307,
          "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
@@ -7892,7 +7892,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 514,
          "name": "\u0422\u0412-3",
@@ -8024,21 +8024,21 @@
          "imdb": "tt39379365"
       },
       "image": {
-         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/642/1607482.jpg",
-         "original": "https://static.tvmaze.com/uploads/images/original_untouched/642/1607482.jpg"
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/643/1609928.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609928.jpg"
       },
       "summary": "<p>The prequel to the award-winning gangster drama \u20184 Blocks' tells the story of the Hamadys in 1990s Berlin: having fled Lebanon and only accepted as tolerated refugees in Germany, they struggle to gain a foothold in their new home. Who are they, how did the family become the most influential clan in the city, and how did Ali eventually become Toni?</p>",
-      "updated": 1790354687,
+      "updated": 1790944601,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/89896"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3693483",
-            "name": "Willkommen in Deutschland"
+            "href": "https://api.tvmaze.com/episodes/3771615",
+            "name": "Ignazio"
          },
          "nextepisode": {
-            "href": "https://api.tvmaze.com/episodes/3771615",
+            "href": "https://api.tvmaze.com/episodes/3771616",
             "name": "TBA"
          }
       }
@@ -8188,7 +8188,7 @@
       "rating": {
          "average": null
       },
-      "weight": 54,
+      "weight": 35,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -8240,7 +8240,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 139,
          "name": "SBS 6",
@@ -8362,7 +8362,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 9,
       "network": {
          "id": 281,
          "name": "NHK",
@@ -8469,7 +8469,7 @@
       "rating": {
          "average": null
       },
-      "weight": 44,
+      "weight": 80,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -8811,7 +8811,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 12,
       "network": {
          "id": 1020,
          "name": "NPO 3",
@@ -8864,7 +8864,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 2,
       "network": {
          "id": 529,
          "name": "Las Estrellas",
@@ -8920,7 +8920,7 @@
       "rating": {
          "average": 8.5
       },
-      "weight": 87,
+      "weight": 91,
       "network": {
          "id": 45,
          "name": "Channel 4",
@@ -9091,7 +9091,7 @@
       "rating": {
          "average": null
       },
-      "weight": 65,
+      "weight": 90,
       "network": null,
       "webChannel": {
          "id": 107,
@@ -9242,7 +9242,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 67,
@@ -9476,7 +9476,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 9,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -9536,7 +9536,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 43,
       "network": null,
       "webChannel": {
          "id": 367,
@@ -9588,7 +9588,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 11,
       "network": {
          "id": 129,
          "name": "TF1",
@@ -9698,7 +9698,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 300,
          "name": "\u041d\u0422\u0412",
@@ -9892,7 +9892,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 297,
          "name": "CCTV-8",
@@ -9961,7 +9961,7 @@
       "rating": {
          "average": null
       },
-      "weight": 26,
+      "weight": 7,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -10017,7 +10017,7 @@
       "rating": {
          "average": null
       },
-      "weight": 34,
+      "weight": 16,
       "network": {
          "id": 263,
          "name": "TV Asahi",
@@ -10129,7 +10129,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": {
          "id": 501,
          "name": "\u0417\u0432\u0435\u0437\u0434\u0430",
@@ -10183,7 +10183,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 501,
          "name": "\u0417\u0432\u0435\u0437\u0434\u0430",
@@ -10358,7 +10358,7 @@
       "rating": {
          "average": null
       },
-      "weight": 40,
+      "weight": 30,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -10418,7 +10418,7 @@
       "rating": {
          "average": null
       },
-      "weight": 22,
+      "weight": 3,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -10483,7 +10483,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -10605,7 +10605,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 505,
          "name": "\u0420\u0415\u041d \u0422\u0412",
@@ -10665,7 +10665,7 @@
       "rating": {
          "average": null
       },
-      "weight": 39,
+      "weight": 61,
       "network": null,
       "webChannel": {
          "id": 51,
@@ -10777,7 +10777,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -10835,7 +10835,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -11005,7 +11005,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 39,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -11281,7 +11281,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 48,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -11346,7 +11346,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -11404,7 +11404,7 @@
       "rating": {
          "average": null
       },
-      "weight": 47,
+      "weight": 48,
       "network": {
          "id": 12,
          "name": "BBC One",
@@ -11573,7 +11573,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 3,
       "network": {
          "id": 513,
          "name": "Canal 9",
@@ -11848,7 +11848,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 25,
       "network": {
          "id": 1500,
          "name": "\u0420\u043e\u0441\u0441\u0438\u044f 2",
@@ -12058,7 +12058,7 @@
       "rating": {
          "average": null
       },
-      "weight": 49,
+      "weight": 16,
       "network": {
          "id": 236,
          "name": "Oprah Winfrey Network",
@@ -12114,7 +12114,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 275,
          "name": "TG4",
@@ -12234,7 +12234,7 @@
       "rating": {
          "average": null
       },
-      "weight": 77,
+      "weight": 42,
       "network": {
          "id": 132,
          "name": "Tokyo MX",
@@ -12276,12 +12276,13 @@
       "language": "Korean",
       "genres": [
          "Drama",
+         "Thriller",
          "Mystery"
       ],
       "status": "In Development",
       "runtime": null,
       "averageRuntime": null,
-      "premiered": null,
+      "premiered": "2026-11-20",
       "ended": null,
       "officialSite": null,
       "schedule": {
@@ -12291,7 +12292,7 @@
       "rating": {
          "average": null
       },
-      "weight": 35,
+      "weight": 86,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -12305,12 +12306,19 @@
          "thetvdb": 460319,
          "imdb": null
       },
-      "image": null,
+      "image": {
+         "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/644/1610048.jpg",
+         "original": "https://static.tvmaze.com/uploads/images/original_untouched/644/1610048.jpg"
+      },
       "summary": "<p>The original work is the Korean-Japanese co-produced comic \"Blue Road.\" The original story follows Korean detective Kang Cheong-do and Japanese detective Ino Se as they investigate bizarre murders that occurred in both Korea and Japan.</p>",
-      "updated": 1768758789,
+      "updated": 1790965774,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/89972"
+         },
+         "nextepisode": {
+            "href": "https://api.tvmaze.com/episodes/3779357",
+            "name": "Episode 1"
          }
       }
    },
@@ -12336,7 +12344,7 @@
       "rating": {
          "average": null
       },
-      "weight": 11,
+      "weight": 12,
       "network": {
          "id": 336,
          "name": "TVP1",
@@ -12390,7 +12398,7 @@
       "rating": {
          "average": null
       },
-      "weight": 3,
+      "weight": 2,
       "network": {
          "id": 505,
          "name": "\u0420\u0415\u041d \u0422\u0412",
@@ -12508,7 +12516,7 @@
       "rating": {
          "average": null
       },
-      "weight": 10,
+      "weight": 46,
       "network": null,
       "webChannel": {
          "id": 104,
@@ -12566,7 +12574,7 @@
       "rating": {
          "average": null
       },
-      "weight": 2,
+      "weight": 25,
       "network": {
          "id": 262,
          "name": "KBS1",
@@ -12620,7 +12628,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 33,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -12675,7 +12683,7 @@
       "rating": {
          "average": null
       },
-      "weight": 89,
+      "weight": 92,
       "network": {
          "id": 131,
          "name": "Fuji TV",
@@ -12897,7 +12905,7 @@
       "rating": {
          "average": null
       },
-      "weight": 65,
+      "weight": 61,
       "network": null,
       "webChannel": {
          "id": 21,
@@ -12916,16 +12924,12 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/609/1523567.jpg"
       },
       "summary": "<p><b>WWE Lucha Libre AAA </b>highlights their partnership, blending WWE's global reach with AAA's rich Mexican tradition, focusing on shared talent like Rey Mysterio and Dominik Mysterio in explosive crossover events like <i>Worlds Collide</i> and <i>TripleMania</i>, showcasing vibrant lucha libre action for new audiences worldwide.\u00a0</p>",
-      "updated": 1790479981,
+      "updated": 1791084297,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/89983"
          },
          "previousepisode": {
-            "href": "https://api.tvmaze.com/episodes/3758667",
-            "name": "#36"
-         },
-         "nextepisode": {
             "href": "https://api.tvmaze.com/episodes/3772666",
             "name": "#37"
          }
@@ -13006,7 +13010,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 9,
       "network": {
          "id": 1020,
          "name": "NPO 3",
@@ -13062,7 +13066,7 @@
       "rating": {
          "average": null
       },
-      "weight": 6,
+      "weight": 30,
       "network": {
          "id": 300,
          "name": "\u041d\u0422\u0412",
@@ -13172,7 +13176,7 @@
       "rating": {
          "average": null
       },
-      "weight": 20,
+      "weight": 21,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -13228,7 +13232,7 @@
       "rating": {
          "average": null
       },
-      "weight": 43,
+      "weight": 54,
       "network": {
          "id": 1033,
          "name": "HOT3",
@@ -13285,7 +13289,7 @@
       "rating": {
          "average": null
       },
-      "weight": 29,
+      "weight": 11,
       "network": null,
       "webChannel": {
          "id": 736,
@@ -13343,7 +13347,7 @@
       "rating": {
          "average": null
       },
-      "weight": 41,
+      "weight": 77,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -13395,7 +13399,7 @@
       "rating": {
          "average": 4.3
       },
-      "weight": 87,
+      "weight": 44,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -13503,7 +13507,7 @@
       "rating": {
          "average": null
       },
-      "weight": 89,
+      "weight": 87,
       "network": null,
       "webChannel": {
          "id": 1,
@@ -13555,7 +13559,7 @@
       "rating": {
          "average": 4.7
       },
-      "weight": 97,
+      "weight": 98,
       "network": null,
       "webChannel": {
          "id": 3,
@@ -13607,7 +13611,7 @@
       "rating": {
          "average": null
       },
-      "weight": 12,
+      "weight": 11,
       "network": {
          "id": 205,
          "name": "NFL Network",
@@ -13650,7 +13654,7 @@
       "genres": [],
       "status": "In Development",
       "runtime": null,
-      "averageRuntime": null,
+      "averageRuntime": 60,
       "premiered": "2026-10-08",
       "ended": null,
       "officialSite": null,
@@ -13686,7 +13690,7 @@
          "original": "https://static.tvmaze.com/uploads/images/original_untouched/639/1598458.jpg"
       },
       "summary": "<p><b>Saban </b>tells the story of Nick Saban's extraordinary career, highlighted by his 17 seasons at Alabama, where he led the team to six national titles and reestablished the Crimson Tide as the preeminent program in college football.</p><p>The series will peel back the curtain on the long closely guarded world of Saban, with hundreds of hours of never-before-seen footage from the locker room and practice fields, as well as many other behind-the-scenes moments in his career at Alabama, and prior to that LSU, the Miami Dolphins, and Michigan State among other stops. There's also a wealth of present-day interviews with Saban and his wife, the legendary Ms. Terry Saban, whose own influence and impact played a massive role in Nick's success as a coach and leader.</p><p>Saban is a portrait of the relentless drive that powered seven national titles (six at Alabama, and one at LSU), produced four Heisman trophy winners, generations of NFL stars, and set a standard of greatness in college football that may never be met again. It also explores \"The Process,\" Saban's famed approach to coaching that transformed his teams and defined his leadership style.</p>",
-      "updated": 1788239331,
+      "updated": 1790924940,
       "_links": {
          "self": {
             "href": "https://api.tvmaze.com/shows/89997"
@@ -13724,7 +13728,7 @@
       "rating": {
          "average": null
       },
-      "weight": 21,
+      "weight": 43,
       "network": {
          "id": 304,
          "name": "\u0421\u0422\u0421",
@@ -13780,7 +13784,7 @@
       "rating": {
          "average": null
       },
-      "weight": 36,
+      "weight": 58,
       "network": null,
       "webChannel": {
          "id": 26,
